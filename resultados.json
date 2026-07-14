@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-14T15:25:09",
+ "gerado_em": "2026-07-14T13:19:39",
  "data": "2026-07-14",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -322,6 +322,79 @@
    "score": 50,
    "arquivos_baixados": [
     "PREG_O_ELETR_NICO_147_2026.pdf"
+   ]
+  },
+  {
+   "numero_controle": "02304470000174-1-000071/2026",
+   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Prestação de serviços de auxiliar de serviços gerais e serviços de garçonaria, com cessão de mão de obra, conforme especificações e quantitativos constantes no Termo de Referência, ANEXO I do edital.",
+   "valor_estimado": 10224171.84,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-08T07:27:01",
+   "data_abertura_proposta": "2026-06-08T08:00:00",
+   "data_encerramento_proposta": "2026-06-24T15:00:00",
+   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/71",
+   "score": 59,
+   "arquivos_baixados": [
+    "92662905900242026000.pdf"
+   ]
+  },
+  {
+   "numero_controle": "27165554000103-1-000260/2026",
+   "orgao": "MUNICIPIO DE VILA VELHA",
+   "unidade": "PREFEITURA MUNICIPAL DE VILA VELHA - ES",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços de JARDINAGEM E ARTÍFICE, a serem executados com regime de dedicação exclusiva de mão de obra, de natureza continua, via Registro de Preços",
+   "valor_estimado": 5383126.44,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-05-29T07:23:46",
+   "data_abertura_proposta": "2026-06-10T09:00:00",
+   "data_encerramento_proposta": "2026-06-24T10:30:00",
+   "link": "https://pncp.gov.br/app/editais/27165554000103/2026/260",
+   "score": 84,
+   "arquivos_baixados": [
+    "98570305900672026002.pdf"
+   ]
+  },
+  {
+   "numero_controle": "27470897000173-1-000029/2026",
+   "orgao": "POLICIA CIVIL",
+   "unidade": "POLÍCIA CIVIL DO ESTADO DO ESPÍRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE SERVIÇOS DE JARDINAGEM",
+   "valor_estimado": 10509.2,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-19T14:45:11",
+   "data_abertura_proposta": "2026-06-22T08:00:00",
+   "data_encerramento_proposta": "2026-07-07T10:59:00",
+   "link": "https://pncp.gov.br/app/editais/27470897000173/2026/29",
+   "score": 35,
+   "arquivos_baixados": [
+    "Capa-Licitacao.pdf",
+    "EDITAL..pdf"
+   ]
+  },
+  {
+   "numero_controle": "00394460000141-1-000421/2026",
+   "orgao": "MINISTERIO DA FAZENDA",
+   "unidade": "SUP.REGIONAL RECEITA FEDERAL 7A.RF/RJ",
+   "municipio": "Rio de Janeiro",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Serviços continuado de apoio administrativo para as unidades da Receita Federal do Brasil (RFB) no estado do Espírito Santo bem como para aquelas abrangidas pela Delegacia da RFB em Niterói (DRFNIT), a serem executados com regime de dedicação exclusiva de mão de obra. ",
+   "valor_estimado": 19517750.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-25T07:04:47",
+   "data_abertura_proposta": "2026-06-25T09:00:00",
+   "data_encerramento_proposta": "2026-07-09T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394460000141/2026/421",
+   "score": 84,
+   "arquivos_baixados": [
+    "17011605900092026000.pdf"
    ]
   }
  ],
