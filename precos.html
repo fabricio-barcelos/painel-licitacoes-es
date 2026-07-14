@@ -1,0 +1,17 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<title>Banco de Preços — PNCP-ES</title><style>
+body{font-family:Arial,sans-serif;margin:20px}h1{font-size:20px}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{border:1px solid #ccc;padding:6px;text-align:left}
+th{background:#003366;color:#fff;position:sticky;top:0;cursor:pointer}
+input{width:60%;padding:8px;margin-bottom:10px;font-size:14px}</style></head><body>
+<h1>Banco de Preços — vencedores e valores homologados (ES)</h1>
+<p style="font-size:13px;color:#555">0 registros — atualizado em
+14/07/2026 20:08. Baixe o CSV (banco_precos.csv no repositório)
+para análises no Excel.</p>
+<input id="f" placeholder="Filtrar por categoria, fornecedor, órgão..." onkeyup="
+for(var tr of document.getElementById('tb').rows)
+tr.style.display=tr.textContent.toLowerCase().includes(this.value.toLowerCase())?'':'none'">
+<table><thead><tr><th>Data</th><th>Órgão</th><th>Município</th><th>Categoria</th>
+<th>Item</th><th>Fornecedor vencedor</th><th>CNPJ</th><th>Valor homologado</th><th>PNCP</th></tr></thead>
+<tbody id="tb"></tbody></table></body></html>
