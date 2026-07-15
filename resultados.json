@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-07-14T22:15:15",
- "data": "2026-07-14",
+ "gerado_em": "2026-07-15T03:38:40",
+ "data": "2026-07-15",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -64,30 +64,7 @@
    "score": 35
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "27167477000112-1-000352/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-07-14T09:00:00",
-   "valor_novo": "2026-07-29T09:00:00",
-   "detectado_em": "2026-07-14T15:13:08",
-   "processo": {
-    "numero_controle": "27167477000112-1-000352/2026",
-    "orgao": "MUNICIPIO DE SAO MATEUS",
-    "unidade": "SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA",
-    "municipio": "São Mateus",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "REGISTRO DE PREÇO PARA EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE REPLANTIO, PLANTIO, PODA E ERRADICAÇÃO DE ÁRVORES, MANUTENÇÃO E REVITALIZAÇÃO DAS ÁREAS VERDES E GRAMADAS, CAPINA MANUAL, CAPINA MECANIZADA, RASPAGEM DE VIAS, ROÇAGEM, CAIAÇÃO E RASTELAMENTO EM VIAS PÚBLICAS, EXECUÇÃO DE SERVIÇOS URBANOS E DE INFRAESTRUTURA DE BAIXA COMPLEXIDADE NO MUNICÍPIO DE SÃO MATEUS/ES.",
-    "valor_estimado": 31133569.04,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-06-29T09:33:50",
-    "data_abertura_proposta": "2026-06-30T09:00:00",
-    "data_encerramento_proposta": "2026-07-29T09:00:00",
-    "link": "https://pncp.gov.br/app/editais/27167477000112/2026/352",
-    "score": 88
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "10838653000106-1-000345/2026",
@@ -443,6 +420,96 @@
    "data_encerramento_proposta": "2026-07-15T07:59:00",
    "link": "https://pncp.gov.br/app/editais/36388445000138/2026/151",
    "score": 38
+  },
+  {
+   "numero_controle": "27165729000174-1-000098/2026",
+   "orgao": "MUNICIPIO DE COLATINA",
+   "unidade": "Comprador Prefeitura Municipal de Colatina",
+   "municipio": "Colatina",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Formalizacao de Ata de Registro de Precos para futura e eventual contratacao de empresa especializada na execucao de servicos de serralheria em geral, com fornecimento de todos os materiais, mao de obra e equipamentos necessarios a realizacao das atividades, conforme demanda das Unidades Escolares do Municipio de Colatina e demais setores vinculados a Secretarias Municipais de Educacao (SEMED), Saude (SEMUS), Assistencia Social (SEMAS), Cultura e Turismo (SECULT) e Obras (SEMOB), atraves da Secretaria Municipal de Educacao.",
+   "valor_estimado": 7245394.68,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-01T07:48:55",
+   "data_abertura_proposta": "2026-07-01T08:00:00",
+   "data_encerramento_proposta": "2026-07-15T07:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165729000174/2026/98",
+   "score": 63
+  },
+  {
+   "numero_controle": "27165737000110-1-000088/2026",
+   "orgao": "MUNICIPIO DE BAIXO GUANDU",
+   "unidade": "Educação",
+   "municipio": "Baixo Guandu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Formalização de Registro de Preços para eventual e futura Contratação de Empresa especializada na prestação de serviços de locação de estrutura, infraestrutura, iluminação, sonorização e demais equipamentos necessários, com fornecimento de mão de obra técnica especializada, incluindo montagem, operação de desmontagem das estruturas e equipamentos, através da Secretaria Municipal de Políticas para as Mulheres e Cultura.",
+   "valor_estimado": 870762.04,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-30T14:55:49",
+   "data_abertura_proposta": "2026-07-01T07:00:00",
+   "data_encerramento_proposta": "2026-07-15T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165737000110/2026/88",
+   "score": 63
+  },
+  {
+   "numero_controle": "28152080000110-1-000009/2026",
+   "orgao": "JUNTA COMERCIAL DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "JUNTA COMERCIAL DO ESTADO DO ESPÍRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": " A CONTRATAÇÃO DE EMPRESA PRESTADORA DE SERVIÇO TÉCNICO ESPECIALIZADO EM MANUTENÇÃO PREDIAL, PREVENTIVA E CORRETIVA PARA A SEDE DA JUCEES - ANO 2026.",
+   "valor_estimado": 500013.84,
+   "situacao": "Suspensa",
+   "data_publicacao": "2026-07-01T16:48:18",
+   "data_abertura_proposta": "2026-07-03T08:00:00",
+   "data_encerramento_proposta": "2026-07-15T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/28152080000110/2026/9",
+   "score": 63
+  },
+  {
+   "numero_controle": "07162270000148-1-000026/2026",
+   "orgao": "SECRETARIA DE ESTADO DE GESTAO E RECURSOS HUMANOS",
+   "unidade": "SECRETARIA DE ESTADO DE GESTÃO E RECURSOS HUMANOS",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Serviços de manutenção preventiva e corretiva integral em elevador, com fornecimento de mão de obra qualificada, reposição de peças, componentes e acessórios, no ano de 2026, para Nova Sede da SEGER",
+   "valor_estimado": 41520.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-30T10:29:39",
+   "data_abertura_proposta": "2026-07-02T08:00:00",
+   "data_encerramento_proposta": "2026-07-15T09:30:00",
+   "link": "https://pncp.gov.br/app/editais/07162270000148/2026/26",
+   "score": 45
+  },
+  {
+   "numero_controle": "27165695000118-1-000130/2026",
+   "orgao": "MUNICIPIO DE PIUMA",
+   "unidade": "PREFEITURA MUNICIPAL DE PIUMA",
+   "municipio": "Piúma",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESA PARA FUTURA E EVENTUAL PRESTAÇÃO DE SERVIÇO DE LOCAÇÃO DE VEÍCULOS/MAQUINÁRIOS INCLUINDO MÃO DE OBRA PARA DAR APOIO AOS TRABALHOS EXECUTADOS PELA SECRETARIA MUNICIPAL DE OBRAS E INFRAESTRUTURA URBANA E RURAL DE PIÚMA/ES",
+   "valor_estimado": 2550549.6,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-30T15:25:46",
+   "data_abertura_proposta": "2026-07-01T12:59:00",
+   "data_encerramento_proposta": "2026-07-15T12:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165695000118/2026/130",
+   "score": 63
+  },
+  {
+   "numero_controle": "27080605001400-1-000014/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "HOSPITAL ESTADUAL DE ATENÇÃO CLINICA",
+   "municipio": "Cariacica",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de Empresa especializada em serviços de limpeza desentupimento e esgotamento de rede de esgoto, fossa e caixas de gordura.",
+   "valor_estimado": 268454.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-03T09:09:09",
+   "data_abertura_proposta": "2026-07-03T14:00:00",
+   "data_encerramento_proposta": "2026-07-15T13:00:00",
+   "link": "https://pncp.gov.br/app/editais/27080605001400/2026/14",
+   "score": 63
   },
   {
    "numero_controle": "32479123000143-1-000072/2026",
