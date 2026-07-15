@@ -16,13 +16,19 @@ border-radius:4px;text-decoration:none;font-size:13px;margin-top:4px}
 details{font-size:12px;color:#444} ul{margin:4px 0}
 input{width:100%;padding:8px;margin-bottom:12px;font-size:14px}</style></head><body>
 <h1>Acompanhamento de Processos — 18 certames</h1>
-<p style="font-size:13px;color:#555">Atualizado em 14/07/2026 20:53 —
+<p style="font-size:13px;color:#555">Atualizado em 14/07/2026 21:36 —
 ordem: em julgamento → recebendo propostas → resultado → suspensos/encerrados.</p>
-<input id="f" placeholder="Filtrar por órgão, objeto, ID..." onkeyup="
-for(var c of document.querySelectorAll('.card'))
-c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'':'none'">
+<input id="f" placeholder="Filtrar por órgão, objeto, ID..." onkeyup="filtra()">
+<select id="fs" onchange="filtra()" style="padding:8px;font-size:14px;margin-left:6px">
+<option value="">todos os status</option>
+<option value="1">⚖ Em julgamento</option>
+<option value="2">📥 Recebendo propostas</option>
+<option value="3">🏁 Resultado publicado</option>
+<option value="4">⏸ Suspensa</option>
+<option value="5">❌ Anulada / Revogada</option>
+</select>
 
-<div class="card f1">
+<div class="card f1" data-fase="1">
   <div class="fase">⚖ Em julgamento (propostas encerradas)</div>
   <h2>MUNICIPIO DE VILA VELHA — Vila Velha</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>27165554000103-1-000260/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -35,7 +41,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/27165554000103/2026/260" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98570305900672026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f1">
+<div class="card f1" data-fase="1">
   <div class="fase">⚖ Em julgamento (propostas encerradas)</div>
   <h2>MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO — Vila Velha</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>02304470000174-1-000071/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -48,7 +54,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/02304470000174/2026/71" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92662905900242026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f1">
+<div class="card f1" data-fase="1">
   <div class="fase">⚖ Em julgamento (propostas encerradas)</div>
   <h2>POLICIA CIVIL — Vitória</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>27470897000173-1-000029/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -61,7 +67,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/27470897000173/2026/29" target="_blank">Ver no PNCP</a></p>
 </div>
-<div class="card f1">
+<div class="card f1" data-fase="1">
   <div class="fase">⚖ Em julgamento (propostas encerradas)</div>
   <h2>MINISTERIO DA FAZENDA — Rio de Janeiro</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>00394460000141-1-000421/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -74,7 +80,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/00394460000141/2026/421" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17011605900092026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f1">
+<div class="card f1" data-fase="1">
   <div class="fase">⚖ Em julgamento (propostas encerradas)</div>
   <h2>CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO — Vitória</h2>
   <p class="meta">Dispensa | ID PNCP: <code>53882509000171-1-000004/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -87,7 +93,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/53882509000171/2026/4" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93144406000032026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>MUNICIPIO DE SANTA MARIA DE JETIBA — Santa Maria de Jetibá</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>36388445000138-1-000151/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -100,7 +106,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/36388445000138/2026/151" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://bnccompras.com/Process/ProcessSearchPublic?param1=0" target="_blank">Buscar na BNC - Bolsa Nacional de Compras</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>UNIVERSIDADE FEDERAL DO ESPIRITO SANTO — Vitória</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>32479123000143-1-000072/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -113,7 +119,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/32479123000143/2026/72" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15304605900592026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO — Vitória</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>53882509000171-1-000002/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -126,7 +132,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/53882509000171/2026/2" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93144405900012026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>CAMARA MUNICIPAL DE IUNA — Iúna</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>31724289000115-1-000018/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -139,7 +145,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/31724289000115/2026/18" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://www.portaldecompraspublicas.com.br/processos/ES/Camara-Municipal-de-Iuna-4203/PE-002-2026-2026-494084" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO — Santa Teresa</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>10838653000106-1-000345/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -152,7 +158,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/10838653000106/2026/345" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15842605000982026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>MUNICIPIO DE CASTELO — Castelo</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>27165638000139-1-000221/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -165,7 +171,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/27165638000139/2026/221" target="_blank">Ver no PNCP</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>SECRETARIA DE ESTADO DA SAUDE — Barra de São Francisco</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>27080605001915-1-000037/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -178,7 +184,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/27080605001915/2026/37" target="_blank">Ver no PNCP</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>MUNICIPIO DE SAO ROQUE DO CANAA — São Roque do Canaã</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>01612865000171-1-000085/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -191,7 +197,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/01612865000171/2026/85" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98076405000092026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>SECRETARIA DE ESTADO DA SAUDE — Vitória</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>27080605002059-1-000148/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -204,7 +210,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/27080605002059/2026/148" target="_blank">Ver no PNCP</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL DA 15 REGIAO — Vitória</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>22104701000103-1-000015/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -217,7 +223,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/22104701000103/2026/15" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92964105000142026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>SECRETARIA DE ESTADO DE GESTAO E RECURSOS HUMANOS — Vitória</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>07162270000148-1-000028/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -230,7 +236,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/07162270000148/2026/28" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92502105000082026" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>MUNICIPIO DE SAO MATEUS — São Mateus</h2>
   <p class="meta">Pregão - Eletrônico | ID PNCP: <code>27167477000112-1-000352/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -243,7 +249,7 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>2026-07-14 15:13 — data_encerramento_proposta: 2026-07-14T09:00:00 → 2026-07-29T09:00:00</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/27167477000112/2026/352" target="_blank">Ver no PNCP</a></p>
 </div>
-<div class="card f2">
+<div class="card f2" data-fase="2">
   <div class="fase">📥 Recebendo propostas</div>
   <h2>FUNDACAO ESTADUAL DE  INOVACAO EM SAUDE - INOVA CAPIXABA — Vila Velha</h2>
   <p class="meta">Dispensa | ID PNCP: <code>36901264000163-1-000460/2026</code> | Situação PNCP: Divulgada no PNCP</p>
@@ -256,4 +262,15 @@ c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'
   <details><summary>Histórico de mudanças</summary><ul><li>sem mudanças registradas</li></ul></details>
   <p><a class="btn" href="https://pncp.gov.br/app/editais/36901264000163/2026/460" target="_blank">Ver no PNCP</a> <a class="btn btn2" href="https://www.portaldecompraspublicas.com.br/processos/ES/Fundacao-Inova-Capixaba-2904/DE-97077-2-2026-2026-495175" target="_blank">Acompanhar na plataforma de disputa</a></p>
 </div>
+<script>
+function filtra(){
+  var q=document.getElementById('f').value.toLowerCase();
+  var s=document.getElementById('fs').value;
+  for(var c of document.querySelectorAll('.card')){
+    var ok=c.textContent.toLowerCase().includes(q);
+    if(ok&&s)ok=(c.dataset.fase===s);
+    c.style.display=ok?'':'none';
+  }
+}
+</script>
 </body></html>
