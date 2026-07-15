@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-15T16:59:24",
+ "gerado_em": "2026-07-15T19:35:51",
  "data": "2026-07-15",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -31,6 +31,21 @@
    "data_abertura_proposta": "2026-07-16T08:00:00",
    "data_encerramento_proposta": "2026-08-03T08:00:00",
    "link": "https://pncp.gov.br/app/editais/27080605000196/2026/911",
+   "score": 75
+  },
+  {
+   "numero_controle": "27780220000131-1-000078/2026",
+   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO S A A E",
+   "unidade": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
+   "municipio": "Itapemirim",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE COMERCIALIZADORA PARA SERVIÇOS CONTÍNUOS DE FORNECIMENTO DE ENERGIA ELÉTRICA.",
+   "valor_estimado": 7081168.35,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-15T17:08:32",
+   "data_abertura_proposta": "2026-07-16T00:01:00",
+   "data_encerramento_proposta": "2026-07-28T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27780220000131/2026/78",
    "score": 75
   }
  ],
