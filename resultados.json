@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-07-15T19:35:51",
- "data": "2026-07-15",
+ "gerado_em": "2026-07-16T03:41:26",
+ "data": "2026-07-16",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -409,6 +409,21 @@
   }
  ],
  "prazos_proximos": [
+  {
+   "numero_controle": "27165737000110-1-000089/2026",
+   "orgao": "MUNICIPIO DE BAIXO GUANDU",
+   "unidade": "Educação",
+   "municipio": "Baixo Guandu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa para prestação de serviço de transporte escolar, com disponibilização de 02(Dois) veículos, incluindo 02 (Dois) motoristas habilitados e 02 (Duas) monitoras, para atendimento aos alunos matriculados na Rede Municipal de Ensino de Baixo Guandu.",
+   "valor_estimado": 593050.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-01T14:50:54",
+   "data_abertura_proposta": "2026-07-02T07:00:00",
+   "data_encerramento_proposta": "2026-07-16T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165737000110/2026/89",
+   "score": 63
+  },
   {
    "numero_controle": "32479123000143-1-000072/2026",
    "orgao": "UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
