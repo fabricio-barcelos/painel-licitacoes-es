@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T13:49:45",
+ "gerado_em": "2026-07-17T16:49:56",
  "data": "2026-07-17",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -34,6 +34,21 @@
    "score": 75
   },
   {
+   "numero_controle": "27150549000119-1-000177/2026",
+   "orgao": "MUNICIPIO DE CARIACICA",
+   "unidade": "Prefeitura Municipal de Cariacica",
+   "municipio": "Cariacica",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços técnicos  sob demanda de remanejamento, instalação, transferência e manutenção corretiva de centrais  telefônicas e ramais (analógicos, digitais e IP), incluindo fornecimento de mão de obra especializada  e insumos necessários.",
+   "valor_estimado": 126069.97,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-17T16:39:04",
+   "data_abertura_proposta": "2026-07-20T14:00:00",
+   "data_encerramento_proposta": "2026-08-04T14:00:00",
+   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/177",
+   "score": 75
+  },
+  {
    "numero_controle": "31724289000115-1-000019/2026",
    "orgao": "CAMARA MUNICIPAL DE IUNA",
    "unidade": "CÂMARA MUNICIPAL DE IÚNA",
@@ -47,6 +62,21 @@
    "data_encerramento_proposta": "2026-07-07T16:47:00",
    "link": "https://pncp.gov.br/app/editais/31724289000115/2026/19",
    "score": 48
+  },
+  {
+   "numero_controle": "53882509000171-1-000005/2026",
+   "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
+   "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
+   "municipio": "Vitória",
+   "modalidade": "Dispensa",
+   "objeto": "Contratação de empresa especializada na prestação de serviço de limpeza pós-obra para o Conselho Regional de Biologia 10ª Região (CRBio-10)",
+   "valor_estimado": 2496.15,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-16T18:26:19",
+   "data_abertura_proposta": "2026-07-17T08:00:00",
+   "data_encerramento_proposta": "2026-07-22T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/53882509000171/2026/5",
+   "score": 45
   }
  ],
  "mudancas_hoje": [],
@@ -388,9 +418,43 @@
    "arquivos_baixados": [
     "17011605900092026000.pdf"
    ]
+  },
+  {
+   "numero_controle": "53882509000171-1-000005/2026",
+   "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
+   "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
+   "municipio": "Vitória",
+   "modalidade": "Dispensa",
+   "objeto": "Contratação de empresa especializada na prestação de serviço de limpeza pós-obra para o Conselho Regional de Biologia 10ª Região (CRBio-10)",
+   "valor_estimado": 2496.15,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-16T18:26:19",
+   "data_abertura_proposta": "2026-07-17T08:00:00",
+   "data_encerramento_proposta": "2026-07-22T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/53882509000171/2026/5",
+   "score": 45,
+   "arquivos_baixados": [
+    "Aviso_Dispensa_Eletronica_limpeza_pos_obra_novo_edital_assinado__1_.pdf",
+    "SEI_0199386_Despacho__1_.pdf"
+   ]
   }
  ],
  "prazos_proximos": [
+  {
+   "numero_controle": "53882509000171-1-000005/2026",
+   "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
+   "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
+   "municipio": "Vitória",
+   "modalidade": "Dispensa",
+   "objeto": "Contratação de empresa especializada na prestação de serviço de limpeza pós-obra para o Conselho Regional de Biologia 10ª Região (CRBio-10)",
+   "valor_estimado": 2496.15,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-16T18:26:19",
+   "data_abertura_proposta": "2026-07-17T08:00:00",
+   "data_encerramento_proposta": "2026-07-22T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/53882509000171/2026/5",
+   "score": 45
+  },
   {
    "numero_controle": "31724289000115-1-000018/2026",
    "orgao": "CAMARA MUNICIPAL DE IUNA",
