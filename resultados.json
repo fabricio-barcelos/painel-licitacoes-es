@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-17T03:29:58",
+ "gerado_em": "2026-07-17T12:07:14",
  "data": "2026-07-17",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -392,19 +392,19 @@
  ],
  "prazos_proximos": [
   {
-   "numero_controle": "53882509000171-1-000002/2026",
-   "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
-   "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
-   "municipio": "Vitória",
+   "numero_controle": "31724289000115-1-000018/2026",
+   "orgao": "CAMARA MUNICIPAL DE IUNA",
+   "unidade": "Câmara Municipal de Iúna",
+   "municipio": "Iúna",
    "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa para prestação de serviços continuados de limpeza e conservação, com dedicação exclusiva de mão de obra e fornecimento de todos os materiais necessários à sua realização, a serem executados nas dependências da sede Conselho Regional de Biologia 10ª Região ES.",
-   "valor_estimado": 89871.6,
+   "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE PORTARIA PARA ATENDIMENTO ÀS NECESSIDADES DA CÂMARA MUNICIPAL DE IÚNA/ES.",
+   "valor_estimado": 66715.44,
    "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-05-29T07:16:48",
-   "data_abertura_proposta": "2026-07-02T08:00:00",
-   "data_encerramento_proposta": "2026-07-17T10:00:00",
-   "link": "https://pncp.gov.br/app/editais/53882509000171/2026/2",
-   "score": 90
+   "data_publicacao": "2026-07-07T17:43:56",
+   "data_abertura_proposta": "2026-07-08T09:00:00",
+   "data_encerramento_proposta": "2026-07-22T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/31724289000115/2026/18",
+   "score": 64
   }
  ]
 }
