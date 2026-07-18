@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-18T11:35:14",
+ "gerado_em": "2026-07-18T13:14:23",
  "data": "2026-07-18",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -499,6 +499,36 @@
    "data_encerramento_proposta": "2026-07-23T09:30:00",
    "link": "https://pncp.gov.br/app/editais/27165638000139/2026/221",
    "score": 50
+  },
+  {
+   "numero_controle": "27150549000119-1-000168/2026",
+   "orgao": "MUNICIPIO DE CARIACICA",
+   "unidade": "Prefeitura Municipal de Cariacica",
+   "municipio": "Cariacica",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "[Portal de Compras Públicas] - Registro de preço para a futura e eventual contratação de empresa especializada para execução de serviços de conservação do pavimento mediante Tratamento Superficial Betuminoso Duplo (TSBD), incluindo o fornecimento de materiais, mão de obra, equipamentos, ferramentas e demais insumos necessários à execução dos serviços, visando ao atendimento das demandas do Município de Cariacica/ES.",
+   "valor_estimado": 10514551.78,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-08T17:01:31",
+   "data_abertura_proposta": "2026-07-09T08:00:00",
+   "data_encerramento_proposta": "2026-07-23T13:00:00",
+   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/168",
+   "score": 90
+  },
+  {
+   "numero_controle": "27080605001915-1-000037/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "HOSPITAL DRA RITA DE CÁSSIA",
+   "municipio": "Barra de São Francisco",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE SERVIÇOS TERCEIRIZADOS DE RECEPÇÃO HOSPITALAR",
+   "valor_estimado": 5036999.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-25T15:35:02",
+   "data_abertura_proposta": "2026-07-01T00:00:00",
+   "data_encerramento_proposta": "2026-07-23T13:00:56",
+   "link": "https://pncp.gov.br/app/editais/27080605001915/2026/37",
+   "score": 90
   }
  ]
 }
