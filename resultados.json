@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-19T13:27:06",
+ "gerado_em": "2026-07-19T17:01:46",
  "data": "2026-07-19",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -499,6 +499,21 @@
    "data_encerramento_proposta": "2026-07-23T13:00:56",
    "link": "https://pncp.gov.br/app/editais/27080605001915/2026/37",
    "score": 90
+  },
+  {
+   "numero_controle": "02304470000174-1-000070/2026",
+   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+   "municipio": "Vila Velha",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "Contratação de empresa especializada em restauro arquitetônico para a elaboração dos projetos e a execução das obras de restauração e adequação de imóvel destinado à implantação da “Casa de Apoio às Vítimas de Crimes” do Ministério Público do Estado do Espírito Santo, com fornecimento de mão de obra e materiais.",
+   "valor_estimado": 974099.64,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-06-02T07:14:16",
+   "data_abertura_proposta": "2026-06-02T12:00:00",
+   "data_encerramento_proposta": "2026-07-24T14:00:00",
+   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/70",
+   "score": 75
   }
  ]
 }
