@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-20T13:12:47",
+ "gerado_em": "2026-07-20T16:17:41",
  "data": "2026-07-20",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -32,6 +32,36 @@
    "data_encerramento_proposta": "2026-08-07T08:15:00",
    "link": "https://pncp.gov.br/app/editais/27165570000198/2026/80",
    "score": 75
+  },
+  {
+   "numero_controle": "27167428000180-1-000075/2026",
+   "orgao": "MUNICIPIO DE NOVA VENECIA",
+   "unidade": "Prefeitura Municipal De Nova Venécia",
+   "municipio": "Nova Venécia",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "Contratação de empresa especializada para execução de serviços de empreitada global com fornecimento de mão de obra e materiais, objetivando a reforma e ampliação da EMEIEFTI CACHOEIRA GRANDE, por intermédio da Secretaria Municipal de Nova VenéciaES",
+   "valor_estimado": 1163664.3,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-20T15:34:13",
+   "data_abertura_proposta": "2026-07-22T08:00:00",
+   "data_encerramento_proposta": "2026-08-26T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27167428000180/2026/75",
+   "score": 75
+  },
+  {
+   "numero_controle": "27165638000139-1-000228/2026",
+   "orgao": "MUNICIPIO DE CASTELO",
+   "unidade": "PREFEITURA MUNICIPAL DE CASTELO",
+   "municipio": "Castelo",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "ATA DE REGISTRO DE PREÇOS A Secretaria Municipal de Turismo, Eventos e Cultura do Município de Castelo visa à contratação de empresa especializada no fornecimento de estruturas, equipamentos e na prestação de serviços para a realização de rodeios profissionais, com o objetivo de atender à demanda dos grandes eventos promovidos pelo município, tais como a XXXIV Expoagro de Castelo, que acontecerá no período de 24 de julho a 02 de agosto, e a Festa de Emancipação Política “Castelo Country Festival”, realizada no mês de dezembro.A presente contratação se faz necessária para assegurar a realização adequada dos eventos, garantindo infraestrutura compatível com o porte das festividades, bem como segurança, organização, qualidade técnica e entretenimento ao público participante. Os rodeios representam uma das principais atrações das festividades, sendo responsáveis por atrair grande número de visitantes, fortalecer as tradições culturais e proporcionar momentos de lazer e integração social à população.A empresa contratada deverá ser responsável pelo fornecimento de toda a estrutura necessária à realização do rodeio, incluindo, mas não se limitando a: arena com bretes, palanques, arquibancadas, sistema de sonorização e iluminação adequados, camarins, fechamento de arena, painéis de led, geradores, equipe técnica especializada, locutor profissional, salva-vidas, juízes, comentaristas, equipe de apoio, produção, segurança e demais serviços indispensáveis para a execução completa do evento. Além disso, é indispensável que a empresa possua experiência comprovada em eventos de porte semelhante, esteja devidamente regularizada junto aos órgãos competentes e apresente todas as licenças, alvarás e autorizações exigidas para a realização de rodeios, observando rigorosamente as normas de segurança, bem-estar animal e a legislação vigente.A contratação de empresa especializada é indispensável, considerando a complexidade dos serviços envolvidos, que demandam conhecimento técnico específico, fornecimento de estruturas apropriadas, equipamentos adequados, mão de obra qualificada e experiência na realização de eventos de grande porte. O Município não dispõe de estrutura própria, equipamentos ou profissionais especializados suficientes para executar diretamente os serviços necessários para a realização de rodeios profissionais com a qualidade, segurança e eficiência exigidas.A realização de rodeios durante os eventos promovidos pelo município visa promover o resgate, a preservação e a valorização das tradições culturais e rurais de Castelo, fortalecendo a identidade regional e incentivando a participação popular nas festividades. Além do aspecto cultural, os eventos contribuem significativamente para o fomento do turismo e para a geração de renda, impulsionando diversos setores da economia local, como comércio, hotelaria, alimentação, transporte, entretenimento e prestação de serviços em geral.",
+   "valor_estimado": 1038328.96,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-20T14:30:36",
+   "data_abertura_proposta": "2026-07-02T13:30:00",
+   "data_encerramento_proposta": "2026-07-02T13:30:00",
+   "link": "https://pncp.gov.br/app/editais/27165638000139/2026/228",
+   "score": 59
   }
  ],
  "mudancas_hoje": [
@@ -168,27 +198,6 @@
     "EDITAL_PORTARIA.pdf",
     "OR_AMENTO_ESTIMADO.pdf",
     "TERMO_DE_REFERENCIA_PORTARIA.pdf"
-   ]
-  },
-  {
-   "numero_controle": "27080605001915-1-000037/2026",
-   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
-   "unidade": "HOSPITAL DRA RITA DE CÁSSIA",
-   "municipio": "Barra de São Francisco",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE SERVIÇOS TERCEIRIZADOS DE RECEPÇÃO HOSPITALAR",
-   "valor_estimado": 5036999.28,
-   "situacao": "Revogada",
-   "data_publicacao": "2026-06-25T15:35:02",
-   "data_abertura_proposta": "2026-07-01T00:00:00",
-   "data_encerramento_proposta": "2026-07-23T13:00:56",
-   "link": "https://pncp.gov.br/app/editais/27080605001915/2026/37",
-   "score": 90,
-   "arquivos_baixados": [
-    "Capa-Licitacao.pdf",
-    "Dotacao-Orcamentaria.pdf",
-    "Edital.pdf",
-    "Relatorio-de-Itens-com-Valor-Estimativo.pdf"
    ]
   },
   {
