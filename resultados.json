@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-20T05:31:14",
+ "gerado_em": "2026-07-20T13:12:47",
  "data": "2026-07-20",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -17,9 +17,47 @@
    "data_encerramento_proposta": "2026-08-04T14:00:00",
    "link": "https://pncp.gov.br/app/editais/27150549000119/2026/177",
    "score": 75
+  },
+  {
+   "numero_controle": "27165570000198-1-000080/2026",
+   "orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
+   "unidade": "Prefeitura Municipal de Conceição do Castelo",
+   "municipio": "Conceição do Castelo",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "RECAPEAMENTO ASFÁLTICO COM ESPESSURA DE 6CM EM DIVERSAS VIAS DO MUNICÍPIO DE CONCEIÇÃO DO CASTELO, ES, COM EXTENSÃO TOTAL APROXIMADA DE 3,87 KM, INCLUINDO SERVIÇOS COMPLEMENTARES DE REMENDO PROFUNDO, IMPLANTAÇÃO DE PASSEIOS ACESSÍVEIS E SINALIZAÇÃO HORIZONTAL E VERTICAL.",
+   "valor_estimado": 2672323.26,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-20T09:08:18",
+   "data_abertura_proposta": "2026-07-20T10:00:00",
+   "data_encerramento_proposta": "2026-08-07T08:15:00",
+   "link": "https://pncp.gov.br/app/editais/27165570000198/2026/80",
+   "score": 75
   }
  ],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "27080605001915-1-000037/2026",
+   "campo": "situacao",
+   "valor_anterior": "Divulgada no PNCP",
+   "valor_novo": "Revogada",
+   "detectado_em": "2026-07-20T13:10:42",
+   "processo": {
+    "numero_controle": "27080605001915-1-000037/2026",
+    "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+    "unidade": "HOSPITAL DRA RITA DE CÁSSIA",
+    "municipio": "Barra de São Francisco",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "CONTRATAÇÃO DE SERVIÇOS TERCEIRIZADOS DE RECEPÇÃO HOSPITALAR",
+    "valor_estimado": 5036999.28,
+    "situacao": "Revogada",
+    "data_publicacao": "2026-06-25T15:35:02",
+    "data_abertura_proposta": "2026-07-01T00:00:00",
+    "data_encerramento_proposta": "2026-07-23T13:00:56",
+    "link": "https://pncp.gov.br/app/editais/27080605001915/2026/37",
+    "score": 90
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "10838653000106-1-000345/2026",
@@ -140,7 +178,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "CONTRATAÇÃO DE SERVIÇOS TERCEIRIZADOS DE RECEPÇÃO HOSPITALAR",
    "valor_estimado": 5036999.28,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Revogada",
    "data_publicacao": "2026-06-25T15:35:02",
    "data_abertura_proposta": "2026-07-01T00:00:00",
    "data_encerramento_proposta": "2026-07-23T13:00:56",
@@ -381,36 +419,6 @@
  ],
  "prazos_proximos": [
   {
-   "numero_controle": "27108141000189-1-000021/2026",
-   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO",
-   "unidade": "SERVICO AUTONOMO DE AGUA E ESGOTO",
-   "municipio": "Aracruz",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE LOCAÇÃO FIXA E MENSAL DE VEÍCULOS DE PEQUENO PORTE",
-   "valor_estimado": 0.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-04-08T09:44:28",
-   "data_abertura_proposta": "2026-07-02T08:00:00",
-   "data_encerramento_proposta": "2026-07-20T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27108141000189/2026/21",
-   "score": 39
-  },
-  {
-   "numero_controle": "27165208000117-1-000071/2026",
-   "orgao": "MUNICIPIO DE IBIRACU",
-   "unidade": "Prefeitura Municipal de Ibiraçu",
-   "municipio": "Ibiraçu",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Serviços funerários, incluindo fornecimento de  urnas funerárias, serviços de conservação cadavérica com aplicação de fluídos específicos e serviços de translado do corpo, destinados ao atendimento de famílias em situação de vulnerabilidade social no Município de Ibiraçu/ES.",
-   "valor_estimado": 107553.81,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-07T09:53:33",
-   "data_abertura_proposta": "2026-07-06T08:00:00",
-   "data_encerramento_proposta": "2026-07-20T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27165208000117/2026/71",
-   "score": 63
-  },
-  {
    "numero_controle": "53882509000171-1-000005/2026",
    "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
    "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
@@ -493,7 +501,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "CONTRATAÇÃO DE SERVIÇOS TERCEIRIZADOS DE RECEPÇÃO HOSPITALAR",
    "valor_estimado": 5036999.28,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Revogada",
    "data_publicacao": "2026-06-25T15:35:02",
    "data_abertura_proposta": "2026-07-01T00:00:00",
    "data_encerramento_proposta": "2026-07-23T13:00:56",
