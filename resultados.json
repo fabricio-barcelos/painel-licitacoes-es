@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-07-19T18:41:16",
- "data": "2026-07-19",
+ "gerado_em": "2026-07-20T05:31:14",
+ "data": "2026-07-20",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -17,36 +17,6 @@
    "data_encerramento_proposta": "2026-08-04T14:00:00",
    "link": "https://pncp.gov.br/app/editais/27150549000119/2026/177",
    "score": 75
-  },
-  {
-   "numero_controle": "31724289000115-1-000019/2026",
-   "orgao": "CAMARA MUNICIPAL DE IUNA",
-   "unidade": "CÂMARA MUNICIPAL DE IÚNA",
-   "municipio": "Iúna",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de portaria para atendimento às necessidades da Câmara Municipal de Iúna/ES.",
-   "valor_estimado": 66715.44,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-16T13:33:35",
-   "data_abertura_proposta": "2026-07-07T16:47:00",
-   "data_encerramento_proposta": "2026-07-07T16:47:00",
-   "link": "https://pncp.gov.br/app/editais/31724289000115/2026/19",
-   "score": 48
-  },
-  {
-   "numero_controle": "53882509000171-1-000005/2026",
-   "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
-   "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
-   "municipio": "Vitória",
-   "modalidade": "Dispensa",
-   "objeto": "Contratação de empresa especializada na prestação de serviço de limpeza pós-obra para o Conselho Regional de Biologia 10ª Região (CRBio-10)",
-   "valor_estimado": 2496.15,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-16T18:26:19",
-   "data_abertura_proposta": "2026-07-17T08:00:00",
-   "data_encerramento_proposta": "2026-07-22T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/53882509000171/2026/5",
-   "score": 45
   }
  ],
  "mudancas_hoje": [],
@@ -410,6 +380,36 @@
   }
  ],
  "prazos_proximos": [
+  {
+   "numero_controle": "27108141000189-1-000021/2026",
+   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO",
+   "unidade": "SERVICO AUTONOMO DE AGUA E ESGOTO",
+   "municipio": "Aracruz",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE LOCAÇÃO FIXA E MENSAL DE VEÍCULOS DE PEQUENO PORTE",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-04-08T09:44:28",
+   "data_abertura_proposta": "2026-07-02T08:00:00",
+   "data_encerramento_proposta": "2026-07-20T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27108141000189/2026/21",
+   "score": 39
+  },
+  {
+   "numero_controle": "27165208000117-1-000071/2026",
+   "orgao": "MUNICIPIO DE IBIRACU",
+   "unidade": "Prefeitura Municipal de Ibiraçu",
+   "municipio": "Ibiraçu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Serviços funerários, incluindo fornecimento de  urnas funerárias, serviços de conservação cadavérica com aplicação de fluídos específicos e serviços de translado do corpo, destinados ao atendimento de famílias em situação de vulnerabilidade social no Município de Ibiraçu/ES.",
+   "valor_estimado": 107553.81,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-07T09:53:33",
+   "data_abertura_proposta": "2026-07-06T08:00:00",
+   "data_encerramento_proposta": "2026-07-20T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27165208000117/2026/71",
+   "score": 63
+  },
   {
    "numero_controle": "53882509000171-1-000005/2026",
    "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
