@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-07-22T19:51:30",
- "data": "2026-07-22",
+ "gerado_em": "2026-07-23T04:46:59",
+ "data": "2026-07-23",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -514,6 +514,21 @@
  ],
  "prazos_proximos": [
   {
+   "numero_controle": "27080605002059-1-000137/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "HOSPITAL INFANTIL NOSSA SENHORA DA GLÓRIA",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços de recepção hospitalar para atender às necessidades do Hospital Infantil Nossa Senhora da Glória (HINSG)",
+   "valor_estimado": 0.0,
+   "situacao": "Revogada",
+   "data_publicacao": "2026-07-07T12:58:57",
+   "data_abertura_proposta": "2026-07-08T08:00:00",
+   "data_encerramento_proposta": "2026-07-23T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27080605002059/2026/137",
+   "score": 39
+  },
+  {
    "numero_controle": "10838653000106-1-000345/2026",
    "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
    "unidade": "IFES - CAMPUS SANTA TERESA",
@@ -529,6 +544,21 @@
    "score": 90
   },
   {
+   "numero_controle": "13959501000141-1-000011/2026",
+   "orgao": "FUNDO MUNICIPAL DE SAUDE DE SANTA LEOPOLDINA",
+   "unidade": "FUNDO MUNICIPAL DE SAUDE DE SANTA LEOPOLDINA/ES",
+   "municipio": "Santa Leopoldina",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[LICITANET] - LOCAÇÃO DE AMBULÂNCIAS TIPO B (REMOÇÃO COM SUPORTE BÁSICO DE VIDA), SEM FORNECIMENTO DE MOTORISTA.",
+   "valor_estimado": 0.0,
+   "situacao": "Suspensa",
+   "data_publicacao": "2026-07-08T10:52:46",
+   "data_abertura_proposta": "2026-07-08T10:52:39",
+   "data_encerramento_proposta": "2026-07-23T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/13959501000141/2026/11",
+   "score": 39
+  },
+  {
    "numero_controle": "27165638000139-1-000221/2026",
    "orgao": "MUNICIPIO DE CASTELO",
    "unidade": "PREFEITURA MUNICIPAL DE CASTELO",
@@ -542,6 +572,21 @@
    "data_encerramento_proposta": "2026-07-23T09:30:00",
    "link": "https://pncp.gov.br/app/editais/27165638000139/2026/221",
    "score": 50
+  },
+  {
+   "numero_controle": "31723570000133-1-000080/2026",
+   "orgao": "MUNICIPIO DE VARGEM ALTA",
+   "unidade": "Prefeitura Municipal de Vargem Alta",
+   "municipio": "Vargem Alta",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO DE MÁQUINAS, EQUIPAMENTOS PORTÁTEIS E OPERATRIZES (ROÇADEIRA, MOTO PODA, MOTOSSERRA, SOPRADOR, TRATOR DE ROÇAR GRAMA, ENTRE OUTROS), COM O FORNECIMENTO DE PEÇAS ORIGINAIS E DE 1ª LINHA PARA AS ATIVIDADES QUE CABEM ÀS SECRETARIAS MUNICIPAIS PARTICIPANTES.",
+   "valor_estimado": 96039.49,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-07T14:51:04",
+   "data_abertura_proposta": "2026-07-09T08:00:00",
+   "data_encerramento_proposta": "2026-07-23T12:30:00",
+   "link": "https://pncp.gov.br/app/editais/31723570000133/2026/80",
+   "score": 61
   },
   {
    "numero_controle": "27150549000119-1-000168/2026",
