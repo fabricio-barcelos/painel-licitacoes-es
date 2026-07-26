@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T11:52:24",
+ "gerado_em": "2026-07-26T13:34:25",
  "data": "2026-07-26",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -403,25 +403,6 @@
    ]
   },
   {
-   "numero_controle": "53882509000171-1-000005/2026",
-   "orgao": "CONSELHO REGIONAL DE BIOLOGIA DA 10 REGIAO",
-   "unidade": "CONSELHO REGIONAL DE BIOLOGIA DA 10ª REGIÃO",
-   "municipio": "Vitória",
-   "modalidade": "Dispensa",
-   "objeto": "Contratação de empresa especializada na prestação de serviço de limpeza pós-obra para o Conselho Regional de Biologia 10ª Região (CRBio-10)",
-   "valor_estimado": 2496.15,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-16T18:26:19",
-   "data_abertura_proposta": "2026-07-17T08:00:00",
-   "data_encerramento_proposta": "2026-07-22T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/53882509000171/2026/5",
-   "score": 45,
-   "arquivos_baixados": [
-    "Aviso_Dispensa_Eletronica_limpeza_pos_obra_novo_edital_assinado__1_.pdf",
-    "SEI_0199386_Despacho__1_.pdf"
-   ]
-  },
-  {
    "numero_controle": "27167410000188-1-000551/2026",
    "orgao": "MUNICIPIO DE LINHARES",
    "unidade": "063 - SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA E DEFESA SOCIAL",
@@ -547,6 +528,25 @@
    "score": 76,
    "arquivos_baixados": [
     "Edital_35_2026_-_Contratacao_de_Empresa_Serv_Limpeza.zip"
+   ]
+  },
+  {
+   "numero_controle": "36028942000125-1-000018/2026",
+   "orgao": "CAMARA MUNICIPAL DE VENDA NOVA DO IMIGRANTE",
+   "unidade": "Câmara Municipal de Venda Nova do Imigrante",
+   "municipio": "Venda Nova do Imigrante",
+   "modalidade": "Dispensa",
+   "objeto": "Contratação de empresa especializada para prestação de serviços terceirizados de limpeza, conservação, higiene e copeiragem, para atender as necessidades da Câmara Municipal de Venda Nova do Imigrante  ES.",
+   "valor_estimado": 63251.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-22T16:52:48",
+   "data_abertura_proposta": null,
+   "data_encerramento_proposta": null,
+   "link": "https://pncp.gov.br/app/editais/36028942000125/2026/18",
+   "score": 78,
+   "arquivos_baixados": [
+    "Aviso__empresa_limpeza.pdf",
+    "TR_servicos_de_limpeza.pdf"
    ]
   }
  ],
