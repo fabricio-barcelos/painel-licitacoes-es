@@ -1,8 +1,24 @@
 {
- "gerado_em": "2026-07-28T04:54:55",
+ "gerado_em": "2026-07-28T13:30:09",
  "data": "2026-07-28",
  "janela_publicacoes_dias": 3,
- "publicacoes_recentes": [],
+ "publicacoes_recentes": [
+  {
+   "numero_controle": "27165208000117-1-000075/2026",
+   "orgao": "MUNICIPIO DE IBIRACU",
+   "unidade": "Fundo Municipal de Saúde",
+   "municipio": "Ibiraçu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratacao de empresa para o fornecimento de Materias e Ferramentas, para atender as demandas relacionadas a manutencao, conservacao e execucao de servicos, realizados pela Secretaria de Obras.",
+   "valor_estimado": 901294.51,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-28T10:49:39",
+   "data_abertura_proposta": "2026-07-29T08:00:00",
+   "data_encerramento_proposta": "2026-08-11T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27165208000117/2026/75",
+   "score": 75
+  }
+ ],
  "mudancas_hoje": [],
  "watchlist": [
   {
@@ -427,70 +443,26 @@
    "data_encerramento_proposta": "2026-07-14T09:00:00",
    "link": "https://pncp.gov.br/app/editais/27167477000112/2026/354",
    "score": 88,
-   "arquivos_baixados": []
+   "arquivos_baixados": [
+    "OF_819_-_RESPOSTA_ESCLARECIMENTO_001__EMEC__assinado.pdf",
+    "OF_822_-_RESPOSTA___IMPUGNA__O_-_WANDERSON_-_025-2026_assinado.pdf",
+    "OF_825_-_RESPOSTA_ESCLARECIMENTO_002__MOVER__assinado.pdf",
+    "OF_826_-_RESPOSTA_ESCLARECIMENTO_003__PORTAL_SERVI_OS_E_ENGENHARIA__assinado.pdf",
+    "OF_832_-_RESPOSTA___IMPUGNACAO_-_GABRIEL_assinado.pdf",
+    "OF_833_-_RESPOSTA___IMPUGNACAO_-_VERA_CRUZ_assinado.pdf",
+    "OF_834_-_Manifesta__o_-_FLORA_SERVICOS_AMBIENTAIS_-_PREG_O_025-2026_-_CAPINA_assinado.pdf",
+    "OF_893_-_DETERMINA_SUSPENS_O.pdf",
+    "PE_025.2026_SRP_-_SERVI_OS.CAPINA.RO_AGEM_-_DES._URB._retificado_assinado_.pdf",
+    "PE_025.2026_SRP_-_SERVI_OS.CAPINA.RO_AGEM_-_DESENVOL._URBANO_assinado_.pdf",
+    "PUBLICA__O_DIO.ES_-_PE_025.26.pdf",
+    "PUBLICA__O_DIO.ES_-_RETIFICA__O_PE_025.26.pdf",
+    "Pedidos_de_Impugna__o_-_IMPUGNACAO_SAO_MATEUS_COMPLETA.pdf",
+    "Resposta_Complementar_-_Impugna__o_Wanderson.pdf",
+    "Resposta_de_Esclarecimento_-_OF_848_-_RESPOSTA_ESCLARECIMENTO_004__M3__assinado.pdf"
+   ]
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27080605002059-1-000148/2026",
-   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
-   "unidade": "HOSPITAL INFANTIL NOSSA SENHORA DA GLÓRIA",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de recepção hospitalar para atender às necessidades do Hospital Infantil Nossa Senhora da Glória (HINSG).",
-   "valor_estimado": 1983764.88,
-   "situacao": "Revogada",
-   "data_publicacao": "2026-07-13T08:01:07",
-   "data_abertura_proposta": "2026-07-14T08:01:00",
-   "data_encerramento_proposta": "2026-07-28T07:00:00",
-   "link": "https://pncp.gov.br/app/editais/27080605002059/2026/148",
-   "score": 75
-  },
-  {
-   "numero_controle": "27780220000131-1-000078/2026",
-   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO S A A E",
-   "unidade": "SERVIÇO AUTONOMO DE AGUA E ESGOTO",
-   "municipio": "Itapemirim",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE COMERCIALIZADORA PARA SERVIÇOS CONTÍNUOS DE FORNECIMENTO DE ENERGIA ELÉTRICA.",
-   "valor_estimado": 7081168.35,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-15T17:08:32",
-   "data_abertura_proposta": "2026-07-16T00:01:00",
-   "data_encerramento_proposta": "2026-07-28T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27780220000131/2026/78",
-   "score": 75
-  },
-  {
-   "numero_controle": "22104701000103-1-000015/2026",
-   "orgao": "CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL DA 15 REGIAO",
-   "unidade": "CONSELHO REG.DE FIS. E TERAPIA OCUPACIONAL-ES",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada para a prestação de serviços contínuos de limpeza, conservação e copeiragem, com fornecimento de materiais domossanitários (materiais de limpeza), a serem executados com regime de dedicação exclusiva de mão de obra, conforme Termo de Referência e anexos.",
-   "valor_estimado": 69970.08,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-10T13:36:24",
-   "data_abertura_proposta": "2026-07-13T09:00:00",
-   "data_encerramento_proposta": "2026-07-28T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/22104701000103/2026/15",
-   "score": 90
-  },
-  {
-   "numero_controle": "07162270000148-1-000028/2026",
-   "orgao": "SECRETARIA DE ESTADO DE GESTAO E RECURSOS HUMANOS",
-   "unidade": "SEGER-SECRETARIA DE ESTADO DE GESTÃO E RECURSOS HUMANOS",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Prestação de serviços de Gestão de Facilities necessários ao funcionamento da Central de Atendimento Integrado ao Cidadão – Faça Fácil, localizada no Município de Cariacica.",
-   "valor_estimado": 68637896.8,
-   "situacao": "Suspensa",
-   "data_publicacao": "2026-07-10T14:08:17",
-   "data_abertura_proposta": "2026-07-13T13:00:00",
-   "data_encerramento_proposta": "2026-07-28T10:29:00",
-   "link": "https://pncp.gov.br/app/editais/07162270000148/2026/28",
-   "score": 75
-  },
   {
    "numero_controle": "27167477000112-1-000352/2026",
    "orgao": "MUNICIPIO DE SAO MATEUS",
