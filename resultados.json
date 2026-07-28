@@ -1,8 +1,23 @@
 {
- "gerado_em": "2026-07-28T15:13:49",
+ "gerado_em": "2026-07-28T17:40:12",
  "data": "2026-07-28",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
+  {
+   "numero_controle": "27150549000119-1-000184/2026",
+   "orgao": "MUNICIPIO DE CARIACICA",
+   "unidade": "Prefeitura Municipal de Cariacica",
+   "municipio": "Cariacica",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Serviços contínuos de limpeza, higienização e conservação nas unidades escolares e administrativas vinculadas à Secretaria Municipal de Educação de Cariacica – SEME.",
+   "valor_estimado": 43273710.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-28T16:22:30",
+   "data_abertura_proposta": "2026-07-29T09:00:00",
+   "data_encerramento_proposta": "2026-08-12T14:45:00",
+   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/184",
+   "score": 100
+  },
   {
    "numero_controle": "27165208000117-1-000075/2026",
    "orgao": "MUNICIPIO DE IBIRACU",
