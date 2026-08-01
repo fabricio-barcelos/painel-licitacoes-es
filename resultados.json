@@ -1,23 +1,8 @@
 {
- "gerado_em": "2026-07-31T19:52:48",
- "data": "2026-07-31",
+ "gerado_em": "2026-08-01T04:36:44",
+ "data": "2026-08-01",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
-  {
-   "numero_controle": "27150549000119-1-000184/2026",
-   "orgao": "MUNICIPIO DE CARIACICA",
-   "unidade": "Prefeitura Municipal de Cariacica",
-   "municipio": "Cariacica",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Serviços contínuos de limpeza, higienização e conservação nas unidades escolares e administrativas vinculadas à Secretaria Municipal de Educação de Cariacica – SEME.",
-   "valor_estimado": 43273710.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-28T16:22:30",
-   "data_abertura_proposta": "2026-07-29T09:00:00",
-   "data_encerramento_proposta": "2026-08-12T14:45:00",
-   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/184",
-   "score": 100
-  },
   {
    "numero_controle": "03008926000111-1-000016/2026",
    "orgao": "CONSORCIO PUBLICO DA REGIAO NORTE DO ESPIRITO SANTO",
@@ -32,21 +17,6 @@
    "data_encerramento_proposta": "2026-08-13T08:59:00",
    "link": "https://pncp.gov.br/app/editais/03008926000111/2026/16",
    "score": 100
-  },
-  {
-   "numero_controle": "27165208000117-1-000075/2026",
-   "orgao": "MUNICIPIO DE IBIRACU",
-   "unidade": "Fundo Municipal de Saúde",
-   "municipio": "Ibiraçu",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Contratacao de empresa para o fornecimento de Materias e Ferramentas, para atender as demandas relacionadas a manutencao, conservacao e execucao de servicos, realizados pela Secretaria de Obras.",
-   "valor_estimado": 901294.51,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-28T10:49:39",
-   "data_abertura_proposta": "2026-07-29T08:00:00",
-   "data_encerramento_proposta": "2026-08-11T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27165208000117/2026/75",
-   "score": 75
   },
   {
    "numero_controle": "01612155000141-1-000053/2026",
@@ -139,52 +109,7 @@
    "score": 51
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "27167477000112-1-000354/2026",
-   "campo": "situacao",
-   "valor_anterior": "Divulgada no PNCP",
-   "valor_novo": "Suspensa",
-   "detectado_em": "2026-07-31T17:38:53",
-   "processo": {
-    "numero_controle": "27167477000112-1-000354/2026",
-    "orgao": "MUNICIPIO DE SAO MATEUS",
-    "unidade": "Secretaria Municipal de Obras Infraestrutura e Transporte",
-    "municipio": "São Mateus",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "[Portal de Compras Públicas] - REGISTRO DE PRECO PARA EVENTUAL CONTRATACAO DE EMPRESA ESPECIALIZADA NA PRESTACAO DE SERVICOS DE REPLANTIO, PLANTIO, PODA E ERRADICACAO DE ARVORES, MANUTENCAO E REVITALIZACAO DAS AREAS VERDES E GRAMADAS, CAPINA MANUAL, CAPINA MECANIZADA, RASPAGEM DE VIAS, ROCAGEM, CAIACAO E RASTELAMENTO EM VIAS PUBLICAS, EXECUCAO DE SERVICOS URBANOS E DE INFRAESTRUTURA DE BAIXA COMPLEXIDADE NO MUNICIPIO DE SAO MATEUS/ES.",
-    "valor_estimado": 31133569.04,
-    "situacao": "Suspensa",
-    "data_publicacao": "2026-06-30T08:11:54",
-    "data_abertura_proposta": "2026-06-30T09:00:00",
-    "data_encerramento_proposta": "2026-07-29T14:00:00",
-    "link": "https://pncp.gov.br/app/editais/27167477000112/2026/354",
-    "score": 88
-   }
-  },
-  {
-   "numero_controle": "27167477000112-1-000354/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-07-14T09:00:00",
-   "valor_novo": "2026-07-29T14:00:00",
-   "detectado_em": "2026-07-31T17:38:53",
-   "processo": {
-    "numero_controle": "27167477000112-1-000354/2026",
-    "orgao": "MUNICIPIO DE SAO MATEUS",
-    "unidade": "Secretaria Municipal de Obras Infraestrutura e Transporte",
-    "municipio": "São Mateus",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "[Portal de Compras Públicas] - REGISTRO DE PRECO PARA EVENTUAL CONTRATACAO DE EMPRESA ESPECIALIZADA NA PRESTACAO DE SERVICOS DE REPLANTIO, PLANTIO, PODA E ERRADICACAO DE ARVORES, MANUTENCAO E REVITALIZACAO DAS AREAS VERDES E GRAMADAS, CAPINA MANUAL, CAPINA MECANIZADA, RASPAGEM DE VIAS, ROCAGEM, CAIACAO E RASTELAMENTO EM VIAS PUBLICAS, EXECUCAO DE SERVICOS URBANOS E DE INFRAESTRUTURA DE BAIXA COMPLEXIDADE NO MUNICIPIO DE SAO MATEUS/ES.",
-    "valor_estimado": 31133569.04,
-    "situacao": "Suspensa",
-    "data_publicacao": "2026-06-30T08:11:54",
-    "data_abertura_proposta": "2026-06-30T09:00:00",
-    "data_encerramento_proposta": "2026-07-29T14:00:00",
-    "link": "https://pncp.gov.br/app/editais/27167477000112/2026/354",
-    "score": 88
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "10838653000106-1-000345/2026",
