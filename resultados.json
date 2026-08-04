@@ -1,9 +1,32 @@
 {
- "gerado_em": "2026-08-04T05:00:55",
+ "gerado_em": "2026-08-04T14:12:31",
  "data": "2026-08-04",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "31724289000115-1-000018/2026",
+   "campo": "data_encerramento_proposta",
+   "valor_anterior": "2026-07-22T09:00:00",
+   "valor_novo": "2026-07-22T12:00:00",
+   "detectado_em": "2026-08-04T14:09:19",
+   "processo": {
+    "numero_controle": "31724289000115-1-000018/2026",
+    "orgao": "CAMARA MUNICIPAL DE IUNA",
+    "unidade": "Câmara Municipal de Iúna",
+    "municipio": "Iúna",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE PORTARIA PARA ATENDIMENTO ÀS NECESSIDADES DA CÂMARA MUNICIPAL DE IÚNA/ES.",
+    "valor_estimado": 66715.44,
+    "situacao": "Divulgada no PNCP",
+    "data_publicacao": "2026-07-07T17:43:56",
+    "data_abertura_proposta": "2026-07-08T09:00:00",
+    "data_encerramento_proposta": "2026-07-22T12:00:00",
+    "link": "https://pncp.gov.br/app/editais/31724289000115/2026/18",
+    "score": 64
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "10838653000106-1-000345/2026",
@@ -89,7 +112,7 @@
    "situacao": "Divulgada no PNCP",
    "data_publicacao": "2026-07-07T17:43:56",
    "data_abertura_proposta": "2026-07-08T09:00:00",
-   "data_encerramento_proposta": "2026-07-22T09:00:00",
+   "data_encerramento_proposta": "2026-07-22T12:00:00",
    "link": "https://pncp.gov.br/app/editais/31724289000115/2026/18",
    "score": 64,
    "arquivos_baixados": [
@@ -487,21 +510,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27150549000119-1-000177/2026",
-   "orgao": "MUNICIPIO DE CARIACICA",
-   "unidade": "Prefeitura Municipal de Cariacica",
-   "municipio": "Cariacica",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços técnicos  sob demanda de remanejamento, instalação, transferência e manutenção corretiva de centrais  telefônicas e ramais (analógicos, digitais e IP), incluindo fornecimento de mão de obra especializada  e insumos necessários.",
-   "valor_estimado": 126069.97,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-17T16:39:04",
-   "data_abertura_proposta": "2026-07-20T14:00:00",
-   "data_encerramento_proposta": "2026-08-04T14:00:00",
-   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/177",
-   "score": 75
-  },
   {
    "numero_controle": "27167410000188-1-000551/2026",
    "orgao": "MUNICIPIO DE LINHARES",
