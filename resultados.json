@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T15:19:40",
+ "gerado_em": "2026-08-05T17:54:47",
  "data": "2026-08-05",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -565,6 +565,27 @@
     "SEI_4379325_Despacho_de_Andamento.pdf",
     "SEI_4548300_Aviso_de_Dispensa_Eletronica.pdf"
    ]
+  },
+  {
+   "numero_controle": "07238345000127-1-000010/2026",
+   "orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV",
+   "unidade": "MES-INSTITUTO PREV. SOC. SERV. VILA VELHA",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "contratação de empresa especializada na prestação, de forma contínua, de serviços terceirizados de Limpeza/Conservação\n(Item 01) e Recepção (Item 02), a serem executados nas dependências do Instituto de Previdência Social dos Servidores Públicos Municipal de Vila Velha – IPVV,",
+   "valor_estimado": 16016.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-04T17:58:49",
+   "data_abertura_proposta": "2026-08-06T09:00:00",
+   "data_encerramento_proposta": "2026-08-20T10:30:00",
+   "link": "https://pncp.gov.br/app/editais/07238345000127/2026/10",
+   "score": 76,
+   "arquivos_baixados": []
+  },
+  {
+   "numero_controle": "30746224000108-1-000039/2026",
+   "situacao": "não localizado",
+   "arquivos_baixados": []
   }
  ],
  "prazos_proximos": [
