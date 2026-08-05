@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T04:54:19",
+ "gerado_em": "2026-08-05T13:30:27",
  "data": "2026-08-05",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -569,66 +569,6 @@
  ],
  "prazos_proximos": [
   {
-   "numero_controle": "27167410000188-1-000551/2026",
-   "orgao": "MUNICIPIO DE LINHARES",
-   "unidade": "063 - SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA E DEFESA SOCIAL",
-   "municipio": "Linhares",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para prestação de serviços de segurança privada desarmada para atuação em eventos promovidos, apoiados ou realizados pelo município de Linhares/ES.",
-   "valor_estimado": 1497900.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-21T17:11:11",
-   "data_abertura_proposta": "2026-07-21T18:00:00",
-   "data_encerramento_proposta": "2026-08-05T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27167410000188/2026/551",
-   "score": 50
-  },
-  {
-   "numero_controle": "10838653000106-1-000366/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES - CAMPUS ITAPINA",
-   "municipio": "Colatina",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada em limpeza e conservação para atender ao Ifes campus Itapina.",
-   "valor_estimado": 737693.76,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-22T04:00:20",
-   "data_abertura_proposta": "2026-07-22T08:00:00",
-   "data_encerramento_proposta": "2026-08-05T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/366",
-   "score": 90
-  },
-  {
-   "numero_controle": "27467844000101-1-000028/2026",
-   "orgao": "GUARAPARI CAMARA MUNICIPAL",
-   "unidade": "CÂMARA MUNICIPAL DE GUARAPARI",
-   "municipio": "Guarapari",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS CONTINUADOS DE APOIO ADMINISTRATIVO, COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, PARA O PROVIMENTO DE 10 (DEZ) POSTOS DE TRABALHO NO CARGO DE DIGITADOR (CBO 4121-10)",
-   "valor_estimado": 642566.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-22T14:02:23",
-   "data_abertura_proposta": "2026-07-22T08:00:00",
-   "data_encerramento_proposta": "2026-08-05T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/27467844000101/2026/28",
-   "score": 100
-  },
-  {
-   "numero_controle": "27467844000101-1-000029/2026",
-   "orgao": "GUARAPARI CAMARA MUNICIPAL",
-   "unidade": "Câmara Municipal de Guarapari",
-   "municipio": "Guarapari",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - CONTRATACAO DE EMPRESA ESPECIALIZADA NA PRESTACAO DE SERVICOS CONTINUADOS DE APOIO ADMINISTRATIVO COM DEDICACAO EXCLUSIVA DE MAO DE OBRA PARA O PROVIMENTO DE 10 DEZ POSTOS DE TRABALHO NO CARGO DE DIGITADOR CBO 412110",
-   "valor_estimado": 642566.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-22T15:19:58",
-   "data_abertura_proposta": "2026-07-22T16:00:00",
-   "data_encerramento_proposta": "2026-08-05T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/27467844000101/2026/29",
-   "score": 100
-  },
-  {
    "numero_controle": "27080605001249-1-000108/2026",
    "orgao": "SECRETARIA DE ESTADO DA SAUDE",
    "unidade": "SUPERINTENDÊNCIA REGIONAL DE SAÚDE DE VITÓRIA",
@@ -702,6 +642,51 @@
    "data_encerramento_proposta": "2026-08-07T08:50:00",
    "link": "https://pncp.gov.br/app/editais/01612155000141/2026/53",
    "score": 75
+  },
+  {
+   "numero_controle": "27080605000196-1-000956/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "SECRETARIA DE ESTADO DA SAÚDE",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "EMPRESA PARA PRESTAÇÃO DE SERVIÇOS CONTÍNUOS - de manutenção corretiva e preventiva nos equipamentos de exaustão e descontaminação de ar, com substituição de peças - NESVO",
+   "valor_estimado": 28320.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-24T09:59:32",
+   "data_abertura_proposta": "2026-07-27T08:00:00",
+   "data_encerramento_proposta": "2026-08-10T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27080605000196/2026/956",
+   "score": 53
+  },
+  {
+   "numero_controle": "27165729000174-1-000112/2026",
+   "orgao": "MUNICIPIO DE COLATINA",
+   "unidade": "Comprador Prefeitura Municipal de Colatina",
+   "municipio": "Colatina",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para concessão onerosa de uso de espaços públicos, por prazo determinado e estritamente vinculada à realização da Festa Oficial de Aniversário do Município de Colatina 2026, destinada à exploração econômica de praça de alimentação, bares, camarote, áreas de publicidade e demais espaços expressamente delimitados pela Administração Municipal, cabendo ao concessionário, como encargos vinculados à vantagem econômica recebida, a gestão integrada das áreas concedidas, a condução dos procedimentos necessários à obtenção das licenças, alvarás, autorizações e demais atos administrativos exigidos para a realização da festa como um todo, bem como a disponibilização dos efetivos de brigada de incêndio e segurança privada definidos no Termo e pelos órgãos competentes.",
+   "valor_estimado": 417900.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-21T04:38:34",
+   "data_abertura_proposta": "2026-07-20T18:00:00",
+   "data_encerramento_proposta": "2026-08-10T09:30:00",
+   "link": "https://pncp.gov.br/app/editais/27165729000174/2026/112",
+   "score": 75
+  },
+  {
+   "numero_controle": "27744150000166-1-000101/2026",
+   "orgao": "MUNICIPIO DE IBATIBA",
+   "unidade": "Prefeitura Municipal de Ibatiba",
+   "municipio": "Ibatiba",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Registro de Precos para futura e eventual contratacao de empresa especializada na prestacao de servicos de VIGILANCIA DESARMADA, diurna e noturna, com fornecimento de mao de obra, uniformes, equipamentos e insumos necessarios, para atender as demandas da Secretaria Municipal de Meio Ambiente, Cultura e Turismo",
+   "valor_estimado": 242149.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-23T19:51:46",
+   "data_abertura_proposta": "2026-07-27T13:00:00",
+   "data_encerramento_proposta": "2026-08-10T09:59:00",
+   "link": "https://pncp.gov.br/app/editais/27744150000166/2026/101",
+   "score": 90
   }
  ]
 }
