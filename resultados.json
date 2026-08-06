@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-08-05T19:52:56",
- "data": "2026-08-05",
+ "gerado_em": "2026-08-06T05:01:35",
+ "data": "2026-08-06",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -584,7 +584,18 @@
   },
   {
    "numero_controle": "30746224000108-1-000039/2026",
-   "situacao": "não localizado",
+   "orgao": "SECRETARIA MUNICIPAL DE EDUCACAO",
+   "unidade": "FUNDO DE EDUCAÇÃO DE GUAÇUI",
+   "municipio": "Guaçuí",
+   "modalidade": "Dispensa",
+   "objeto": "PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS NO APOIO ADMINISTRATIVO E OPERACIONAL ",
+   "valor_estimado": 23000.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-24T13:38:11",
+   "data_abertura_proposta": null,
+   "data_encerramento_proposta": null,
+   "link": "https://pncp.gov.br/app/editais/30746224000108/2026/39",
+   "score": 41,
    "arquivos_baixados": []
   }
  ],
