@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-07T02:12:23",
+ "gerado_em": "2026-08-07T09:34:08",
  "data": "2026-08-07",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -687,66 +687,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27165570000198-1-000080/2026",
-   "orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
-   "unidade": "Prefeitura Municipal de Conceição do Castelo",
-   "municipio": "Conceição do Castelo",
-   "modalidade": "Concorrência - Eletrônica",
-   "objeto": "RECAPEAMENTO ASFÁLTICO COM ESPESSURA DE 6CM EM DIVERSAS VIAS DO MUNICÍPIO DE CONCEIÇÃO DO CASTELO, ES, COM EXTENSÃO TOTAL APROXIMADA DE 3,87 KM, INCLUINDO SERVIÇOS COMPLEMENTARES DE REMENDO PROFUNDO, IMPLANTAÇÃO DE PASSEIOS ACESSÍVEIS E SINALIZAÇÃO HORIZONTAL E VERTICAL.",
-   "valor_estimado": 2672323.26,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-20T09:08:18",
-   "data_abertura_proposta": "2026-07-20T10:00:00",
-   "data_encerramento_proposta": "2026-08-07T08:15:00",
-   "link": "https://pncp.gov.br/app/editais/27165570000198/2026/80",
-   "score": 75
-  },
-  {
-   "numero_controle": "27165570000198-1-000081/2026",
-   "orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
-   "unidade": "Prefeitura Municipal de Conceição do Castelo",
-   "municipio": "Conceição do Castelo",
-   "modalidade": "Concorrência - Eletrônica",
-   "objeto": "[Portal de Compras Públicas] - RECAPEAMENTO ASFALTICO COM ESPESSURA DE 6CM EM DIVERSAS VIAS DO MUNICIPIO DE CONCEICAO DO CASTELO, ES, COM EXTENSAO TOTAL APROXIMADA DE 3,87 KM, INCLUINDO SERVICOS COMPLEMENTARES DE REMENDO PROFUNDO, IMPLANTACAO DE PASSEIOS ACESSIVEIS E SINALIZACAO HORIZONTAL E VERTICAL.",
-   "valor_estimado": 2672323.26,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-21T01:47:20",
-   "data_abertura_proposta": "2026-07-20T10:00:00",
-   "data_encerramento_proposta": "2026-08-07T08:15:00",
-   "link": "https://pncp.gov.br/app/editais/27165570000198/2026/81",
-   "score": 75
-  },
-  {
-   "numero_controle": "01612155000141-1-000052/2026",
-   "orgao": "MUNICIPIO DE SOORETAMA",
-   "unidade": "PREFEITURA MUNICIPAL DE SOORETAMA",
-   "municipio": "Sooretama",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Futura e Eventual Contratação de Empresa Especializada na Prestação de Serviços deLocação de Horas Máquinas com Motorista/Operador e demais Encargos",
-   "valor_estimado": 16893306.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-23T16:10:22",
-   "data_abertura_proposta": "2026-07-24T08:00:00",
-   "data_encerramento_proposta": "2026-08-07T08:50:00",
-   "link": "https://pncp.gov.br/app/editais/01612155000141/2026/52",
-   "score": 75
-  },
-  {
-   "numero_controle": "01612155000141-1-000053/2026",
-   "orgao": "MUNICIPIO DE SOORETAMA",
-   "unidade": "PREFEITURA MUNICIPAL DE SOORETAMA",
-   "municipio": "Sooretama",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Futura e Eventual Contratação de Empresa Especializada na Prestação de Serviços deLocação de Horas Máquinas com Motorista/Operador e demais Encargos",
-   "valor_estimado": 16893306.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-29T08:09:44",
-   "data_abertura_proposta": "2026-07-24T08:00:00",
-   "data_encerramento_proposta": "2026-08-07T08:50:00",
-   "link": "https://pncp.gov.br/app/editais/01612155000141/2026/53",
-   "score": 75
-  },
   {
    "numero_controle": "27080605000196-1-000956/2026",
    "orgao": "SECRETARIA DE ESTADO DA SAUDE",
