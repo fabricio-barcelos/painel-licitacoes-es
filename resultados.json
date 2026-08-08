@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-08T08:26:57",
+ "gerado_em": "2026-08-08T11:30:54",
  "data": "2026-08-08",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -717,6 +717,66 @@
    "data_encerramento_proposta": "2026-08-12T14:45:00",
    "link": "https://pncp.gov.br/app/editais/27150549000119/2026/184",
    "score": 100
+  },
+  {
+   "numero_controle": "27165737000110-1-000101/2026",
+   "orgao": "MUNICIPIO DE BAIXO GUANDU",
+   "unidade": "Educação",
+   "municipio": "Baixo Guandu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na locação de equipamento de sonorização, iluminação e equipamentos de infraestrutura com fornecimento de mão de obra, para as festividades do 7 de Setembro (Independência do Brasil), para atender à necessidade da Secretaria Municipal de Educação.",
+   "valor_estimado": 77309.65,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-29T11:00:36",
+   "data_abertura_proposta": "2026-07-30T07:00:00",
+   "data_encerramento_proposta": "2026-08-13T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165737000110/2026/101",
+   "score": 68
+  },
+  {
+   "numero_controle": "27080605002059-1-000203/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "HOSPITAL INFANTIL NOSSA SENHORA DA GLÓRIA",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "PROCESSO PARA AQUISÇÃO DE MATERIAL PADRONIZADOS HINSG: ESCOVAS DE LIMPEZA DE MATERIAIS, PINÇAS E OUTROS",
+   "valor_estimado": 74773.26,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-29T13:52:27",
+   "data_abertura_proposta": "2026-07-31T08:00:00",
+   "data_encerramento_proposta": "2026-08-13T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/27080605002059/2026/203",
+   "score": 67
+  },
+  {
+   "numero_controle": "03008926000111-1-000016/2026",
+   "orgao": "CONSORCIO PUBLICO DA REGIAO NORTE DO ESPIRITO SANTO",
+   "unidade": "Consórcio Público da Região Norte do Espírito Santo - CIM NORTE",
+   "municipio": "Nova Venécia",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços contínuos com dedicação exclusiva de mão de obra, destinada à disponibilização de profissionais qualificados para atuação no Serviço de Atendimento Móvel de Urgência  SAMU 192 Regional, administrado pelo Consórcio Público da Região Norte do Espírito Santo  CIM NORTE/ES, compreendendo o fornecimento de mão de obra para os cargos de Condutor Socorrista (Condutor de Veículo de Emergência), Técnico de Enfermagem e Enfermeiro.",
+   "valor_estimado": 18519750.05,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-30T06:52:09",
+   "data_abertura_proposta": "2026-07-30T08:00:00",
+   "data_encerramento_proposta": "2026-08-13T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/03008926000111/2026/16",
+   "score": 100
+  },
+  {
+   "numero_controle": "31300999000118-1-000025/2026",
+   "orgao": "CONSELHO REGIONAL DE MEDICINA DO EST DO ESPIRITO SANTO",
+   "unidade": "CONSELHO REGIONAL DE MEDICINA DO ESTADO DO ES",
+   "municipio": "Vitória",
+   "modalidade": "Dispensa",
+   "objeto": "Serviço de Jardinagem para a Sede do CRM-ES",
+   "valor_estimado": 16560.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-04T12:09:28",
+   "data_abertura_proposta": "2026-08-04T15:00:00",
+   "data_encerramento_proposta": "2026-08-13T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/31300999000118/2026/25",
+   "score": 51
   }
  ]
 }
