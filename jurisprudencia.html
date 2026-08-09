@@ -1,0 +1,70 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jurisprudência TCU — Base de Consulta</title><style>
+body{font-family:Arial,sans-serif;margin:20px;background:#f5f6f8;max-width:1100px}
+h1{font-size:20px;color:#003366}
+input,select,button{padding:9px;font-size:14px;margin:0 6px 10px 0}
+input{width:55%}button{background:#003366;color:#fff;border:0;border-radius:4px;cursor:pointer}
+.card{background:#fff;border-radius:8px;padding:12px 14px;margin-bottom:10px;
+border-left:5px solid #003366;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.base{display:inline-block;background:#e8eef5;color:#003366;font-size:11px;
+padding:2px 8px;border-radius:10px;margin-bottom:4px}
+.tit{font-weight:bold;font-size:14px}.dt{color:#777;font-size:11px}
+.tx{font-size:13px;margin-top:4px;white-space:pre-wrap}
+mark{background:#ffe58a}.meta{color:#555;font-size:12px}
+a.btn{font-size:12px;color:#003366}</style></head><body>
+<h1>Jurisprudência TCU — Base de Consulta (núcleo curado)</h1>
+<p class="meta" id="meta">Carregando índice…</p>
+<form onsubmit="buscar();return false">
+<input id="q" placeholder="Buscar por termos (ex.: atestado capacidade técnica; inexequibilidade; convenção coletiva planilha)">
+<select id="fb"><option value="">todas as bases</option></select>
+<button>Buscar</button></form>
+<div id="res"></div>
+<script>
+let META=null, CH={}, ORD=[];
+fetch('tcu_meta.json').then(r=>r.json()).then(m=>{META=m;
+ document.getElementById('meta').textContent=m.total.toLocaleString('pt-BR')+
+ ' documentos ('+m.bases.join(' · ')+') — atualizado em '+m.gerado_em+
+ '. Fonte: Dados Abertos do TCU. Confirme sempre na Pesquisa Integrada (pesquisa.apps.tcu.gov.br).';
+ const s=document.getElementById('fb');
+ m.bases.forEach(b=>{const o=document.createElement('option');o.value=b;o.textContent=b;s.appendChild(o);});
+ ORD=[...Array(m.chunks).keys()].map(i=>i+1);});
+async function chunk(i){ if(!CH[i]) CH[i]=await (await fetch('tcu_chunk_'+i+'.json')).json(); return CH[i]; }
+function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+async function buscar(){
+ const q=norm(document.getElementById('q').value).trim();
+ const fb=document.getElementById('fb').value;
+ const res=document.getElementById('res'); res.innerHTML='';
+ if(q.length<3){res.innerHTML='<p class="meta">Digite ao menos 3 caracteres.</p>';return;}
+ const termos=q.split(/\s+/).filter(t=>t.length>1);
+ let achados=[], vistos=0;
+ for(const i of ORD){
+   const dados=await chunk(i);
+   for(const d of dados){
+     if(fb && d.b!==fb) continue;
+     const alvo=norm(d.t+' '+d.x);
+     if(termos.every(t=>alvo.includes(t))){
+       let score=termos.reduce((s,t)=>s+(alvo.split(t).length-1),0);
+       if(norm(d.t).includes(termos[0])) score+=5;
+       achados.push([score,d]);
+     }
+   }
+   vistos++;
+   if(achados.length>=200) break;
+ }
+ achados.sort((a,b)=>b[0]-a[0]);
+ const top=achados.slice(0,60);
+ res.innerHTML='<p class="meta">'+achados.length+' resultado(s)'+(achados.length>60?' — exibindo 60':'')+'</p>';
+ for(const [s,d] of top){
+   let tx=d.x||''; const pos=norm(tx).indexOf(termos[0]);
+   if(pos>200) tx='…'+tx.substring(pos-100);
+   if(tx.length>900) tx=tx.substring(0,900)+'…';
+   for(const t of termos){ tx=tx.replace(new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),'<mark>$1</mark>'); }
+   const el=document.createElement('div'); el.className='card';
+   el.innerHTML='<span class="base">'+d.b+'</span> <span class="dt">'+(d.d||'')+'</span>'+
+    '<div class="tit">'+(d.t||'(sem título)')+'</div><div class="tx">'+tx+'</div>'+
+    (d.u?'<a class="btn" href="'+d.u+'" target="_blank">ver documento no TCU →</a>':'');
+   res.appendChild(el);
+ }
+}
+</script></body></html>
