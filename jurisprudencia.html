@@ -1,70 +1,92 @@
 <!doctype html><html lang="pt-BR"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Jurisprudência TCU — Base de Consulta</title><style>
-body{font-family:Arial,sans-serif;margin:20px;background:#f5f6f8;max-width:1100px}
+body{font-family:Arial,sans-serif;margin:20px;background:#f5f6f8;max-width:1100px;color:#222}
 h1{font-size:20px;color:#003366}
 input,select,button{padding:9px;font-size:14px;margin:0 6px 10px 0}
 input{width:55%}button{background:#003366;color:#fff;border:0;border-radius:4px;cursor:pointer}
-.card{background:#fff;border-radius:8px;padding:12px 14px;margin-bottom:10px;
+.card{background:#fff;border-radius:8px;padding:12px 15px;margin-bottom:11px;
 border-left:5px solid #003366;box-shadow:0 1px 3px rgba(0,0,0,.08)}
-.base{display:inline-block;background:#e8eef5;color:#003366;font-size:11px;
-padding:2px 8px;border-radius:10px;margin-bottom:4px}
-.tit{font-weight:bold;font-size:14px}.dt{color:#777;font-size:11px}
-.tx{font-size:13px;margin-top:4px;white-space:pre-wrap}
-mark{background:#ffe58a}.meta{color:#555;font-size:12px}
-a.btn{font-size:12px;color:#003366}</style></head><body>
+.base{display:inline-block;background:#e8eef5;color:#003366;font-size:11px;font-weight:bold;
+padding:2px 9px;border-radius:10px;letter-spacing:.02em}
+.fontes{display:inline-block;background:#eef5e8;color:#2c5016;font-size:10px;
+padding:2px 8px;border-radius:10px;margin-left:5px}
+.tese{font-size:14px;line-height:1.5;margin:8px 0;white-space:pre-wrap}
+.acordao{font-size:13px;font-weight:bold;color:#003366;margin-top:6px}
+.fonte{color:#666;font-size:12px;margin-top:3px}
+.info{font-size:12.5px;color:#333;background:#fafbe8;border-left:3px solid #d9c840;
+padding:6px 9px;margin-top:7px;white-space:pre-wrap}
+.info b{color:#6a5b00}
+mark{background:#ffe58a;padding:0 1px}
+.meta{color:#555;font-size:12px}
+a.btn{display:inline-block;margin:7px 12px 0 0;font-size:12px;color:#003366;font-weight:bold;
+text-decoration:none}a.btn:hover{text-decoration:underline}</style></head><body>
 <h1>Jurisprudência TCU — Base de Consulta (núcleo curado)</h1>
 <p class="meta" id="meta">Carregando índice…</p>
 <form onsubmit="buscar();return false">
-<input id="q" placeholder="Buscar por termos (ex.: atestado capacidade técnica; inexequibilidade; convenção coletiva planilha)">
+<input id="q" placeholder="Buscar por termos (ex.: atestado capacidade técnica; exequibilidade; repactuação)">
 <select id="fb"><option value="">todas as bases</option></select>
 <button>Buscar</button></form>
 <div id="res"></div>
 <script>
-let META=null, CH={}, ORD=[];
+let META=null, CACHE={};
 fetch('tcu_meta.json').then(r=>r.json()).then(m=>{META=m;
  document.getElementById('meta').textContent=m.total.toLocaleString('pt-BR')+
  ' documentos ('+m.bases.join(' · ')+') — atualizado em '+m.gerado_em+
  '. Fonte: Dados Abertos do TCU. Confirme sempre na Pesquisa Integrada (pesquisa.apps.tcu.gov.br).';
  const s=document.getElementById('fb');
  m.bases.forEach(b=>{const o=document.createElement('option');o.value=b;o.textContent=b;s.appendChild(o);});
- ORD=[...Array(m.chunks).keys()].map(i=>i+1);});
-async function chunk(i){ if(!CH[i]) CH[i]=await (await fetch('tcu_chunk_'+i+'.json')).json(); return CH[i]; }
+});
+async function carregar(f){ if(!CACHE[f]) CACHE[f]=await (await fetch(f)).json(); return CACHE[f]; }
 function norm(s){return (s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');}
+function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+function realce(txt,termos){let o=esc(txt);for(const t of termos){
+ const re=new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');o=o.replace(re,'<mark>$1</mark>');}return o;}
 async function buscar(){
  const q=norm(document.getElementById('q').value).trim();
  const fb=document.getElementById('fb').value;
  const res=document.getElementById('res'); res.innerHTML='';
  if(q.length<3){res.innerHTML='<p class="meta">Digite ao menos 3 caracteres.</p>';return;}
  const termos=q.split(/\s+/).filter(t=>t.length>1);
- let achados=[], vistos=0;
- for(const i of ORD){
-   const dados=await chunk(i);
-   for(const d of dados){
-     if(fb && d.b!==fb) continue;
-     const alvo=norm(d.t+' '+d.x);
+ const shards=META.shards.filter(s=>!fb||s.base===fb);
+ res.innerHTML='<p class="meta">Buscando em '+shards.length+' bloco(s)…</p>';
+ let achados=[];
+ for(const s of shards){
+   const docs=await carregar(s.f);
+   for(const d of docs){
+     const alvo=norm((d.en||'')+' '+(d.ti||'')+' '+(d.t||'')+' '+(d.ac||''));
      if(termos.every(t=>alvo.includes(t))){
-       let score=termos.reduce((s,t)=>s+(alvo.split(t).length-1),0);
-       if(norm(d.t).includes(termos[0])) score+=5;
-       achados.push([score,d]);
+       let sc=termos.reduce((a,t)=>a+(alvo.split(t).length-1),0);
+       if(norm(d.t||'').includes(termos[0])) sc+=3;
+       achados.push([sc,d]);
      }
    }
-   vistos++;
-   if(achados.length>=200) break;
+   if(achados.length>=600) break;
  }
  achados.sort((a,b)=>b[0]-a[0]);
  const top=achados.slice(0,60);
  res.innerHTML='<p class="meta">'+achados.length+' resultado(s)'+(achados.length>60?' — exibindo 60':'')+'</p>';
- for(const [s,d] of top){
-   let tx=d.x||''; const pos=norm(tx).indexOf(termos[0]);
-   if(pos>200) tx='…'+tx.substring(pos-100);
-   if(tx.length>900) tx=tx.substring(0,900)+'…';
-   for(const t of termos){ tx=tx.replace(new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),'<mark>$1</mark>'); }
+ for(const [sc,d] of top){
    const el=document.createElement('div'); el.className='card';
-   el.innerHTML='<span class="base">'+d.b+'</span> <span class="dt">'+(d.d||'')+'</span>'+
-    '<div class="tit">'+(d.t||'(sem título)')+'</div><div class="tx">'+tx+'</div>'+
-    (d.u?'<a class="btn" href="'+d.u+'" target="_blank">ver documento no TCU →</a>':'');
-   res.appendChild(el);
+   let h='<span class="base">'+esc(d.b)+'</span>';
+   if(d.fo && d.fo.length>1) h+='<span class="fontes">também em: '+d.fo.filter(x=>x!==d.b).map(esc).join(', ')+'</span>';
+   h+='<div class="tese">'+realce(d.en||'',termos)+'</div>';
+   if(d.ac) h+='<div class="acordao">Acórdão '+esc(d.ac)+(d.col?' — '+esc(d.col):'')+'</div>';
+   const linha2=[];
+   if(d.n) linha2.push(esc(rotuloNumero(d.b,d.n)));
+   if(d.rel) linha2.push('Relator '+esc(d.rel));
+   if(d.dt) linha2.push(esc(d.dt));
+   if(linha2.length) h+='<div class="fonte">'+linha2.join(' · ')+'</div>';
+   if(d.t && !d.ac) h+='<div class="fonte">'+esc(d.t)+'</div>';
+   if(d.ti) h+='<div class="info"><b>Comentário do Informativo:</b> '+realce(d.ti,termos)+'</div>';
+   if(d.u) h+='<a class="btn" href="'+esc(d.u)+'" target="_blank" rel="noopener">ver no TCU →</a>';
+   if(d.ua) h+='<a class="btn" href="'+esc(d.ua)+'" target="_blank" rel="noopener">acórdão (inteiro teor) →</a>';
+   el.innerHTML=h; res.appendChild(el);
  }
+}
+function rotuloNumero(base,n){
+ if(base.indexOf('Súmula')>=0||base.indexOf('Sumula')>=0) return 'Súmula '+n;
+ if(base.indexOf('Informativo')>=0) return 'Informativo '+n;
+ return n;
 }
 </script></body></html>
