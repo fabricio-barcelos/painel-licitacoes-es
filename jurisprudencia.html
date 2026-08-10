@@ -48,12 +48,13 @@ async function buscar(){
  const res=document.getElementById('res'); res.innerHTML='';
  if(q.length<3){res.innerHTML='<p class="meta">Digite ao menos 3 caracteres.</p>';return;}
  const termos=q.split(/\s+/).filter(t=>t.length>1);
- const shards=META.shards.filter(s=>!fb||s.base===fb);
+ const shards=META.shards.filter(s=>!fb||(s.origem||[s.base]).includes(fb));
  res.innerHTML='<p class="meta">Buscando em '+shards.length+' bloco(s)…</p>';
  let achados=[];
  for(const s of shards){
    const docs=await carregar(s.f);
    for(const d of docs){
+     if(fb && d.b!==fb && !(d.fo&&d.fo.includes(fb))) continue;
      const alvo=norm((d.en||'')+' '+(d.ti||'')+' '+(d.t||'')+' '+(d.ac||''));
      if(termos.every(t=>alvo.includes(t))){
        let sc=termos.reduce((a,t)=>a+(alvo.split(t).length-1),0);
