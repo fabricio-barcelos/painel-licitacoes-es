@@ -20,7 +20,8 @@ padding:6px 9px;margin-top:7px;white-space:pre-wrap}
 mark{background:#ffe58a;padding:0 1px}
 .meta{color:#555;font-size:12px}
 a.btn{display:inline-block;margin:7px 12px 0 0;font-size:12px;color:#003366;font-weight:bold;
-text-decoration:none}a.btn:hover{text-decoration:underline}</style></head><body>
+text-decoration:none}a.btn:hover{text-decoration:underline}
+.semref{display:inline-block;margin-top:7px;font-size:11px;color:#999;font-style:italic}</style></head><body>
 <h1>Jurisprudência TCU — Base de Consulta (núcleo curado)</h1>
 <p class="meta" id="meta">Carregando índice…</p>
 <form onsubmit="buscar();return false">
@@ -82,6 +83,7 @@ async function buscar(){
    if(d.ti) h+='<div class="info"><b>Comentário do Informativo:</b> '+realce(d.ti,termos)+'</div>';
    if(d.u) h+='<a class="btn" href="'+esc(d.u)+'" target="_blank" rel="noopener">ver no TCU →</a>';
    if(d.ua) h+='<a class="btn" href="'+esc(d.ua)+'" target="_blank" rel="noopener">acórdão (inteiro teor) →</a>';
+   if(!d.u && !d.ua) h+='<span class="semref">sem referência de acórdão na fonte</span>';
    el.innerHTML=h; res.appendChild(el);
  }
 }
