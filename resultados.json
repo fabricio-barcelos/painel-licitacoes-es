@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-11T11:18:35",
+ "gerado_em": "2026-08-11T13:56:07",
  "data": "2026-08-11",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -49,7 +49,30 @@
    "score": 75
   }
  ],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "27150549000119-1-000184/2026",
+   "campo": "situacao",
+   "valor_anterior": "Divulgada no PNCP",
+   "valor_novo": "Suspensa",
+   "detectado_em": "2026-08-11T13:53:01",
+   "processo": {
+    "numero_controle": "27150549000119-1-000184/2026",
+    "orgao": "MUNICIPIO DE CARIACICA",
+    "unidade": "Prefeitura Municipal de Cariacica",
+    "municipio": "Cariacica",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "[Portal de Compras Públicas] - Serviços contínuos de limpeza, higienização e conservação nas unidades escolares e administrativas vinculadas à Secretaria Municipal de Educação de Cariacica – SEME.",
+    "valor_estimado": 43273710.0,
+    "situacao": "Suspensa",
+    "data_publicacao": "2026-07-28T16:22:30",
+    "data_abertura_proposta": "2026-07-29T09:00:00",
+    "data_encerramento_proposta": "2026-08-12T14:45:00",
+    "link": "https://pncp.gov.br/app/editais/27150549000119/2026/184",
+    "score": 100
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -348,7 +371,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "[Portal de Compras Públicas] - Serviços contínuos de limpeza, higienização e conservação nas unidades escolares e administrativas vinculadas à Secretaria Municipal de Educação de Cariacica – SEME.",
    "valor_estimado": 43273710.0,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-07-28T16:22:30",
    "data_abertura_proposta": "2026-07-29T09:00:00",
    "data_encerramento_proposta": "2026-08-12T14:45:00",
@@ -617,7 +640,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "[Portal de Compras Públicas] - Serviços contínuos de limpeza, higienização e conservação nas unidades escolares e administrativas vinculadas à Secretaria Municipal de Educação de Cariacica – SEME.",
    "valor_estimado": 43273710.0,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-07-28T16:22:30",
    "data_abertura_proposta": "2026-07-29T09:00:00",
    "data_encerramento_proposta": "2026-08-12T14:45:00",
