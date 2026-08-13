@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-13T11:19:21",
+ "gerado_em": "2026-08-13T13:53:59",
  "data": "2026-08-13",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -654,21 +654,6 @@
  ],
  "prazos_proximos": [
   {
-   "numero_controle": "27174143000176-1-000079/2026",
-   "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
-   "unidade": "Prefeitura Municipal de São Gabriel da Palha",
-   "municipio": "São Gabriel da Palha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - CONTRATACAO DE EMPRESA PRESTACAO DE SERVICOS DE IMPLEMENTACAO DE PARQUE GRAFICO TERCEIRIZADO (OUTSOURCING DE IMPRESSAO) COM FORECIMENTO DE EQUIPAMENTOS, INSUMOS E LOGISTICA PARA USO NOS DEPARTAMENTOS/SECRETARIAS DA PREFEITURA MUNICIPAL DE SAO GABRIEL DA PALHA-ES.",
-   "valor_estimado": 1690.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-24T13:06:10",
-   "data_abertura_proposta": "2026-07-27T08:00:00",
-   "data_encerramento_proposta": "2026-08-13T12:59:00",
-   "link": "https://pncp.gov.br/app/editais/27174143000176/2026/79",
-   "score": 51
-  },
-  {
    "numero_controle": "15126437000305-1-002807/2026",
    "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
    "unidade": "HOSPITAL U. CASSIANO ANTONIO DE MORAIS",
@@ -757,6 +742,21 @@
    "data_encerramento_proposta": "2026-08-18T08:00:00",
    "link": "https://pncp.gov.br/app/editais/27080605000196/2026/971",
    "score": 53
+  },
+  {
+   "numero_controle": "27165745000167-1-000129/2026",
+   "orgao": "MUNICIPIO DE BARRA DE SAO FRANCISCO",
+   "unidade": "PREFEITURA MUNICIPAL DE BARRA DE SÃO FRANCISCO",
+   "municipio": "Barra de São Francisco",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Registro de preços para futura e eventual contratação de empresa(s) especializada(s) no fornecimento de gêneros alimentícios, utensílios e materiais de higiene e limpeza, a ser realizado na modalidade Pregão Eletrônico, conforme condições, quantidades e exigências estabelecidas neste Termo de Referência, com o objetivo de atender às demandas operacionais dos diversos setores da Administração Pública Municipal.",
+   "valor_estimado": 2148409.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-04T14:07:42",
+   "data_abertura_proposta": "2026-08-18T13:30:00",
+   "data_encerramento_proposta": "2026-08-18T13:30:00",
+   "link": "https://pncp.gov.br/app/editais/27165745000167/2026/129",
+   "score": 75
   }
  ]
 }
