@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-14T11:20:28",
+ "gerado_em": "2026-08-14T13:48:48",
  "data": "2026-08-14",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -19,6 +19,21 @@
    "score": 100
   },
   {
+   "numero_controle": "35964162000124-1-000415/2026",
+   "orgao": "ESCOLA DE SERVICO PUBLICO DO ESPIRITO SANTO",
+   "unidade": "ESCOLA DE SERVIÇO PÚBLICO DO EPÍRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa para prestação de serviços de copeiragem, limpeza e artífice nas dependências da ESESP",
+   "valor_estimado": 754561.01,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-13T18:09:41",
+   "data_abertura_proposta": "2026-08-14T08:00:00",
+   "data_encerramento_proposta": "2026-08-27T23:59:59",
+   "link": "https://pncp.gov.br/app/editais/35964162000124/2026/415",
+   "score": 100
+  },
+  {
    "numero_controle": "27142058000126-1-000455/2026",
    "orgao": "MUNICIPIO DE VITORIA",
    "unidade": "PREFEITURA MUNICIPAL DE VITORIA",
@@ -32,6 +47,21 @@
    "data_encerramento_proposta": "2026-08-26T09:00:00",
    "link": "https://pncp.gov.br/app/editais/27142058000126/2026/455",
    "score": 90
+  },
+  {
+   "numero_controle": "02304470000174-1-000120/2026",
+   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Prestação de serviços de designer gráfico e videomaker, com cessão de mão de obra, conforme especificações e quantitativos constantes no Termo de Referência, ANEXO I do edital.",
+   "valor_estimado": 480218.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-14T11:54:05",
+   "data_abertura_proposta": "2026-08-14T13:00:00",
+   "data_encerramento_proposta": "2026-08-31T14:00:00",
+   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/120",
+   "score": 75
   },
   {
    "numero_controle": "36350312000172-1-000065/2026",
@@ -656,21 +686,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27165745000167-1-000127/2026",
-   "orgao": "MUNICIPIO DE BARRA DE SAO FRANCISCO",
-   "unidade": "PREFEITURA MUNICIPAL DE BARRA DE SÃO FRANCISCO",
-   "municipio": "Barra de São Francisco",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada para execução de serviços de poda, manejo, condução e, quando necessário, supressão de árvores em áreas públicas do Município de Barra de São Francisco/ES, incluindo o recolhimento, transporte e destinação final ambientalmente adequada dos resíduos gerados",
-   "valor_estimado": 1263441.6,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-30T15:29:04",
-   "data_abertura_proposta": "2026-08-14T13:30:00",
-   "data_encerramento_proposta": "2026-08-14T13:30:00",
-   "link": "https://pncp.gov.br/app/editais/27165745000167/2026/127",
-   "score": 75
-  },
   {
    "numero_controle": "27080605000196-1-000971/2026",
    "orgao": "SECRETARIA DE ESTADO DA SAUDE",
