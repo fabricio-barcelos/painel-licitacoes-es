@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-08-14T19:26:31",
- "data": "2026-08-14",
+ "gerado_em": "2026-08-15T07:35:54",
+ "data": "2026-08-15",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -32,21 +32,6 @@
    "data_encerramento_proposta": "2026-08-27T23:59:59",
    "link": "https://pncp.gov.br/app/editais/35964162000124/2026/415",
    "score": 100
-  },
-  {
-   "numero_controle": "27142058000126-1-000455/2026",
-   "orgao": "MUNICIPIO DE VITORIA",
-   "unidade": "PREFEITURA MUNICIPAL DE VITORIA",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS CONTÍNUOS DE PORTARIA, COM SUPERVISÃO.",
-   "valor_estimado": 67664762.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-11T16:40:53",
-   "data_abertura_proposta": "2026-08-11T08:00:00",
-   "data_encerramento_proposta": "2026-08-26T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/27142058000126/2026/455",
-   "score": 90
   },
   {
    "numero_controle": "02304470000174-1-000120/2026",
@@ -698,7 +683,10 @@
    "data_encerramento_proposta": "2026-08-27T23:59:59",
    "link": "https://pncp.gov.br/app/editais/35964162000124/2026/415",
    "score": 100,
-   "arquivos_baixados": []
+   "arquivos_baixados": [
+    "Capa-Licitacao.pdf",
+    "Edital.pdf"
+   ]
   },
   {
    "numero_controle": "02304470000174-1-000120/2026",
@@ -714,7 +702,9 @@
    "data_encerramento_proposta": "2026-08-31T14:00:00",
    "link": "https://pncp.gov.br/app/editais/02304470000174/2026/120",
    "score": 75,
-   "arquivos_baixados": []
+   "arquivos_baixados": [
+    "Edital_PE90038.2026.zip"
+   ]
   }
  ],
  "prazos_proximos": [
