@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-15T07:35:54",
+ "gerado_em": "2026-08-15T10:26:03",
  "data": "2026-08-15",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -752,6 +752,36 @@
    "data_encerramento_proposta": "2026-08-19T08:00:00",
    "link": "https://pncp.gov.br/app/editais/08109446000160/2026/13",
    "score": 100
+  },
+  {
+   "numero_controle": "27080605000196-1-001021/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "EES-SECRETARIA DE ESTADO DA SAUDE",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS CONTÍNUOS - CALIBRAÇÃO RBC DE TERMÔMETRO DIGITAL E INFRAVERMELHO.",
+   "valor_estimado": 9448.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-06T10:01:31",
+   "data_abertura_proposta": "2026-08-07T08:00:00",
+   "data_encerramento_proposta": "2026-08-20T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27080605000196/2026/1021",
+   "score": 51
+  },
+  {
+   "numero_controle": "28483014000122-1-000061/2026",
+   "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção, a serem executados nas dependências do Tribunal de Contas do Estado do Espírito Santo – TCEES, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 16059.6,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-30T16:33:42",
+   "data_abertura_proposta": "2026-08-03T08:00:00",
+   "data_encerramento_proposta": "2026-08-20T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/28483014000122/2026/61",
+   "score": 51
   }
  ]
 }
