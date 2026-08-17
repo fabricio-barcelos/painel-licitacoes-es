@@ -1,38 +1,8 @@
 {
- "gerado_em": "2026-08-16T19:16:29",
- "data": "2026-08-16",
+ "gerado_em": "2026-08-17T07:47:27",
+ "data": "2026-08-17",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
-  {
-   "numero_controle": "10838653000106-1-000418/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES- CAMPUS CACHOEIRO DE ITAPIMIRIM",
-   "municipio": "Cachoeiro de Itapemirim",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de pessoa jurídica para a prestação de serviços continuados de limpeza e conservação, bem como de jardinagem e roçagem, com fornecimento de equipamentos, ferramentas, materiais e EPIs, necessários à execução dos serviços. A prestação do serviço será por execução indireta, através de postos de trabalho, nas dependências do Ifes Campus Cachoeiro de Itapemirim, a serem executados com regime de dedicação exclusiva de mão de obra, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
-   "valor_estimado": 1136512.64,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T04:00:19",
-   "data_abertura_proposta": "2026-08-13T08:00:00",
-   "data_encerramento_proposta": "2026-08-31T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/418",
-   "score": 100
-  },
-  {
-   "numero_controle": "35964162000124-1-000415/2026",
-   "orgao": "ESCOLA DE SERVICO PUBLICO DO ESPIRITO SANTO",
-   "unidade": "ESCOLA DE SERVIÇO PÚBLICO DO EPÍRITO SANTO",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa para prestação de serviços de copeiragem, limpeza e artífice nas dependências da ESESP",
-   "valor_estimado": 754561.01,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T18:09:41",
-   "data_abertura_proposta": "2026-08-14T08:00:00",
-   "data_encerramento_proposta": "2026-08-27T23:59:59",
-   "link": "https://pncp.gov.br/app/editais/35964162000124/2026/415",
-   "score": 100
-  },
   {
    "numero_controle": "02304470000174-1-000120/2026",
    "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
@@ -47,36 +17,6 @@
    "data_encerramento_proposta": "2026-08-31T14:00:00",
    "link": "https://pncp.gov.br/app/editais/02304470000174/2026/120",
    "score": 75
-  },
-  {
-   "numero_controle": "36350312000172-1-000065/2026",
-   "orgao": "MUNICIPIO DE SAO DOMINGOS DO NORTE",
-   "unidade": "Prefeitura Municipal de São Domingos do Norte",
-   "municipio": "São Domingos do Norte",
-   "modalidade": "Pregão - Presencial",
-   "objeto": "Contratação de empresa especializada na prestação de : Serviços de produçãlo, locução especializada, outdoor, exttintores, confecção de banners, geradores, hospedagem e limpeza, alimentação e organização para camarim entre outros, a serem utilizadasna ´´4° FESTA DO CONILON´´ de São Domingos do Norte, que se realizará nosdias, 14, 15, 16 de agosto de 2026, no municipio de São Domingos do Norte.",
-   "valor_estimado": 194610.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T14:31:18",
-   "data_abertura_proposta": "2026-08-06T09:00:00",
-   "data_encerramento_proposta": "2026-08-06T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/36350312000172/2026/65",
-   "score": 59
-  },
-  {
-   "numero_controle": "27174143000176-1-000086/2026",
-   "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
-   "unidade": "Prefeitura Municipal de São Gabriel da Palha",
-   "municipio": "São Gabriel da Palha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - CONTRATACAO DE EMPRESA PRESTACAO DE SERVICOS DE IMPLEMENTACAO DE PARQUE GRAFICO TERCEIRIZADO (OUTSOURCING DE IMPRESSAO) COM FORECIMENTO DE EQUIPAMENTOS, INSUMOS E LOGISTICA PARA USO NOS DEPARTAMENTOS/SECRETARIAS DA PREFEITURA MUNICIPAL DE SAO GABRIEL DA PALHA-ES.",
-   "valor_estimado": 12632.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T16:47:09",
-   "data_abertura_proposta": "2026-08-14T08:00:00",
-   "data_encerramento_proposta": "2026-08-31T12:59:00",
-   "link": "https://pncp.gov.br/app/editais/27174143000176/2026/86",
-   "score": 51
   }
  ],
  "mudancas_hoje": [],
