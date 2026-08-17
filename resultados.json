@@ -1,8 +1,23 @@
 {
- "gerado_em": "2026-08-17T07:47:27",
+ "gerado_em": "2026-08-17T10:36:03",
  "data": "2026-08-17",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
+  {
+   "numero_controle": "27142058000126-1-000479/2026",
+   "orgao": "MUNICIPIO DE VITORIA",
+   "unidade": "PREFEITURA MUNICIPAL DE VITORIA",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, TRATAMENTO, CONSERVAÇÃO E MANUTENÇÃO DE PISCINA (COM SUBSTITUIÇÃO DE PEÇAS)",
+   "valor_estimado": 139378.3,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-17T10:07:06",
+   "data_abertura_proposta": "2026-08-17T08:00:00",
+   "data_encerramento_proposta": "2026-08-31T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/27142058000126/2026/479",
+   "score": 90
+  },
   {
    "numero_controle": "02304470000174-1-000120/2026",
    "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
