@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-19T07:43:27",
+ "gerado_em": "2026-08-19T10:43:00",
  "data": "2026-08-19",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -675,21 +675,6 @@
  ],
  "prazos_proximos": [
   {
-   "numero_controle": "08109446000160-1-000013/2026",
-   "orgao": "INSTITUTO ESTADUAL DE PROTECAO E DEFESA DO CONSUMIDOR - PROCON-ES",
-   "unidade": "INSTITUTO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": " CONTRATAÇÃO DE EMPRESA DE SERVIÇOS TERCEIRIZADOS (artífice, ASG, copeiragem, recepção e portaria) - 2026",
-   "valor_estimado": 1403455.2,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-03T14:41:39",
-   "data_abertura_proposta": "2026-08-04T08:00:00",
-   "data_encerramento_proposta": "2026-08-19T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/08109446000160/2026/13",
-   "score": 100
-  },
-  {
    "numero_controle": "27080605000196-1-001021/2026",
    "orgao": "SECRETARIA DE ESTADO DA SAUDE",
    "unidade": "EES-SECRETARIA DE ESTADO DA SAUDE",
@@ -748,6 +733,96 @@
    "data_encerramento_proposta": "2026-08-20T10:30:00",
    "link": "https://pncp.gov.br/app/editais/07238345000127/2026/10",
    "score": 76
+  },
+  {
+   "numero_controle": "27165182000107-1-000312/2026",
+   "orgao": "MUNICIPIO DE FUNDAO",
+   "unidade": "PREFEITURA MUNICIPAL DE FUNDÃO - ES",
+   "municipio": "Fundão",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços de transporte escolar, com fornecimento de veículos, motoristas e monitores, quando necessário, para atendimento das demandas da Sede do Município de Fundão e dos Distritos de Timbuí e Praia Grande, conforme condições, quantidades, rotas, quilometragens e exigências estabelecidas neste edital e seus anexos.",
+   "valor_estimado": 7321107.3,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-07T17:17:02",
+   "data_abertura_proposta": "2026-08-07T17:20:00",
+   "data_encerramento_proposta": "2026-08-24T07:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165182000107/2026/312",
+   "score": 75
+  },
+  {
+   "numero_controle": "06939919000121-1-000035/2026",
+   "orgao": "INSTITUTO DE PREVIDENCIA E ASSISTENCIA DOS SERVIDORES DO MUNICIPIO DE LINHARES",
+   "unidade": "INST DE PREV E ASSIST DOS SERV DO MUN DE LINHARES",
+   "municipio": "Linhares",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços contínuos de limpeza, conservação e  higienização predial, com disponibilização de 01 (um) profissional na função de Auxiliar de Serviços Gerais, para  atuação presencial, em regime de dedicação exclusiva de mão de obra, nas dependências da sede administrativa do  Instituto de Previdência e Assistência dos Servidores do Município de Linhares – IPASLI.",
+   "valor_estimado": 76859.64,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-05T16:45:04",
+   "data_abertura_proposta": "2026-08-06T16:00:00",
+   "data_encerramento_proposta": "2026-08-24T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/06939919000121/2026/35",
+   "score": 92
+  },
+  {
+   "numero_controle": "06939919000121-1-000036/2026",
+   "orgao": "INSTITUTO DE PREVIDENCIA E ASSISTENCIA DOS SERVIDORES DO MUNICIPIO DE LINHARES",
+   "unidade": "Instituto de Previdência e Assistência dos Servidores do Município de Linhares",
+   "municipio": "Linhares",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratacao de empresa especializada na prestacao de servicos continuos de limpeza, conservacao e  higienizacao predial, com disponibilizacao de 01 (um) profissional na funcao de Auxiliar de Servicos Gerais, para  atuacao presencial, em regime de dedicacao exclusiva de mao de obra, nas dependencias da sede administrativa do  Instituto de Previdencia e Assistencia dos Servidores do Municipio de Linhares â IPASLI.",
+   "valor_estimado": 76859.64,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-06T09:47:11",
+   "data_abertura_proposta": "2026-08-06T16:00:00",
+   "data_encerramento_proposta": "2026-08-24T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/06939919000121/2026/36",
+   "score": 92
+  },
+  {
+   "numero_controle": "27165182000107-1-000314/2026",
+   "orgao": "MUNICIPIO DE FUNDAO",
+   "unidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+   "municipio": "Fundão",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de pessoa jurídica especializada na prestação de serviços de transporte escolar, com fornecimento de veículos, motoristas e monitores, no Distrito de Praia Grande, Timbui e Fundão.",
+   "valor_estimado": 7321107.27,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-10T13:39:59",
+   "data_abertura_proposta": "2026-08-24T08:00:00",
+   "data_encerramento_proposta": "2026-08-24T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27165182000107/2026/314",
+   "score": 75
+  },
+  {
+   "numero_controle": "27167394000123-1-000067/2026",
+   "orgao": "MUNICIPIO DE IUNA",
+   "unidade": "Prefeitura Municipal de Iúna",
+   "municipio": "Iúna",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação de serviços contínuos de berçaristas, destinados ao atendimento das demandas da rede municipal de ensino.",
+   "valor_estimado": 4374372.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-06T15:09:27",
+   "data_abertura_proposta": "2026-08-07T08:00:00",
+   "data_encerramento_proposta": "2026-08-24T08:30:00",
+   "link": "https://pncp.gov.br/app/editais/27167394000123/2026/67",
+   "score": 75
+  },
+  {
+   "numero_controle": "10838653000106-1-000409/2026",
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
+   "unidade": "IFES - CAMPUS SERRA",
+   "municipio": "Serra",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a contratação da gestão integrada de serviços prediais na modalidade 'facilities', contemplando todos os serviços de limpeza, conservação e recepção, sendo que esses serviços serão prestados de forma contínua, com o emprego de mão de obra em regime de dedicação exclusiva. A contratação ainda inclui o controle de pragas, a capinagem, jardinagem, a limpeza de esquadrias, janelas e fachadas externas, limpeza de reservatórios de água, análise de água dos reservatórios, revitalização de piso de granilite, despachante, locação de caçamba. Também se inclui no escopo da contratação o gerenciamento de todos os serviços contemplados pelo contrato, incluindo todos os insumos, o fornecimento de ferramental, uniformes, EPIs, e equipamentos necessários à execução dos serviços, conforme as condições, quantidades e exigências estabelecidas neste Edital e seus anexos. conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+   "valor_estimado": 3095390.24,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-06T04:00:14",
+   "data_abertura_proposta": "2026-08-06T08:00:00",
+   "data_encerramento_proposta": "2026-08-24T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/409",
+   "score": 100
   }
  ]
 }
