@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-08-18T19:26:13",
- "data": "2026-08-18",
+ "gerado_em": "2026-08-19T07:43:27",
+ "data": "2026-08-19",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -64,52 +64,7 @@
    "score": 75
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "03008926000111-1-000016/2026",
-   "campo": "situacao",
-   "valor_anterior": "Suspensa",
-   "valor_novo": "Divulgada no PNCP",
-   "detectado_em": "2026-08-18T10:35:33",
-   "processo": {
-    "numero_controle": "03008926000111-1-000016/2026",
-    "orgao": "CONSORCIO PUBLICO DA REGIAO NORTE DO ESPIRITO SANTO",
-    "unidade": "Consórcio Público da Região Norte do Espírito Santo - CIM NORTE",
-    "municipio": "Nova Venécia",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços contínuos com dedicação exclusiva de mão de obra, destinada à disponibilização de profissionais qualificados para atuação no Serviço de Atendimento Móvel de Urgência  SAMU 192 Regional, administrado pelo Consórcio Público da Região Norte do Espírito Santo  CIM NORTE/ES, compreendendo o fornecimento de mão de obra para os cargos de Condutor Socorrista (Condutor de Veículo de Emergência), Técnico de Enfermagem e Enfermeiro.",
-    "valor_estimado": 18519750.05,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-07-30T06:52:09",
-    "data_abertura_proposta": "2026-07-30T08:00:00",
-    "data_encerramento_proposta": "2026-08-20T08:59:00",
-    "link": "https://pncp.gov.br/app/editais/03008926000111/2026/16",
-    "score": 100
-   }
-  },
-  {
-   "numero_controle": "03008926000111-1-000016/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-08-13T08:59:00",
-   "valor_novo": "2026-08-20T08:59:00",
-   "detectado_em": "2026-08-18T10:35:33",
-   "processo": {
-    "numero_controle": "03008926000111-1-000016/2026",
-    "orgao": "CONSORCIO PUBLICO DA REGIAO NORTE DO ESPIRITO SANTO",
-    "unidade": "Consórcio Público da Região Norte do Espírito Santo - CIM NORTE",
-    "municipio": "Nova Venécia",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços contínuos com dedicação exclusiva de mão de obra, destinada à disponibilização de profissionais qualificados para atuação no Serviço de Atendimento Móvel de Urgência  SAMU 192 Regional, administrado pelo Consórcio Público da Região Norte do Espírito Santo  CIM NORTE/ES, compreendendo o fornecimento de mão de obra para os cargos de Condutor Socorrista (Condutor de Veículo de Emergência), Técnico de Enfermagem e Enfermeiro.",
-    "valor_estimado": 18519750.05,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-07-30T06:52:09",
-    "data_abertura_proposta": "2026-07-30T08:00:00",
-    "data_encerramento_proposta": "2026-08-20T08:59:00",
-    "link": "https://pncp.gov.br/app/editais/03008926000111/2026/16",
-    "score": 100
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
