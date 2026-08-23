@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T10:29:50",
+ "gerado_em": "2026-08-23T13:25:01",
  "data": "2026-08-23",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -868,6 +868,21 @@
    "data_encerramento_proposta": "2026-08-28T08:00:00",
    "link": "https://pncp.gov.br/app/editais/02760004000101/2026/22",
    "score": 90
+  },
+  {
+   "numero_controle": "07162270000148-1-000028/2026",
+   "orgao": "SECRETARIA DE ESTADO DE GESTAO E RECURSOS HUMANOS",
+   "unidade": "SEGER-SECRETARIA DE ESTADO DE GESTÃO E RECURSOS HUMANOS",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Prestação de serviços de Gestão de Facilities necessários ao funcionamento da Central de Atendimento Integrado ao Cidadão – Faça Fácil, localizada no Município de Cariacica.",
+   "valor_estimado": 68637896.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-10T14:08:17",
+   "data_abertura_proposta": "2026-07-13T13:00:00",
+   "data_encerramento_proposta": "2026-08-28T10:30:00",
+   "link": "https://pncp.gov.br/app/editais/07162270000148/2026/28",
+   "score": 75
   }
  ]
 }
