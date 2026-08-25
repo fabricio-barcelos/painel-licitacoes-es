@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-25T07:47:50",
+ "gerado_em": "2026-08-25T10:52:00",
  "data": "2026-08-25",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -629,21 +629,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27080605002059-1-000220/2026",
-   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
-   "unidade": "HOSPITAL INFANTIL NOSSA SENHORA DA GLÓRIA",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de recepção hospitalar para atender às necessidades do Hospital Infantil Nossa Senhora da Glória (HINSG).",
-   "valor_estimado": 1909368.6,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-10T12:21:19",
-   "data_abertura_proposta": "2026-08-11T08:00:00",
-   "data_encerramento_proposta": "2026-08-25T07:59:00",
-   "link": "https://pncp.gov.br/app/editais/27080605002059/2026/220",
-   "score": 75
-  },
   {
    "numero_controle": "27165182000107-1-000311/2026",
    "orgao": "MUNICIPIO DE FUNDAO",
