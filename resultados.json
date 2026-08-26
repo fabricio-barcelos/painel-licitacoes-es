@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-26T13:52:38",
+ "gerado_em": "2026-08-26T18:53:24",
  "data": "2026-08-26",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -716,6 +716,22 @@
    "arquivos_baixados": [
     "Edital_PE90038.2026.zip"
    ]
+  },
+  {
+   "numero_controle": "28483014000122-1-000070/2026",
+   "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção, a serem executados nas dependências do Tribunal de Contas do Estado do Espírito Santo – TCEES, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 963576.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-25T14:07:55",
+   "data_abertura_proposta": "2026-08-26T08:00:00",
+   "data_encerramento_proposta": "2026-09-11T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/28483014000122/2026/70",
+   "score": 75,
+   "arquivos_baixados": []
   }
  ],
  "prazos_proximos": [
@@ -808,6 +824,21 @@
    "data_encerramento_proposta": "2026-08-31T12:59:00",
    "link": "https://pncp.gov.br/app/editais/27174143000176/2026/86",
    "score": 51
+  },
+  {
+   "numero_controle": "02304470000174-1-000120/2026",
+   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Prestação de serviços de designer gráfico e videomaker, com cessão de mão de obra, conforme especificações e quantitativos constantes no Termo de Referência, ANEXO I do edital.",
+   "valor_estimado": 480218.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-14T11:54:05",
+   "data_abertura_proposta": "2026-08-14T13:00:00",
+   "data_encerramento_proposta": "2026-08-31T14:00:00",
+   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/120",
+   "score": 75
   }
  ]
 }
