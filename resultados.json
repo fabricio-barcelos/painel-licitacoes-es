@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-08-26T23:38:05",
- "data": "2026-08-26",
+ "gerado_em": "2026-08-27T17:25:08",
+ "data": "2026-08-27",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -49,6 +49,21 @@
    "score": 75
   },
   {
+   "numero_controle": "10838653000106-1-000455/2026",
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
+   "unidade": "IFES - CAMPUS PIUMA",
+   "municipio": "Piúma",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestadora de serviços de transporte de passageiros mediante fretamento de vans, ônibus convencional, ônibus executivo, com motorista e combustível, sob regime de quilômetro rodado.",
+   "valor_estimado": 1214875.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-27T04:00:52",
+   "data_abertura_proposta": "2026-08-27T08:00:00",
+   "data_encerramento_proposta": "2026-09-11T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/455",
+   "score": 75
+  },
+  {
    "numero_controle": "36350346000167-1-000064/2026",
    "orgao": "MUNICIPIO DE VILA PAVAO",
    "unidade": "PREFEITURA MUNICIPAL DE VILA PAVÃO",
@@ -64,74 +79,7 @@
    "score": 51
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "01612155000141-1-000053/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-08-07T08:50:00",
-   "valor_novo": "2026-08-26T08:00:00",
-   "detectado_em": "2026-08-26T07:41:16",
-   "processo": {
-    "numero_controle": "01612155000141-1-000053/2026",
-    "orgao": "MUNICIPIO DE SOORETAMA",
-    "unidade": "PREFEITURA MUNICIPAL DE SOORETAMA",
-    "municipio": "Sooretama",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "Futura e Eventual Contratação de Empresa Especializada na Prestação de Serviços deLocação de Horas Máquinas com Motorista/Operador e demais Encargos",
-    "valor_estimado": 16893306.0,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-07-29T08:09:44",
-    "data_abertura_proposta": "2026-07-24T08:00:00",
-    "data_encerramento_proposta": "2026-08-26T08:00:00",
-    "link": "https://pncp.gov.br/app/editais/01612155000141/2026/53",
-    "score": 63
-   }
-  },
-  {
-   "numero_controle": "27167477000112-1-000456/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-09-09T09:00:00",
-   "valor_novo": "2026-09-11T09:00:00",
-   "detectado_em": "2026-08-26T13:48:32",
-   "processo": {
-    "numero_controle": "27167477000112-1-000456/2026",
-    "orgao": "MUNICIPIO DE SAO MATEUS",
-    "unidade": "Secretaria Municipal de Educação",
-    "municipio": "São Mateus",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "[Portal de Compras Públicas] - REGISTRO DE PRECOS PARA EVENTUAL CONTRATACAO DE EMPRESA ESPECIALIZADA NA PRESTACAO DE SERVICOS DE TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO EVENTUAL, MEDIANTE DISPONIBILIZACAO DE ONIBUS RODOVIARIO, MICRO-ONIBUS RODOVIARIO E VAN EXECUTIVA, COM MOTORISTA, COMBUSTIVEL E TODOS OS DEMAIS CUSTOS NECESSARIOS A EXECUCAO DOS SERVICOS, DESTINADOSAO ATENDIMENTO DAS DEMANDAS DO ORGAO GERENCIADOR E DOSORGAOS PARTICIPANTES.",
-    "valor_estimado": 1287470.0,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-08-25T08:27:43",
-    "data_abertura_proposta": "2026-08-25T09:00:00",
-    "data_encerramento_proposta": "2026-09-11T09:00:00",
-    "link": "https://pncp.gov.br/app/editais/27167477000112/2026/456",
-    "score": 75
-   }
-  },
-  {
-   "numero_controle": "27167477000112-1-000453/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-09-09T09:00:00",
-   "valor_novo": "2026-09-11T09:00:00",
-   "detectado_em": "2026-08-26T23:29:06",
-   "processo": {
-    "numero_controle": "27167477000112-1-000453/2026",
-    "orgao": "MUNICIPIO DE SAO MATEUS",
-    "unidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
-    "municipio": "São Mateus",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO EVENTUAL, MEDIANTE DISPONIBILIZAÇÃO DE ÔNIBUS RODOVIÁRIO, MICRO-ÔNIBUS RODOVIÁRIO E VAN EXECUTIVA, COM MOTORISTA, COMBUSTÍVEL E TODOS OS DEMAIS CUSTOS NECESSÁRIOS À EXECUÇÃO DOS SERVIÇOS, DESTINADOSAO ATENDIMENTO DAS DEMANDAS DO ÓRGÃO GERENCIADOR E DOSÓRGÃOS PARTICIPANTES.",
-    "valor_estimado": 1287470.0,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-08-24T15:00:09",
-    "data_abertura_proposta": "2026-08-25T09:00:00",
-    "data_encerramento_proposta": "2026-09-11T09:00:00",
-    "link": "https://pncp.gov.br/app/editais/27167477000112/2026/453",
-    "score": 75
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -187,24 +135,6 @@
    "arquivos_baixados": [
     "ETP_-_Faca-Facil.pdf",
     "Edital_04_-_Gestao_do_Faca_Facil.pdf"
-   ]
-  },
-  {
-   "numero_controle": "32479123000143-1-000072/2026",
-   "orgao": "UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
-   "unidade": "UNIVERSIDADE FEDERAL DO ESPIRITO SANTO/ES",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de serviços continuados de Apoio Administrativo para os campi da Universidade Federal do Espírito Santo, divididos em 05 (cinco) lotes, para o período de 24 (vinte e quatro) meses.  ",
-   "valor_estimado": 33055016.7,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-01T07:05:33",
-   "data_abertura_proposta": "2026-07-01T08:00:00",
-   "data_encerramento_proposta": "2026-07-16T10:00:00",
-   "link": "https://pncp.gov.br/app/editais/32479123000143/2026/72",
-   "score": 63,
-   "arquivos_baixados": [
-    "15304605900592026000.pdf"
    ]
   },
   {
