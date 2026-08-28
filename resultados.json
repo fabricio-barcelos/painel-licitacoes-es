@@ -1,8 +1,23 @@
 {
- "gerado_em": "2026-08-27T19:53:01",
+ "gerado_em": "2026-08-27T21:49:56",
  "data": "2026-08-27",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
+  {
+   "numero_controle": "27150549000119-1-000196/2026",
+   "orgao": "MUNICIPIO DE CARIACICA",
+   "unidade": "Prefeitura Municipal de Cariacica",
+   "municipio": "Cariacica",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratação a prestação de serviços continuados de  recepção com dedicação exclusiva de mão de obra mediante a disponibilização de  até 05 cinco postos de Recepcionista em jornada de 44 quarenta e quatro horas  semanais destinados ao atendimento das necessidades das Unidades Administrativas  do Município de Cariacica conforme as demandas da Administração observadas as  especificações quantitativos.",
+   "valor_estimado": 371981.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-27T18:37:00",
+   "data_abertura_proposta": "2026-08-31T08:00:00",
+   "data_encerramento_proposta": "2026-09-15T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/196",
+   "score": 100
+  },
   {
    "numero_controle": "27167477000112-1-000453/2026",
    "orgao": "MUNICIPIO DE SAO MATEUS",
