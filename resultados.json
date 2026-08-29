@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-29T13:58:57",
+ "gerado_em": "2026-08-29T16:08:32",
  "data": "2026-08-29",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -739,6 +739,26 @@
     "Mapa-de-Gestao-de-Risco.pdf",
     "Precos-Referencias.pdf",
     "Termo-de-Referencia.pdf"
+   ]
+  },
+  {
+   "numero_controle": "07238345000127-1-000014/2026",
+   "orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV",
+   "unidade": "MES-INSTITUTO PREV. SOC. SERV. VILA VELHA",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Empresa para prestação de serviço de Limpeza/Conservação e Recepção com carga horária de 44 horas semanais, de segunda a sexta feira pelo período de 60 meses.",
+   "valor_estimado": 34305.14,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-28T16:35:41",
+   "data_abertura_proposta": "2026-09-01T08:00:00",
+   "data_encerramento_proposta": "2026-09-16T10:30:00",
+   "link": "https://pncp.gov.br/app/editais/07238345000127/2026/14",
+   "score": 80,
+   "arquivos_baixados": [
+    "ETP_ASG_e_RECEPCAO_.pdf",
+    "Edital_Pregao_Eletronico_002-2026_-_IPVV__ASG_e_Recepcao__-_Segunda_Tentativa.pdf",
+    "TR_Unificado_ASG_e_Recepcao_-_RETIFICADO_ERRATA_N._01-2026.pdf"
    ]
   }
  ],
