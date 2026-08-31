@@ -1,23 +1,8 @@
 {
- "gerado_em": "2026-08-30T21:09:41",
- "data": "2026-08-30",
+ "gerado_em": "2026-08-31T14:42:09",
+ "data": "2026-08-31",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
-  {
-   "numero_controle": "27150549000119-1-000196/2026",
-   "orgao": "MUNICIPIO DE CARIACICA",
-   "unidade": "Prefeitura Municipal de Cariacica",
-   "municipio": "Cariacica",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Contratação a prestação de serviços continuados de  recepção com dedicação exclusiva de mão de obra mediante a disponibilização de  até 05 cinco postos de Recepcionista em jornada de 44 quarenta e quatro horas  semanais destinados ao atendimento das necessidades das Unidades Administrativas  do Município de Cariacica conforme as demandas da Administração observadas as  especificações quantitativos.",
-   "valor_estimado": 371981.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-27T18:37:00",
-   "data_abertura_proposta": "2026-08-31T08:00:00",
-   "data_encerramento_proposta": "2026-09-15T10:00:00",
-   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/196",
-   "score": 100
-  },
   {
    "numero_controle": "08750791000189-1-000036/2026",
    "orgao": "SECRETARIA DE ESTADO DO TURISMO",
@@ -77,21 +62,6 @@
    "data_encerramento_proposta": "2026-09-16T10:30:00",
    "link": "https://pncp.gov.br/app/editais/07238345000127/2026/14",
    "score": 80
-  },
-  {
-   "numero_controle": "10838653000106-1-000455/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES - CAMPUS PIUMA",
-   "municipio": "Piúma",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestadora de serviços de transporte de passageiros mediante fretamento de vans, ônibus convencional, ônibus executivo, com motorista e combustível, sob regime de quilômetro rodado.",
-   "valor_estimado": 1214875.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-27T04:00:52",
-   "data_abertura_proposta": "2026-08-27T08:00:00",
-   "data_encerramento_proposta": "2026-09-11T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/455",
-   "score": 75
   },
   {
    "numero_controle": "27451574000132-1-000021/2026",
@@ -748,66 +718,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "10838653000106-1-000418/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES- CAMPUS CACHOEIRO DE ITAPIMIRIM",
-   "municipio": "Cachoeiro de Itapemirim",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de pessoa jurídica para a prestação de serviços continuados de limpeza e conservação, bem como de jardinagem e roçagem, com fornecimento de equipamentos, ferramentas, materiais e EPIs, necessários à execução dos serviços. A prestação do serviço será por execução indireta, através de postos de trabalho, nas dependências do Ifes Campus Cachoeiro de Itapemirim, a serem executados com regime de dedicação exclusiva de mão de obra, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
-   "valor_estimado": 1136512.64,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T04:00:19",
-   "data_abertura_proposta": "2026-08-13T08:00:00",
-   "data_encerramento_proposta": "2026-08-31T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/418",
-   "score": 100
-  },
-  {
-   "numero_controle": "27142058000126-1-000479/2026",
-   "orgao": "MUNICIPIO DE VITORIA",
-   "unidade": "PREFEITURA MUNICIPAL DE VITORIA",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE LIMPEZA, TRATAMENTO, CONSERVAÇÃO E MANUTENÇÃO DE PISCINA (COM SUBSTITUIÇÃO DE PEÇAS)",
-   "valor_estimado": 139378.3,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-17T10:07:06",
-   "data_abertura_proposta": "2026-08-17T08:00:00",
-   "data_encerramento_proposta": "2026-08-31T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/27142058000126/2026/479",
-   "score": 90
-  },
-  {
-   "numero_controle": "27174143000176-1-000086/2026",
-   "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
-   "unidade": "Prefeitura Municipal de São Gabriel da Palha",
-   "municipio": "São Gabriel da Palha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - CONTRATACAO DE EMPRESA PRESTACAO DE SERVICOS DE IMPLEMENTACAO DE PARQUE GRAFICO TERCEIRIZADO (OUTSOURCING DE IMPRESSAO) COM FORECIMENTO DE EQUIPAMENTOS, INSUMOS E LOGISTICA PARA USO NOS DEPARTAMENTOS/SECRETARIAS DA PREFEITURA MUNICIPAL DE SAO GABRIEL DA PALHA-ES.",
-   "valor_estimado": 12632.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T16:47:09",
-   "data_abertura_proposta": "2026-08-14T08:00:00",
-   "data_encerramento_proposta": "2026-08-31T12:59:00",
-   "link": "https://pncp.gov.br/app/editais/27174143000176/2026/86",
-   "score": 51
-  },
-  {
-   "numero_controle": "02304470000174-1-000120/2026",
-   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
-   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
-   "municipio": "Vila Velha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Prestação de serviços de designer gráfico e videomaker, com cessão de mão de obra, conforme especificações e quantitativos constantes no Termo de Referência, ANEXO I do edital.",
-   "valor_estimado": 480218.28,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-14T11:54:05",
-   "data_abertura_proposta": "2026-08-14T13:00:00",
-   "data_encerramento_proposta": "2026-08-31T14:00:00",
-   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/120",
-   "score": 75
-  },
   {
    "numero_controle": "27165554000103-1-000405/2026",
    "orgao": "MUNICIPIO DE VILA VELHA",
