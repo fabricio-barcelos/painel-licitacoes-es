@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-01T11:46:47",
+ "gerado_em": "2026-09-01T14:15:36",
  "data": "2026-09-01",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -19,7 +19,30 @@
    "score": 53
   }
  ],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "27174143000176-1-000103/2026",
+   "campo": "situacao",
+   "valor_anterior": "Divulgada no PNCP",
+   "valor_novo": "Suspensa",
+   "detectado_em": "2026-09-01T14:06:31",
+   "processo": {
+    "numero_controle": "27174143000176-1-000103/2026",
+    "orgao": "MUNICIPIO DE SAO GABRIEL DA PALHA",
+    "unidade": "FUNDO MUNICIPAL DE EDUCACAO - FUMDEB",
+    "municipio": "São Gabriel da Palha",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada para a prestação de serviços continuados de transporte escolar, em regime de dedicação exclusiva de mão de obra, com fornecimento de veículos, condutores e monitores, no Município de São Gabriel da Palha/ES, pelo período de 36 meses, conforme condições, quantidades, rotas, especificações técnicas e exigências estabelecidas no Termo de Referência, Estudo Técnico Preliminar e demais anexos deste Edital.",
+    "valor_estimado": 262985.28,
+    "situacao": "Suspensa",
+    "data_publicacao": "2026-08-28T12:21:27",
+    "data_abertura_proposta": "2026-08-31T08:00:00",
+    "data_encerramento_proposta": "2026-09-17T12:59:00",
+    "link": "https://pncp.gov.br/app/editais/27174143000176/2026/103",
+    "score": 90
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
