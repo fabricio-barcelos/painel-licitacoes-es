@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-02T14:07:04",
+ "gerado_em": "2026-09-02T16:16:25",
  "data": "2026-09-02",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -61,6 +61,21 @@
    "data_abertura_proposta": "2026-09-17T09:30:00",
    "data_encerramento_proposta": "2026-09-17T09:30:00",
    "link": "https://pncp.gov.br/app/editais/27165638000139/2026/272",
+   "score": 50
+  },
+  {
+   "numero_controle": "27165588000190-1-000229/2026",
+   "orgao": "MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM",
+   "unidade": "Prefeitura Municipal de Cachoeiro de Itapemirim",
+   "municipio": "Cachoeiro de Itapemirim",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Tratase de Contratação de Empresa para Prestação de Serviços de Controle de Acesso de Público, conforme TR",
+   "valor_estimado": 305977.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-02T11:30:09",
+   "data_abertura_proposta": "2026-09-02T14:00:00",
+   "data_encerramento_proposta": "2026-09-17T00:07:59",
+   "link": "https://pncp.gov.br/app/editais/27165588000190/2026/229",
    "score": 50
   }
  ],
@@ -721,6 +736,43 @@
    "score": 50,
    "arquivos_baixados": [
     "PREGAO_ELETRONICO_175_2026.pdf"
+   ]
+  },
+  {
+   "numero_controle": "35964162000124-1-000526/2026",
+   "orgao": "ESCOLA DE SERVICO PUBLICO DO ESPIRITO SANTO",
+   "unidade": "ESCOLA DE SERVIÇO PÚBLICO DO EPÍRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa para prestação de serviços de copeiragem, limpeza e artífice nas dependências da ESESP",
+   "valor_estimado": 760583.76,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-01T15:10:10",
+   "data_abertura_proposta": "2026-09-02T08:00:00",
+   "data_encerramento_proposta": "2026-09-17T23:59:59",
+   "link": "https://pncp.gov.br/app/editais/35964162000124/2026/526",
+   "score": 100,
+   "arquivos_baixados": [
+    "Capa-Licitacao.pdf",
+    "Edital-PE-N-002_2026-1.pdf"
+   ]
+  },
+  {
+   "numero_controle": "27165588000190-1-000229/2026",
+   "orgao": "MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM",
+   "unidade": "Prefeitura Municipal de Cachoeiro de Itapemirim",
+   "municipio": "Cachoeiro de Itapemirim",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Tratase de Contratação de Empresa para Prestação de Serviços de Controle de Acesso de Público, conforme TR",
+   "valor_estimado": 305977.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-02T11:30:09",
+   "data_abertura_proposta": "2026-09-02T14:00:00",
+   "data_encerramento_proposta": "2026-09-17T00:07:59",
+   "link": "https://pncp.gov.br/app/editais/27165588000190/2026/229",
+   "score": 50,
+   "arquivos_baixados": [
+    "PE0322026.pdf"
    ]
   }
  ],
