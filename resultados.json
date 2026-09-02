@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-02T18:49:02",
+ "gerado_em": "2026-09-02T20:54:24",
  "data": "2026-09-02",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -79,7 +79,30 @@
    "score": 50
   }
  ],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "27165554000103-1-000405/2026",
+   "campo": "situacao",
+   "valor_anterior": "Divulgada no PNCP",
+   "valor_novo": "Suspensa",
+   "detectado_em": "2026-09-02T20:49:04",
+   "processo": {
+    "numero_controle": "27165554000103-1-000405/2026",
+    "orgao": "MUNICIPIO DE VILA VELHA",
+    "unidade": "PREFEITURA MUNICIPAL DE VILA VELHA - ES",
+    "municipio": "Vila Velha",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE LIMPEZA E DESOBSTRUÇÃO DE CAIXA DE PASSAGEM PLUVIAL E ESGOTO, POÇO DE VISITA, CAIXA RALO, CAIXA DE PASSAGEM, CAIXA DE CONTENÇÃO, BOCA DE LOBO, FOSSA, FILTRO, INCLUSIVE SERVIÇOS CORRELATOS, CARGA, TRANSPORTE E DESCARGA DOS DETRITOS RECOLHIDOS EM ATENDIMENTO AS DEMANDAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO EM LOCAL DETERMINADO PARA A DESTINAÇÃO FINAL DE RESÍDUOS CLASSE II-A.\n",
+    "valor_estimado": 3037137.92,
+    "situacao": "Suspensa",
+    "data_publicacao": "2026-08-17T11:53:37",
+    "data_abertura_proposta": "2026-08-19T08:00:00",
+    "data_encerramento_proposta": "2026-09-03T10:00:00",
+    "link": "https://pncp.gov.br/app/editais/27165554000103/2026/405",
+    "score": 75
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -785,7 +808,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM PRESTAÇÃO DE SERVIÇOS DE LIMPEZA E DESOBSTRUÇÃO DE CAIXA DE PASSAGEM PLUVIAL E ESGOTO, POÇO DE VISITA, CAIXA RALO, CAIXA DE PASSAGEM, CAIXA DE CONTENÇÃO, BOCA DE LOBO, FOSSA, FILTRO, INCLUSIVE SERVIÇOS CORRELATOS, CARGA, TRANSPORTE E DESCARGA DOS DETRITOS RECOLHIDOS EM ATENDIMENTO AS DEMANDAS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO EM LOCAL DETERMINADO PARA A DESTINAÇÃO FINAL DE RESÍDUOS CLASSE II-A.\n",
    "valor_estimado": 3037137.92,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-08-17T11:53:37",
    "data_abertura_proposta": "2026-08-19T08:00:00",
    "data_encerramento_proposta": "2026-09-03T10:00:00",
