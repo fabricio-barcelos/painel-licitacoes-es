@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-03T13:57:21",
+ "gerado_em": "2026-09-03T16:08:58",
  "data": "2026-09-03",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -183,56 +183,6 @@
    "score": 50,
    "arquivos_baixados": [
     "PREG_O_ELETR_NICO_147_2026.pdf"
-   ]
-  },
-  {
-   "numero_controle": "27165554000103-1-000260/2026",
-   "orgao": "MUNICIPIO DE VILA VELHA",
-   "unidade": "PREFEITURA MUNICIPAL DE VILA VELHA - ES",
-   "municipio": "Vila Velha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de serviços de JARDINAGEM E ARTÍFICE, a serem executados com regime de dedicação exclusiva de mão de obra, de natureza continua, via Registro de Preços",
-   "valor_estimado": 5383126.44,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-05-29T07:23:46",
-   "data_abertura_proposta": "2026-06-10T09:00:00",
-   "data_encerramento_proposta": "2026-06-24T10:30:00",
-   "link": "https://pncp.gov.br/app/editais/27165554000103/2026/260",
-   "score": 84,
-   "arquivos_baixados": [
-    "98570305900672026002.pdf"
-   ]
-  },
-  {
-   "numero_controle": "10838653000106-1-000366/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES - CAMPUS ITAPINA",
-   "municipio": "Colatina",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada em limpeza e conservação para atender ao Ifes campus Itapina.",
-   "valor_estimado": 737693.76,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-22T04:00:20",
-   "data_abertura_proposta": "2026-07-22T08:00:00",
-   "data_encerramento_proposta": "2026-08-05T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/366",
-   "score": 90,
-   "arquivos_baixados": [
-    "10_-_Adendo_II_do_Contrato_-_Instrumento_de_Medicao_de_Resultados.doc",
-    "11_-_Adendo_III_do_Contrato_Termo_de_Nomeacao_de_Preposto.docx",
-    "12_-_Anexo_IX_Declaracao_de_Parentesco.docx",
-    "13_-_Anexo_X_Declaracao_de_responsabilidade_pelo_enquadramento_sindical.docx",
-    "1_-_Anexo_I__Termo_de_Referencia.pdf",
-    "1_2026.pdf",
-    "2_-_Anexo_II_Modelo_de_Proposta.docx",
-    "4_-_Anexo_IV_Declaracao_de_Contratos_Firmados.docx",
-    "5_-_Anexo_V_Declaracao_de_Renuncia_de_Vistoria.docx",
-    "6_-_Anexo_VI_Declaracao_de_Vistoria.docx",
-    "7_-_Anexo_VII_Autorizacao_para_abertura_de_conta_vinculada.docx",
-    "8_-_Anexo_VIII_Minuta_do_Contrato.pdf",
-    "9_-_Adendo_I_do_Contrato_Autorizacao_Complementar_ao_Contrato.pdf",
-    "Anexo_III_-_Planilha_de_Custos.pdf",
-    "TERMO_ADITIVO_CCT_SINDILIMPE_Asseio_e_Conservacao_2026.pdf"
    ]
   },
   {
@@ -803,6 +753,24 @@
    "score": 50,
    "arquivos_baixados": [
     "PE0322026.pdf"
+   ]
+  },
+  {
+   "numero_controle": "27167311000104-1-000075/2026",
+   "orgao": "MUNICIPIO DE ECOPORANGA",
+   "unidade": "Prefeitura Municipal de Ecoporanga",
+   "municipio": "Ecoporanga",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresas especializadas para a prestação de serviços de Equipe de Apoio Operacional e Brigadistas Lote 01, Segurança Desarmada Lote 02 destinados ao atendimento dos eventos, campanhas institucionais, ações governamentais e demais atividades promovidas, realizadas ou apoiadas pela Prefeitura Municipal de Ecoporanga ",
+   "valor_estimado": 661148.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-03T06:54:08",
+   "data_abertura_proposta": "2026-09-03T08:00:00",
+   "data_encerramento_proposta": "2026-09-18T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27167311000104/2026/75",
+   "score": 75,
+   "arquivos_baixados": [
+    "EDITAL_PE_010.2026_EQUIPE_DE_APOIO_E_SEGURANCA_DESARMADA.pdf"
    ]
   }
  ],
