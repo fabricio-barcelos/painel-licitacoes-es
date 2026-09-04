@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-04T15:55:24",
+ "gerado_em": "2026-09-04T18:30:21",
  "data": "2026-09-04",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -61,6 +61,21 @@
    "data_abertura_proposta": "2026-09-03T08:00:00",
    "data_encerramento_proposta": "2026-09-18T08:59:00",
    "link": "https://pncp.gov.br/app/editais/27165737000110/2026/111",
+   "score": 75
+  },
+  {
+   "numero_controle": "27142025000186-1-000055/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DEFESA SOCIAL",
+   "unidade": "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E DEFESA SOCIAL",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção",
+   "valor_estimado": 743962.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-04T15:12:46",
+   "data_abertura_proposta": "2026-09-10T09:00:00",
+   "data_encerramento_proposta": "2026-09-28T09:30:00",
+   "link": "https://pncp.gov.br/app/editais/27142025000186/2026/55",
    "score": 75
   },
   {
