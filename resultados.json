@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-05T20:32:53",
- "data": "2026-09-05",
+ "gerado_em": "2026-09-06T10:38:11",
+ "data": "2026-09-06",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -47,21 +47,6 @@
    "data_encerramento_proposta": "2026-09-28T09:30:00",
    "link": "https://pncp.gov.br/app/editais/27142025000186/2026/55",
    "score": 75
-  },
-  {
-   "numero_controle": "27165588000190-1-000229/2026",
-   "orgao": "MUNICIPIO DE CACHOEIRO DE ITAPEMIRIM",
-   "unidade": "Prefeitura Municipal de Cachoeiro de Itapemirim",
-   "municipio": "Cachoeiro de Itapemirim",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Tratase de Contratação de Empresa para Prestação de Serviços de Controle de Acesso de Público, conforme TR",
-   "valor_estimado": 305977.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-02T11:30:09",
-   "data_abertura_proposta": "2026-09-02T14:00:00",
-   "data_encerramento_proposta": "2026-09-17T00:07:59",
-   "link": "https://pncp.gov.br/app/editais/27165588000190/2026/229",
-   "score": 50
   }
  ],
  "mudancas_hoje": [],
@@ -773,6 +758,81 @@
    "data_abertura_proposta": "2026-08-27T08:00:00",
    "data_encerramento_proposta": "2026-09-09T09:30:00",
    "link": "https://pncp.gov.br/app/editais/27165190000153/2026/215",
+   "score": 75
+  },
+  {
+   "numero_controle": "27167477000112-1-000453/2026",
+   "orgao": "MUNICIPIO DE SAO MATEUS",
+   "unidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+   "municipio": "São Mateus",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "REGISTRO DE PREÇOS PARA EVENTUAL CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE RODOVIÁRIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO EVENTUAL, MEDIANTE DISPONIBILIZAÇÃO DE ÔNIBUS RODOVIÁRIO, MICRO-ÔNIBUS RODOVIÁRIO E VAN EXECUTIVA, COM MOTORISTA, COMBUSTÍVEL E TODOS OS DEMAIS CUSTOS NECESSÁRIOS À EXECUÇÃO DOS SERVIÇOS, DESTINADOSAO ATENDIMENTO DAS DEMANDAS DO ÓRGÃO GERENCIADOR E DOSÓRGÃOS PARTICIPANTES.",
+   "valor_estimado": 1287470.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-24T15:00:09",
+   "data_abertura_proposta": "2026-08-25T09:00:00",
+   "data_encerramento_proposta": "2026-09-11T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/27167477000112/2026/453",
+   "score": 75
+  },
+  {
+   "numero_controle": "27167477000112-1-000456/2026",
+   "orgao": "MUNICIPIO DE SAO MATEUS",
+   "unidade": "Secretaria Municipal de Educação",
+   "municipio": "São Mateus",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - REGISTRO DE PRECOS PARA EVENTUAL CONTRATACAO DE EMPRESA ESPECIALIZADA NA PRESTACAO DE SERVICOS DE TRANSPORTE RODOVIARIO COLETIVO DE PASSAGEIROS, SOB REGIME DE FRETAMENTO EVENTUAL, MEDIANTE DISPONIBILIZACAO DE ONIBUS RODOVIARIO, MICRO-ONIBUS RODOVIARIO E VAN EXECUTIVA, COM MOTORISTA, COMBUSTIVEL E TODOS OS DEMAIS CUSTOS NECESSARIOS A EXECUCAO DOS SERVICOS, DESTINADOSAO ATENDIMENTO DAS DEMANDAS DO ORGAO GERENCIADOR E DOSORGAOS PARTICIPANTES.",
+   "valor_estimado": 1287470.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-25T08:27:43",
+   "data_abertura_proposta": "2026-08-25T09:00:00",
+   "data_encerramento_proposta": "2026-09-11T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/27167477000112/2026/456",
+   "score": 75
+  },
+  {
+   "numero_controle": "10838653000106-1-000455/2026",
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
+   "unidade": "IFES - CAMPUS PIUMA",
+   "municipio": "Piúma",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestadora de serviços de transporte de passageiros mediante fretamento de vans, ônibus convencional, ônibus executivo, com motorista e combustível, sob regime de quilômetro rodado.",
+   "valor_estimado": 1214875.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-27T04:00:52",
+   "data_abertura_proposta": "2026-08-27T08:00:00",
+   "data_encerramento_proposta": "2026-09-11T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/455",
+   "score": 75
+  },
+  {
+   "numero_controle": "02970007000161-1-000055/2025",
+   "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DE GUARAPARI / ES - IPG",
+   "unidade": "INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO DE GUARAPARI",
+   "municipio": "Guarapari",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para realização de Censo Previdenciário dos servidores titulares de cargo efetivo em atividade, segurados do Instituto de Previdência dos Servidores do Município de Guarapari/ES - IPG, estimados em aproximadamente 2.700 pessoas, compreendendo a atualização, confirmação, complementação, validação e consolidação de dados cadastrais, bem como a recepção, digitalização, organização e armazenamento eletrônico de documentos e imagens vinculados ao processo.",
+   "valor_estimado": 213489.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-21T16:06:30",
+   "data_abertura_proposta": "2026-08-27T09:30:00",
+   "data_encerramento_proposta": "2026-09-11T09:30:00",
+   "link": "https://pncp.gov.br/app/editais/02970007000161/2025/55",
+   "score": 75
+  },
+  {
+   "numero_controle": "28483014000122-1-000070/2026",
+   "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção, a serem executados nas dependências do Tribunal de Contas do Estado do Espírito Santo – TCEES, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 963576.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-25T14:07:55",
+   "data_abertura_proposta": "2026-08-26T08:00:00",
+   "data_encerramento_proposta": "2026-09-11T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/28483014000122/2026/70",
    "score": 75
   }
  ]
