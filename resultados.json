@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-08T14:03:52",
+ "gerado_em": "2026-09-08T16:17:53",
  "data": "2026-09-08",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -681,6 +681,52 @@
    "score": 75,
    "arquivos_baixados": [
     "EDITAL_PE_010.2026_EQUIPE_DE_APOIO_E_SEGURANCA_DESARMADA.pdf"
+   ]
+  },
+  {
+   "numero_controle": "27142025000186-1-000055/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DEFESA SOCIAL",
+   "unidade": "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E DEFESA SOCIAL",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção",
+   "valor_estimado": 743962.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-04T15:12:46",
+   "data_abertura_proposta": "2026-09-10T09:00:00",
+   "data_encerramento_proposta": "2026-09-28T09:30:00",
+   "link": "https://pncp.gov.br/app/editais/27142025000186/2026/55",
+   "score": 75,
+   "arquivos_baixados": [
+    "Capa-Licitacao.pdf",
+    "Dotacao-Orcamentaria.pdf",
+    "Edital.pdf",
+    "Estudo-Tecnico-Preliminar.pdf",
+    "Mapa-Comparativo-2.pdf",
+    "Mapa-Comparativo.pdf",
+    "Precos_Referenciais_-_Limpeza__Conservacao_e.pdf.pdf",
+    "Relatorio-de-Itens.pdf",
+    "Termo-de-Referencia.pdf"
+   ]
+  },
+  {
+   "numero_controle": "10838653000106-1-000485/2026",
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
+   "unidade": "IFES - CAMPUS SãO MATEUS",
+   "municipio": "São Mateus",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços de vigilância patrimonial armada para atender as necessidades do Ifes, campus São Mateus.\n",
+   "valor_estimado": 529519.2,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-08T04:00:07",
+   "data_abertura_proposta": "2026-09-08T09:00:00",
+   "data_encerramento_proposta": "2026-09-29T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/485",
+   "score": 75,
+   "arquivos_baixados": [
+    "3_2026.pdf",
+    "4_2026.pdf",
+    "PREGAO_VIGILANCIA-_ANEXOS.zip"
    ]
   }
  ],
