@@ -1,8 +1,23 @@
 {
- "gerado_em": "2026-09-09T16:02:48",
+ "gerado_em": "2026-09-09T18:36:18",
  "data": "2026-09-09",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
+  {
+   "numero_controle": "27834977000160-1-000146/2025",
+   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES",
+   "unidade": "Serviço Autônomo de Água e Esgoto de Linhares",
+   "municipio": "Linhares",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Aquisicao de fornecimento integral de mao de obra, equipamentos e materiais necessarios para a prestacao dos servicos de hidrojateamento de alta pressao, limpeza e desobstrucao da rede coletora de esgoto sanitario e de seus ramais, por meio de tecnologia hidrodinamica, utilizando caminhao combinado de alto-vacuo e hidrojato, com 02 (dois) caminhoes, conforme especificacoes do Termo de Referencia.",
+   "valor_estimado": 3162915.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-09T00:26:42",
+   "data_abertura_proposta": "2026-09-10T08:00:00",
+   "data_encerramento_proposta": "2026-10-01T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27834977000160/2025/146",
+   "score": 90
+  },
   {
    "numero_controle": "10838653000106-1-000485/2026",
    "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
