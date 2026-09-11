@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-11T11:18:07",
+ "gerado_em": "2026-09-11T13:53:44",
  "data": "2026-09-11",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -850,6 +850,21 @@
    "data_encerramento_proposta": "2026-09-16T10:30:00",
    "link": "https://pncp.gov.br/app/editais/07238345000127/2026/14",
    "score": 80
+  },
+  {
+   "numero_controle": "08750791000189-1-000036/2026",
+   "orgao": "SECRETARIA DE ESTADO DO TURISMO",
+   "unidade": "SECRETARIA DE ESTADO DO TURISMO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para prestação de serviços de vigilância patrimonial com dedicação exclusiva de mão de obra, compreendendo o fornecimento de profissionais, equipamentos, materiais, uniformes e demais insumos necessários à perfeita execução dos serviços para atender o imóvel destinado à sede da Secretaria de Estado de Turismo.",
+   "valor_estimado": 826656.96,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-28T12:37:26",
+   "data_abertura_proposta": "2026-09-01T09:00:00",
+   "data_encerramento_proposta": "2026-09-16T12:40:00",
+   "link": "https://pncp.gov.br/app/editais/08750791000189/2026/36",
+   "score": 100
   }
  ]
 }
