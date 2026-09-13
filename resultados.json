@@ -1,23 +1,8 @@
 {
- "gerado_em": "2026-09-12T20:45:08",
- "data": "2026-09-12",
+ "gerado_em": "2026-09-13T11:19:28",
+ "data": "2026-09-13",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
-  {
-   "numero_controle": "27834977000160-1-000146/2025",
-   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES",
-   "unidade": "Serviço Autônomo de Água e Esgoto de Linhares",
-   "municipio": "Linhares",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Aquisicao de fornecimento integral de mao de obra, equipamentos e materiais necessarios para a prestacao dos servicos de hidrojateamento de alta pressao, limpeza e desobstrucao da rede coletora de esgoto sanitario e de seus ramais, por meio de tecnologia hidrodinamica, utilizando caminhao combinado de alto-vacuo e hidrojato, com 02 (dois) caminhoes, conforme especificacoes do Termo de Referencia.",
-   "valor_estimado": 3162915.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-09T00:26:42",
-   "data_abertura_proposta": "2026-09-10T08:00:00",
-   "data_encerramento_proposta": "2026-10-01T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27834977000160/2025/146",
-   "score": 90
-  },
   {
    "numero_controle": "14946241000132-1-000017/2026",
    "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
@@ -918,6 +903,66 @@
    "data_encerramento_proposta": "2026-09-17T12:59:00",
    "link": "https://pncp.gov.br/app/editais/27174143000176/2026/103",
    "score": 90
+  },
+  {
+   "numero_controle": "35964162000124-1-000526/2026",
+   "orgao": "ESCOLA DE SERVICO PUBLICO DO ESPIRITO SANTO",
+   "unidade": "ESCOLA DE SERVIÇO PÚBLICO DO EPÍRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa para prestação de serviços de copeiragem, limpeza e artífice nas dependências da ESESP",
+   "valor_estimado": 760583.76,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-01T15:10:10",
+   "data_abertura_proposta": "2026-09-02T08:00:00",
+   "data_encerramento_proposta": "2026-09-17T23:59:59",
+   "link": "https://pncp.gov.br/app/editais/35964162000124/2026/526",
+   "score": 100
+  },
+  {
+   "numero_controle": "27167311000104-1-000075/2026",
+   "orgao": "MUNICIPIO DE ECOPORANGA",
+   "unidade": "Prefeitura Municipal de Ecoporanga",
+   "municipio": "Ecoporanga",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresas especializadas para a prestação de serviços de Equipe de Apoio Operacional e Brigadistas Lote 01, Segurança Desarmada Lote 02 destinados ao atendimento dos eventos, campanhas institucionais, ações governamentais e demais atividades promovidas, realizadas ou apoiadas pela Prefeitura Municipal de Ecoporanga ",
+   "valor_estimado": 661148.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-03T06:54:08",
+   "data_abertura_proposta": "2026-09-03T08:00:00",
+   "data_encerramento_proposta": "2026-09-18T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27167311000104/2026/75",
+   "score": 75
+  },
+  {
+   "numero_controle": "27165570000198-1-000108/2026",
+   "orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
+   "unidade": "Prefeitura Municipal de Conceição do Castelo",
+   "municipio": "Conceição do Castelo",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "[Portal de Compras Públicas] - RECAPEAMENTO ASFALTICO COM ESPESSURA DE 6CM EM DIVERSAS VIAS DO MUNICIPIO DE CONCEICAO DO CASTELO, ES, COM EXTENSAO TOTAL APROXIMADA DE 3,87 KM, INCLUINDO SERVICOS COMPLEMENTARES DE REMENDO PROFUNDO, IMPLANTACAO DE PASSEIOS ACESSIVEIS E SINALIZACAO HORIZONTAL E VERTICAL.",
+   "valor_estimado": 2672323.26,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-01T14:42:27",
+   "data_abertura_proposta": "2026-09-01T14:30:00",
+   "data_encerramento_proposta": "2026-09-18T08:15:00",
+   "link": "https://pncp.gov.br/app/editais/27165570000198/2026/108",
+   "score": 75
+  },
+  {
+   "numero_controle": "27165737000110-1-000111/2026",
+   "orgao": "MUNICIPIO DE BAIXO GUANDU",
+   "unidade": "Educação",
+   "municipio": "Baixo Guandu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Formalização de Registro de Preços para eventual e futura Contratação de Empresa especializada na prestação de serviços de locação de estrutura, infraestrutura, iluminação, sonorização e demais equipamentos necessários, com fornecimento de mão de obra técnica especializada, incluindo montagem, operação de desmontagem das estruturas e equipamentos, através da Secretaria Municipal de Políticas para as Mulheres e Cultura.",
+   "valor_estimado": 1041077.99,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-03T07:49:56",
+   "data_abertura_proposta": "2026-09-03T08:00:00",
+   "data_encerramento_proposta": "2026-09-18T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/27165737000110/2026/111",
+   "score": 75
   }
  ]
 }
