@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-13T11:19:28",
+ "gerado_em": "2026-09-13T13:48:37",
  "data": "2026-09-13",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -17,6 +17,21 @@
    "data_encerramento_proposta": "2026-03-02T08:00:00",
    "link": "https://pncp.gov.br/app/editais/14946241000132/2026/17",
    "score": 59
+  },
+  {
+   "numero_controle": "11423181000185-1-000047/2026",
+   "orgao": "FUNDO MUNICIPAL DE SAUDE DE GUACUI",
+   "unidade": "FUNDO MUNICIPAL DE SAÚDE GUAÇUI",
+   "municipio": "Guaçuí",
+   "modalidade": "Dispensa",
+   "objeto": "SERVIÇOS DE MÃO DE OBRA DE PEQUENOS REPAROS MANUTENÇÃO HIDRÁULICA - ÁGUA E ESGOTO",
+   "valor_estimado": 63000.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-11T08:29:15",
+   "data_abertura_proposta": null,
+   "data_encerramento_proposta": null,
+   "link": "https://pncp.gov.br/app/editais/11423181000185/2026/47",
+   "score": 53
   },
   {
    "numero_controle": "28483014000122-1-000073/2026",
@@ -765,6 +780,24 @@
     "EDITAL_PE_N__27.2025_-_CAMINH_O_HIDROJATO_RETIFICADO_I.pdf",
     "EDITAL_PE_N__27.2025_II_-_CAMINH_O_HIDROJATO_RETIFICADO_II.pdf",
     "SUSPENSAO_DE_LICITACAO.PE27.2025.Ass.pdf"
+   ]
+  },
+  {
+   "numero_controle": "11423181000185-1-000047/2026",
+   "orgao": "FUNDO MUNICIPAL DE SAUDE DE GUACUI",
+   "unidade": "FUNDO MUNICIPAL DE SAÚDE GUAÇUI",
+   "municipio": "Guaçuí",
+   "modalidade": "Dispensa",
+   "objeto": "SERVIÇOS DE MÃO DE OBRA DE PEQUENOS REPAROS MANUTENÇÃO HIDRÁULICA - ÁGUA E ESGOTO",
+   "valor_estimado": 63000.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-11T08:29:15",
+   "data_abertura_proposta": null,
+   "data_encerramento_proposta": null,
+   "link": "https://pncp.gov.br/app/editais/11423181000185/2026/47",
+   "score": 53,
+   "arquivos_baixados": [
+    "EDITAL_COMPRA_DIRETA_assinado.pdf"
    ]
   }
  ],
