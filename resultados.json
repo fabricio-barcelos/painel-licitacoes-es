@@ -1,22 +1,37 @@
 {
- "gerado_em": "2026-09-13T20:55:21",
- "data": "2026-09-13",
+ "gerado_em": "2026-09-14T13:20:28",
+ "data": "2026-09-14",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
-   "numero_controle": "14946241000132-1-000017/2026",
-   "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
-   "unidade": "Fundo de Assistencia Social de Alegre",
-   "municipio": "Alegre",
+   "numero_controle": "27174085000180-1-000107/2026",
+   "orgao": "MUNICIPIO DE PINHEIROS",
+   "unidade": "Fundo Municipal de Saúde",
+   "municipio": "Pinheiros",
    "modalidade": "Pregão - Eletrônico",
-   "objeto": "REGISTRO DE PREÇO para futura e eventual FORNECIMENTO DE COLCHÕES E KITS DORMITÓRIO (COMPOSTOS POR LENÇOL, FRONHA, TRAVESSEIRO E COBERTOR), BEM COMO KITS DE HIGIENE PESSOAL E DE LIMPEZA, VISANDO ATENDER ÀS DEMANDAS EMERGENCIAIS DECORRENTES DAS SITUAÇÕES DE CALAMIDADE PÚBLICA E EMERGÊNCIA QUE SURGIREM NO MUNICÍPIO DE ALEGRE",
-   "valor_estimado": 976110.0,
+   "objeto": "[Portal de Compras Públicas] - Materiais de Higiene, Limpeza, Gêneros Alimentícios e Utensílios Domésticos.",
+   "valor_estimado": 169289.61,
    "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-10T11:35:10",
-   "data_abertura_proposta": "2026-02-13T08:00:00",
-   "data_encerramento_proposta": "2026-03-02T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/14946241000132/2026/17",
-   "score": 59
+   "data_publicacao": "2026-09-14T08:24:27",
+   "data_abertura_proposta": "2026-09-14T09:00:00",
+   "data_encerramento_proposta": "2026-09-25T07:30:00",
+   "link": "https://pncp.gov.br/app/editais/27174085000180/2026/107",
+   "score": 75
+  },
+  {
+   "numero_controle": "02304470000174-1-000136/2026",
+   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Sistema de Registro de Preços para contratação de empresa especializada para fornecimento e instalação de persianas, incluindo materiais, acessórios e mão de obra necessária à execução dos serviços, para atendimento das demandas das unidades do Ministério Público do Estado do Espírito Santo – MPES.",
+   "valor_estimado": 174746.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-14T12:18:27",
+   "data_abertura_proposta": "2026-09-14T12:30:00",
+   "data_encerramento_proposta": "2026-09-25T14:00:00",
+   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/136",
+   "score": 75
   },
   {
    "numero_controle": "11423181000185-1-000047/2026",
@@ -32,21 +47,6 @@
    "data_encerramento_proposta": null,
    "link": "https://pncp.gov.br/app/editais/11423181000185/2026/47",
    "score": 53
-  },
-  {
-   "numero_controle": "28483014000122-1-000073/2026",
-   "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
-   "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de buffet para o evento comemorativo do Dia do Servidor Público do TCEES, compreendendo o fornecimento de alimentos, bebidas não alcoólicas, insumos, materiais, utensílios, equipamentos e mão de obra necessária à execução dos serviços de montagem, organização, reposição contínua e desmontagem, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
-   "valor_estimado": 22937.5,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-10T13:18:11",
-   "data_abertura_proposta": "2026-09-11T08:00:00",
-   "data_encerramento_proposta": "2026-09-25T10:00:00",
-   "link": "https://pncp.gov.br/app/editais/28483014000122/2026/73",
-   "score": 51
   }
  ],
  "mudancas_hoje": [],
@@ -763,36 +763,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27080605000196-1-001100/2026",
-   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
-   "unidade": "SECRETARIA DE ESTADO DA SAÚDE",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de Empresa para Prestação de Serviços Contínuos Especializados de coleta externa, transporte, tratamento e disposição final de resíduos de serviços de saúde, classe I (Grupo B- químicos)",
-   "valor_estimado": 184800.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-21T13:48:14",
-   "data_abertura_proposta": "2026-08-24T08:00:00",
-   "data_encerramento_proposta": "2026-09-14T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/27080605000196/2026/1100",
-   "score": 75
-  },
-  {
-   "numero_controle": "27451574000132-1-000021/2026",
-   "orgao": "INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO MUNICIPIO DA SERRA",
-   "unidade": "IPS - INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO M",
-   "municipio": "Serra",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços contínuos de agenciamento de viagens, compreendendo pesquisa, cotação, reserva, emissão, marcação, remarcação, cancelamento e reembolso de passagens aéreas nacionais, sob demanda, para atender às necessidades do Instituto de Previdência dos Servidores do Município da Serra (IPS - ES).",
-   "valor_estimado": 100000.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-28T18:32:06",
-   "data_abertura_proposta": "2026-09-02T13:00:00",
-   "data_encerramento_proposta": "2026-09-14T13:00:00",
-   "link": "https://pncp.gov.br/app/editais/27451574000132/2026/21",
-   "score": 75
-  },
   {
    "numero_controle": "27150549000119-1-000196/2026",
    "orgao": "MUNICIPIO DE CARIACICA",
