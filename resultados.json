@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-14T21:12:17",
- "data": "2026-09-14",
+ "gerado_em": "2026-09-15T11:59:24",
+ "data": "2026-09-15",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -32,69 +32,9 @@
    "data_encerramento_proposta": "2026-09-25T14:00:00",
    "link": "https://pncp.gov.br/app/editais/02304470000174/2026/136",
    "score": 75
-  },
-  {
-   "numero_controle": "11423181000185-1-000047/2026",
-   "orgao": "FUNDO MUNICIPAL DE SAUDE DE GUACUI",
-   "unidade": "FUNDO MUNICIPAL DE SAÚDE GUAÇUI",
-   "municipio": "Guaçuí",
-   "modalidade": "Dispensa",
-   "objeto": "SERVIÇOS DE MÃO DE OBRA DE PEQUENOS REPAROS MANUTENÇÃO HIDRÁULICA - ÁGUA E ESGOTO",
-   "valor_estimado": 63000.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-11T08:29:15",
-   "data_abertura_proposta": null,
-   "data_encerramento_proposta": null,
-   "link": "https://pncp.gov.br/app/editais/11423181000185/2026/47",
-   "score": 53
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "10838653000106-1-000485/2026",
-   "campo": "data_encerramento_proposta",
-   "valor_anterior": "2026-09-29T10:00:00",
-   "valor_novo": "2026-09-29T08:00:00",
-   "detectado_em": "2026-09-14T17:06:36",
-   "processo": {
-    "numero_controle": "10838653000106-1-000485/2026",
-    "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-    "unidade": "IFES - CAMPUS SãO MATEUS",
-    "municipio": "São Mateus",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "Contratação de empresa especializada na prestação de serviços de vigilância patrimonial armada para atender as necessidades do Ifes, campus São Mateus.\n",
-    "valor_estimado": 529519.2,
-    "situacao": "Divulgada no PNCP",
-    "data_publicacao": "2026-09-08T04:00:07",
-    "data_abertura_proposta": "2026-09-08T09:00:00",
-    "data_encerramento_proposta": "2026-09-29T08:00:00",
-    "link": "https://pncp.gov.br/app/editais/10838653000106/2026/485",
-    "score": 75
-   }
-  },
-  {
-   "numero_controle": "08750791000189-1-000036/2026",
-   "campo": "situacao",
-   "valor_anterior": "Divulgada no PNCP",
-   "valor_novo": "Suspensa",
-   "detectado_em": "2026-09-14T19:19:03",
-   "processo": {
-    "numero_controle": "08750791000189-1-000036/2026",
-    "orgao": "SECRETARIA DE ESTADO DO TURISMO",
-    "unidade": "SECRETARIA DE ESTADO DO TURISMO",
-    "municipio": "Vitória",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "Contratação de empresa especializada para prestação de serviços de vigilância patrimonial com dedicação exclusiva de mão de obra, compreendendo o fornecimento de profissionais, equipamentos, materiais, uniformes e demais insumos necessários à perfeita execução dos serviços para atender o imóvel destinado à sede da Secretaria de Estado de Turismo.",
-    "valor_estimado": 826656.96,
-    "situacao": "Suspensa",
-    "data_publicacao": "2026-08-28T12:37:26",
-    "data_abertura_proposta": "2026-09-01T09:00:00",
-    "data_encerramento_proposta": "2026-09-16T12:40:00",
-    "link": "https://pncp.gov.br/app/editais/08750791000189/2026/36",
-    "score": 100
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -811,21 +751,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "27150549000119-1-000196/2026",
-   "orgao": "MUNICIPIO DE CARIACICA",
-   "unidade": "Prefeitura Municipal de Cariacica",
-   "municipio": "Cariacica",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Contratação a prestação de serviços continuados de  recepção com dedicação exclusiva de mão de obra mediante a disponibilização de  até 05 cinco postos de Recepcionista em jornada de 44 quarenta e quatro horas  semanais destinados ao atendimento das necessidades das Unidades Administrativas  do Município de Cariacica conforme as demandas da Administração observadas as  especificações quantitativos.",
-   "valor_estimado": 371981.4,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-27T18:37:00",
-   "data_abertura_proposta": "2026-08-31T08:00:00",
-   "data_encerramento_proposta": "2026-09-15T10:00:00",
-   "link": "https://pncp.gov.br/app/editais/27150549000119/2026/196",
-   "score": 100
-  },
   {
    "numero_controle": "07238345000127-1-000014/2026",
    "orgao": "INSTITUTO DE PREVIDENCIA SOCIAL DOS SERVIDORES PUBLICOS DO MUNICIPIO DE VILA VELHA (ES)- IPVV",
