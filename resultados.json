@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-16T14:27:25",
+ "gerado_em": "2026-09-16T16:20:42",
  "data": "2026-09-16",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -31,6 +31,51 @@
    "data_abertura_proposta": "2026-09-14T12:30:00",
    "data_encerramento_proposta": "2026-09-25T14:00:00",
    "link": "https://pncp.gov.br/app/editais/02304470000174/2026/136",
+   "score": 75
+  },
+  {
+   "numero_controle": "27165620000137-1-000085/2026",
+   "orgao": "MUNICIPIO DE ATILIO VIVACQUA",
+   "unidade": "PREFEITURA MUNICIPAL DE ATÍLIO VIVÁCQUA",
+   "municipio": "Atílio Vivácqua",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A AMPLIAÇÃO E REFORMA DA ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA – EMEB “ZULMIRA VENTURY BAPTISTA”, SITUADA NA RUA SANTO CANSIAN, S/N, BAIRRO ALTO NITERÓI, ATÍLIO VIVÁCQUA/ES, COM FORNECIMENTO DE MATERIAIS, MÃO DE OBRA, EQUIPAMENTOS E DEMAIS RECURSOS NECESSÁRIOS À EXECUÇÃO DOS SERVIÇOS",
+   "valor_estimado": 1583544.48,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-16T08:30:30",
+   "data_abertura_proposta": "2026-09-15T08:00:00",
+   "data_encerramento_proposta": "2026-09-29T08:09:00",
+   "link": "https://pncp.gov.br/app/editais/27165620000137/2026/85",
+   "score": 75
+  },
+  {
+   "numero_controle": "14946241000132-1-000018/2026",
+   "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
+   "unidade": "Fundo de Assistencia Social de Alegre",
+   "municipio": "Alegre",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "REGISTRO DE PREÇO para futura e eventual FORNECIMENTO DE COLCHÕES E KITS DORMITÓRIO (COMPOSTOS POR LENÇOL, FRONHA, TRAVESSEIRO E COBERTOR), BEM COMO KITS DE HIGIENE PESSOAL E DE LIMPEZA, VISANDO ATENDER ÀS DEMANDAS EMERGENCIAIS DECORRENTES DAS SITUAÇÕES DE CALAMIDADE PÚBLICA E EMERGÊNCIA QUE SURGIREM NO MUNICÍPIO DE ALEGRE",
+   "valor_estimado": 976110.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-16T08:00:46",
+   "data_abertura_proposta": "2026-09-16T08:00:00",
+   "data_encerramento_proposta": "2026-09-28T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/14946241000132/2026/18",
+   "score": 75
+  },
+  {
+   "numero_controle": "27165570000198-1-000120/2026",
+   "orgao": "MUNICIPIO DE CONCEICAO DO CASTELO",
+   "unidade": "Prefeitura Municipal de Conceição do Castelo",
+   "municipio": "Conceição do Castelo",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - PRESTACAO DE SERVICOS DE INSTALACAO E DESINSTALACAO (REMOCAO) DE AR-CONDICIONADO, COM FORNECIMENTO DE PECAS DE REPOSICAO, ACESSORIOS, INSUMOS E MATERIAIS NECESSARIOS A EXECUCAO DOS SERVICOS, INCLUINDO MAO DE OBRA QUALIFICADA, FERRAMENTAS E EQUIPAMENTOS, PARA ATENDER AS NECESSIDADES DAS DIVERSAS SECRETARIAS DO MUNICIPIO DE CONCEICAO DO CASTELO, ES",
+   "valor_estimado": 139454.44,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-16T14:28:20",
+   "data_abertura_proposta": "2026-09-17T07:00:00",
+   "data_encerramento_proposta": "2026-10-05T08:15:00",
+   "link": "https://pncp.gov.br/app/editais/27165570000198/2026/120",
    "score": 75
   }
  ],
@@ -423,42 +468,6 @@
    ]
   },
   {
-   "numero_controle": "10838653000106-1-000418/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES- CAMPUS CACHOEIRO DE ITAPIMIRIM",
-   "municipio": "Cachoeiro de Itapemirim",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de pessoa jurídica para a prestação de serviços continuados de limpeza e conservação, bem como de jardinagem e roçagem, com fornecimento de equipamentos, ferramentas, materiais e EPIs, necessários à execução dos serviços. A prestação do serviço será por execução indireta, através de postos de trabalho, nas dependências do Ifes Campus Cachoeiro de Itapemirim, a serem executados com regime de dedicação exclusiva de mão de obra, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
-   "valor_estimado": 1136512.64,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-13T04:00:19",
-   "data_abertura_proposta": "2026-08-13T08:00:00",
-   "data_encerramento_proposta": "2026-08-31T08:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/418",
-   "score": 100,
-   "arquivos_baixados": [
-    "Edital_e_Anexos.zip"
-   ]
-  },
-  {
-   "numero_controle": "02304470000174-1-000120/2026",
-   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
-   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
-   "municipio": "Vila Velha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Prestação de serviços de designer gráfico e videomaker, com cessão de mão de obra, conforme especificações e quantitativos constantes no Termo de Referência, ANEXO I do edital.",
-   "valor_estimado": 480218.28,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-14T11:54:05",
-   "data_abertura_proposta": "2026-08-14T13:00:00",
-   "data_encerramento_proposta": "2026-08-31T14:00:00",
-   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/120",
-   "score": 75,
-   "arquivos_baixados": [
-    "Edital_PE90038.2026.zip"
-   ]
-  },
-  {
    "numero_controle": "28483014000122-1-000070/2026",
    "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
    "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
@@ -709,24 +718,6 @@
    ]
   },
   {
-   "numero_controle": "11423181000185-1-000047/2026",
-   "orgao": "FUNDO MUNICIPAL DE SAUDE DE GUACUI",
-   "unidade": "FUNDO MUNICIPAL DE SAÚDE GUAÇUI",
-   "municipio": "Guaçuí",
-   "modalidade": "Dispensa",
-   "objeto": "SERVIÇOS DE MÃO DE OBRA DE PEQUENOS REPAROS MANUTENÇÃO HIDRÁULICA - ÁGUA E ESGOTO",
-   "valor_estimado": 63000.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-11T08:29:15",
-   "data_abertura_proposta": null,
-   "data_encerramento_proposta": null,
-   "link": "https://pncp.gov.br/app/editais/11423181000185/2026/47",
-   "score": 53,
-   "arquivos_baixados": [
-    "EDITAL_COMPRA_DIRETA_assinado.pdf"
-   ]
-  },
-  {
    "numero_controle": "27142025000186-1-000084/2025",
    "orgao": "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DEFESA SOCIAL",
    "unidade": "EES-SECRETARIA EST.DA SEG.PUB.E DEFESA SOCIAL",
@@ -748,6 +739,81 @@
    "numero_controle": "30746224000108-1-000048/2026",
    "situacao": "não localizado",
    "arquivos_baixados": []
+  },
+  {
+   "numero_controle": "00399857000126-1-000302/2026",
+   "orgao": "COMPANHIA DE DESENV. DO VALE DO SAO FRANCISCO",
+   "unidade": "CIA DE DESENV. DO VALE DO SAO FRANCISCO-PE",
+   "municipio": "Petrolina",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação dos serviços continuados de serviços continuados de apoio administrativo, em regime de dedicação exclusiva de mão de obra, no município de Petrolina, localizado no estado Pernambuco.",
+   "valor_estimado": 2684302.08,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-11T14:41:23",
+   "data_abertura_proposta": "2026-09-14T08:00:00",
+   "data_encerramento_proposta": "2026-10-06T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/00399857000126/2026/302",
+   "score": 100,
+   "arquivos_baixados": [
+    "EDITAL_PE_18-_APOIO_ADMINISTRATIVO.pdf",
+    "MINUTA_DA_ATA_SRP.pdf",
+    "MINUTA_DO_CONTRATO.pdf",
+    "TR_e_anexos.zip"
+   ]
+  },
+  {
+   "numero_controle": "10572022000180-1-000300/2026",
+   "orgao": "SECRETARIA DE ADMINISTRACAO",
+   "unidade": "EPE-SECRETARIA DE ADMINISTRAÇÃO DO GOVERNO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Registro de Preços para contratação eventual da prestação de serviços de Auxiliar de Lavanderia, Contínuo, copeiro e Secretária, a serem executados com regime de dedicação exclusiva de mão de obra, visando atender as necessidades da SECRETARIA ESTADUAL DE SAÚDE DE PERNAMBUCO",
+   "valor_estimado": 61843093.32,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-05-28T07:22:06",
+   "data_abertura_proposta": "2026-09-03T08:00:00",
+   "data_encerramento_proposta": "2026-09-22T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/10572022000180/2026/300",
+   "score": 84,
+   "arquivos_baixados": [
+    "92615005900952026002.pdf"
+   ]
+  },
+  {
+   "numero_controle": "11022597001244-1-000096/2026",
+   "orgao": "FUNDACAO UNIVERSIDADE DE PERNAMBUCO",
+   "unidade": "UNID SETORIAL ADM E FINANCEIRA CISAM",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS DE DIVERSAS FUNÇÕES DE ATIVIDADE MEIO/ACESSÓRIAS COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, VISANDO ATENDER AS NECESSIDADES DO CISAM.",
+   "valor_estimado": 1333114.92,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-03T14:51:42",
+   "data_abertura_proposta": "2026-09-04T08:00:00",
+   "data_encerramento_proposta": "2026-09-22T08:30:00",
+   "link": "https://pncp.gov.br/app/editais/11022597001244/2026/96",
+   "score": 84,
+   "arquivos_baixados": [
+    "wbc202609011827171284677.pdf"
+   ]
+  },
+  {
+   "numero_controle": "24416174000106-1-000023/2026",
+   "orgao": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+   "unidade": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de apoio administrativo, técnico e operacional, com regime de dedicação exclusiva de mão de obra, contemplando 183 postos, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+   "valor_estimado": 12967446.85,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-05-05T07:01:59",
+   "data_abertura_proposta": "2026-09-01T08:00:00",
+   "data_encerramento_proposta": "2026-09-16T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/24416174000106/2026/23",
+   "score": 84,
+   "arquivos_baixados": [
+    "15316505900022026004.pdf"
+   ]
   }
  ],
  "prazos_proximos": [
