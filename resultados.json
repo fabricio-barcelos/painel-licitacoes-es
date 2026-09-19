@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-18T20:53:13",
- "data": "2026-09-18",
+ "gerado_em": "2026-09-19T10:55:05",
+ "data": "2026-09-19",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -94,30 +94,7 @@
    "score": 71
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "27167311000104-1-000075/2026",
-   "campo": "situacao",
-   "valor_anterior": "Divulgada no PNCP",
-   "valor_novo": "Revogada",
-   "detectado_em": "2026-09-18T13:48:47",
-   "processo": {
-    "numero_controle": "27167311000104-1-000075/2026",
-    "orgao": "MUNICIPIO DE ECOPORANGA",
-    "unidade": "Prefeitura Municipal de Ecoporanga",
-    "municipio": "Ecoporanga",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "Contratação de empresas especializadas para a prestação de serviços de Equipe de Apoio Operacional e Brigadistas Lote 01, Segurança Desarmada Lote 02 destinados ao atendimento dos eventos, campanhas institucionais, ações governamentais e demais atividades promovidas, realizadas ou apoiadas pela Prefeitura Municipal de Ecoporanga ",
-    "valor_estimado": 661148.4,
-    "situacao": "Revogada",
-    "data_publicacao": "2026-09-03T06:54:08",
-    "data_abertura_proposta": "2026-09-03T08:00:00",
-    "data_encerramento_proposta": "2026-09-18T08:00:00",
-    "link": "https://pncp.gov.br/app/editais/27167311000104/2026/75",
-    "score": 75
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
