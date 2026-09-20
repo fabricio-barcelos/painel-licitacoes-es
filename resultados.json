@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-20T13:43:03",
+ "gerado_em": "2026-09-20T15:28:30",
  "data": "2026-09-20",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -379,25 +379,6 @@
    "score": 100,
    "arquivos_baixados": [
     "EDITAL_DE_PE_050-2026_-_SRP_-_SERVICO_DE_TERCERIZA.pdf"
-   ]
-  },
-  {
-   "numero_controle": "27080605002059-1-000220/2026",
-   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
-   "unidade": "HOSPITAL INFANTIL NOSSA SENHORA DA GLÓRIA",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços de recepção hospitalar para atender às necessidades do Hospital Infantil Nossa Senhora da Glória (HINSG).",
-   "valor_estimado": 1909368.6,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-10T12:21:19",
-   "data_abertura_proposta": "2026-08-11T08:00:00",
-   "data_encerramento_proposta": "2026-08-25T07:59:00",
-   "link": "https://pncp.gov.br/app/editais/27080605002059/2026/220",
-   "score": 75,
-   "arquivos_baixados": [
-    "Capa-Licitacao.pdf",
-    "Edital.pdf"
    ]
   },
   {
@@ -853,6 +834,21 @@
    "data_encerramento_proposta": "2026-09-25T10:00:00",
    "link": "https://pncp.gov.br/app/editais/28483014000122/2026/73",
    "score": 51
+  },
+  {
+   "numero_controle": "02304470000174-1-000136/2026",
+   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
+   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
+   "municipio": "Vila Velha",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Sistema de Registro de Preços para contratação de empresa especializada para fornecimento e instalação de persianas, incluindo materiais, acessórios e mão de obra necessária à execução dos serviços, para atendimento das demandas das unidades do Ministério Público do Estado do Espírito Santo – MPES.",
+   "valor_estimado": 174746.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-14T12:18:27",
+   "data_abertura_proposta": "2026-09-14T12:30:00",
+   "data_encerramento_proposta": "2026-09-25T14:00:00",
+   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/136",
+   "score": 75
   }
  ]
 }
