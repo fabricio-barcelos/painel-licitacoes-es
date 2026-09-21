@@ -1,8 +1,39 @@
 {
- "gerado_em": "2026-09-21T13:27:38",
+ "gerado_em": "2026-09-21T15:27:18",
  "data": "2026-09-21",
  "janela_publicacoes_dias": 3,
- "publicacoes_recentes": [],
+ "publicacoes_recentes": [
+  {
+   "numero_controle": "27080555000147-1-000077/2026",
+   "orgao": "SECRETARIA DE ESTADO DA AGRICULTURA, ABASTECIMENTO, AQUICULTURA E PESCA - SEAG",
+   "unidade": "SECRETARIA DE ESTADO DA AGRICULTURA, ABASTECIMENTO, AQÜICULTURA E PESCA",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de Empresa Especializada para Prestação de Serviços de Limpeza, Asseio e Conservação, incluindo o fornecimento de todos os equipamentos e materiais necessários para a execução do serviço.",
+   "valor_estimado": 297220.44,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T08:43:16",
+   "data_abertura_proposta": "2026-09-22T08:00:00",
+   "data_encerramento_proposta": "2026-10-06T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27080555000147/2026/77",
+   "score": 100
+  },
+  {
+   "numero_controle": "14946241000132-1-000019/2026",
+   "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
+   "unidade": "Fundo de Assistencia Social de Alegre",
+   "municipio": "Alegre",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "REGISTRO DE PREÇO para futura e eventual FORNECIMENTO DE COLCHÕES E KITS DORMITÓRIO (COMPOSTOS POR LENÇOL, FRONHA, TRAVESSEIRO E COBERTOR), BEM COMO KITS DE HIGIENE PESSOAL E DE LIMPEZA, VISANDO ATENDER ÀS DEMANDAS EMERGENCIAIS DECORRENTES DAS SITUAÇÕES DE CALAMIDADE PÚBLICA E EMERGÊNCIA QUE SURGIREM NO MUNICÍPIO DE ALEGRE",
+   "valor_estimado": 976110.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T09:19:54",
+   "data_abertura_proposta": "2026-09-24T08:00:00",
+   "data_encerramento_proposta": "2026-10-06T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/14946241000132/2026/19",
+   "score": 75
+  }
+ ],
  "mudancas_hoje": [],
  "watchlist": [
   {
