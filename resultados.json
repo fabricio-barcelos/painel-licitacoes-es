@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23T14:39:16",
+ "gerado_em": "2026-09-23T16:35:00",
  "data": "2026-09-23",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -34,6 +34,81 @@
    "score": 100
   },
   {
+   "numero_controle": "24134488000108-1-000138/2026",
+   "orgao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+   "unidade": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de APOIO ÀS ATIVIDADES ADMINISTRATIVAS, a serem executados com regime de dedicação exclusiva de mão de obra. ",
+   "valor_estimado": 10260671.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T04:00:08",
+   "data_abertura_proposta": "2026-09-22T08:00:00",
+   "data_encerramento_proposta": "2026-10-06T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/24134488000108/2026/138",
+   "score": 100
+  },
+  {
+   "numero_controle": "09283185000163-1-000049/2026",
+   "orgao": "JOAO PESSOA TRIBUNAL DE JUSTICA DO ESTADO DA PARAIBA",
+   "unidade": "TRIBUNAL DE JUSTIçA DO ESTADO DA PARAíBA",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para a prestação de serviços contínuos de apoio administrativo e operacional, especificamente nas atividades de recepção, triagem, fornecimento de informações, identificação e encaminhamento do público (Presencial e Remoto/Virtual), que compreenderá o fornecimento de mão de obra, através da disponibilização de profissionais nas categorias de Recepcionista (Atendimento Nível 1) e Supervisor de Recepção (Atendimento Nível 2), incluindo-se os insumos, materiais, uniformes e sistemas tecnológicos necessários e adequados à execução dos serviços, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições e exigências no Termo de Referência e em seus anexos.",
+   "valor_estimado": 4334448.75,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T16:13:17",
+   "data_abertura_proposta": "2026-09-21T17:40:00",
+   "data_encerramento_proposta": "2026-10-07T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/09283185000163/2026/49",
+   "score": 100
+  },
+  {
+   "numero_controle": "04892707001000-1-000021/2026",
+   "orgao": "DNIT-DEPARTAMENTO NACIONAL DE INFRAEST DE TRANSPORTES",
+   "unidade": "SUPERINTENDÊNCIA REGIONAL DO DNIT - ES",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para serviço de manutenção predial, corretiva e preventiva, com fornecimento de insumos, equipamentos, ferramentas, materiais e mão de obra para atender à Superintendência do DNIT no  Estado do Espírito Santo, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 562614.48,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T04:00:21",
+   "data_abertura_proposta": "2026-09-22T08:00:00",
+   "data_encerramento_proposta": "2026-10-07T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/04892707001000/2026/21",
+   "score": 90
+  },
+  {
+   "numero_controle": "18715383000140-1-000692/2026",
+   "orgao": "MUNICIPIO DE BELO HORIZONTE",
+   "unidade": "PBH SMOBI",
+   "municipio": "Belo Horizonte",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Serviços contínuos de manutenção, conservação e adequação de próprios municipais, garantindo a funcionalidade das edificações públicas.",
+   "valor_estimado": 135980622.02,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T09:00:01",
+   "data_abertura_proposta": "2026-09-22T08:59:59",
+   "data_encerramento_proposta": "2026-10-08T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/18715383000140/2026/692",
+   "score": 90
+  },
+  {
+   "numero_controle": "00394460000141-1-000675/2026",
+   "orgao": "MINISTERIO DA FAZENDA",
+   "unidade": "SUP.REGIONAL RECEITA FEDERAL 4A.RF/PE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa para prestação de serviços continuados, mediante disponibilização de profissionais qualificados na área de Jornalismo, sob regime de dedicação exclusiva de mão de obra, para apoio técnico e operacional às atividades desenvolvidas pela Seção de Comunicação Social (SACIN04) da Superintendência Regional da Receita Federal do Brasil na 4ª Região Fiscal, observados os padrões editoriais, técnicos e institucionais definidos pela Receita Federal do Brasil.",
+   "valor_estimado": 3976823.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-23T07:42:09",
+   "data_abertura_proposta": "2026-09-23T08:00:00",
+   "data_encerramento_proposta": "2026-10-07T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394460000141/2026/675",
+   "score": 90
+  },
+  {
    "numero_controle": "14946241000132-1-000019/2026",
    "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
    "unidade": "Fundo de Assistencia Social de Alegre",
@@ -47,9 +122,77 @@
    "data_encerramento_proposta": "2026-10-06T08:00:00",
    "link": "https://pncp.gov.br/app/editais/14946241000132/2026/19",
    "score": 75
+  },
+  {
+   "numero_controle": "27834977000160-1-000074/2026",
+   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES",
+   "unidade": "Serviço Autônomo de Água e Esgoto de Linhares",
+   "municipio": "Linhares",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - Contratacao de empresa especializada para prestacao de servicos de succao de fossas, incluindo fornecimento de mao de obra, veiculos e equipamentos, no municipio de Linhares, sede e distritos.",
+   "valor_estimado": 1872000.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T11:23:37",
+   "data_abertura_proposta": "2026-09-23T08:00:00",
+   "data_encerramento_proposta": "2026-10-08T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27834977000160/2026/74",
+   "score": 75
+  },
+  {
+   "numero_controle": "27834977000160-1-000076/2026",
+   "orgao": "SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES",
+   "unidade": "SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO",
+   "municipio": "Linhares",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratacao de empresa especializada para prestacao de servicos de succao de fossas, incluindo fornecimento de mao de obra, veiculos e equipamentos, no municipio de Linhares, sede e distritos.",
+   "valor_estimado": 1872000.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-23T11:04:29",
+   "data_abertura_proposta": "2026-09-23T08:00:00",
+   "data_encerramento_proposta": "2026-10-08T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/27834977000160/2026/76",
+   "score": 75
+  },
+  {
+   "numero_controle": "27080605001753-1-000149/2026",
+   "orgao": "SECRETARIA DE ESTADO DA SAUDE",
+   "unidade": "SUPERINTENDÊNCIA REGIONAL DE SAÚDE DE COLATINA",
+   "municipio": "Colatina",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para prestação de serviço de limpeza e higienização de caixas d'água e \nreservatórios de água potável para atender ao HEMOES\n¿ Hemocentro Regional de Linhares.\n",
+   "valor_estimado": 4539.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T08:28:58",
+   "data_abertura_proposta": "2026-09-23T09:00:00",
+   "data_encerramento_proposta": "2026-10-08T08:50:00",
+   "link": "https://pncp.gov.br/app/editais/27080605001753/2026/149",
+   "score": 66
   }
  ],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "27142025000186-1-000055/2026",
+   "campo": "situacao",
+   "valor_anterior": "Divulgada no PNCP",
+   "valor_novo": "Suspensa",
+   "detectado_em": "2026-09-23T16:23:36",
+   "processo": {
+    "numero_controle": "27142025000186-1-000055/2026",
+    "orgao": "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DEFESA SOCIAL",
+    "unidade": "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E DEFESA SOCIAL",
+    "municipio": "Vitória",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção",
+    "valor_estimado": 743962.8,
+    "situacao": "Suspensa",
+    "data_publicacao": "2026-09-04T15:12:46",
+    "data_abertura_proposta": "2026-09-10T09:00:00",
+    "data_encerramento_proposta": "2026-09-28T09:30:00",
+    "link": "https://pncp.gov.br/app/editais/27142025000186/2026/55",
+    "score": 75
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -471,7 +614,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção",
    "valor_estimado": 743962.8,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-09-04T15:12:46",
    "data_abertura_proposta": "2026-09-10T09:00:00",
    "data_encerramento_proposta": "2026-09-28T09:30:00",
@@ -637,113 +780,432 @@
   },
   {
    "numero_controle": "00043711000143-1-000043/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS",
+   "unidade": "MMA-DNOCS 2 DERUR-JOAO PESSOA/PB",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos para prestação de serviços terceirizados de Assistente Administrativo Nível 2, Assistente Operacional Administrativo Nível 1 e Motorista, a serem executados com regime de dedicação exclusiva de mão de obra, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento",
+   "valor_estimado": 2974719.72,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-08T04:00:11",
+   "data_abertura_proposta": "2026-09-08T08:00:00",
+   "data_encerramento_proposta": "2026-09-22T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/00043711000143/2026/43",
+   "score": 84,
+   "arquivos_baixados": [
+    "14_2026.pdf",
+    "8_2026.pdf",
+    "CCT_PB000032-2026.pdf",
+    "Edital_e_Anexos___Pregao_nA__90001_2026.zip"
+   ]
   },
   {
    "numero_controle": "00059311000126-1-000341/2026",
-   "situacao": "não localizado",
+   "orgao": "FUNDACAO NACIONAL DO INDIO",
+   "unidade": "COORDENAÇÃO REGIONAL DE SUPORTE RECIFE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de apoio administrativo e motorista, a fim de suprir às necessidades das Coordenações Regionais atendidas por esta Unidade de Suporte",
+   "valor_estimado": 1222409.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T04:11:03",
+   "data_abertura_proposta": "2026-09-21T08:00:00",
+   "data_encerramento_proposta": "2026-10-05T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00059311000126/2026/341",
+   "score": null,
    "arquivos_baixados": []
   },
   {
    "numero_controle": "00394460000141-1-000650/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "MINISTERIO DA FAZENDA",
+   "unidade": "SUP.REGIONAL RECEITA FEDERAL 4A.RF/PE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de limpeza e conservação, sob o regime de dedicação exclusiva de mão de obra DEMO. Os serviços destinam-se ao atendimento das unidades da Secretaria Especial da Receita Federal do Brasil situadas nos Estados da Paraíba, Pernambuco e Alagoas. ",
+   "valor_estimado": 22196264.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-15T04:00:15",
+   "data_abertura_proposta": "2026-09-15T08:00:00",
+   "data_encerramento_proposta": "2026-09-29T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394460000141/2026/650",
+   "score": 94,
+   "arquivos_baixados": [
+    "10_2026.pdf",
+    "7_2026.pdf",
+    "ETP170058_000007_2026.pdf",
+    "Edital_e_anexos_Pregao_292026.zip",
+    "planilhaGeralItensCustos.xlsx",
+    "planilhaGeralItensCustos.zip"
+   ]
   },
   {
    "numero_controle": "00394494000136-1-000993/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA",
+   "unidade": "SUPERINTENDENCIA REG.DEP.POLICIA FEDERAL- PB",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviço de limpeza e conservação, com fornecimento de materiais, equipamentos, uniformes e itens de higiene pessoal, mediante o regime de execução indireta e continuado, visando atender às necessidades da Superintendência Regional de Polícia Federal na Paraíba (SR/PF/PB), a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições e exigências estabelecidas no Edital e seus anexos.",
+   "valor_estimado": 1422622.32,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-04T04:01:10",
+   "data_abertura_proposta": "2026-09-04T08:00:00",
+   "data_encerramento_proposta": "2026-09-22T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394494000136/2026/993",
+   "score": 84,
+   "arquivos_baixados": [
+    "20_2026.pdf",
+    "21_2026.pdf",
+    "Anexo_A_a_L.pdf",
+    "Edital_74.2026-SR.PF.PB.pdf"
+   ]
   },
   {
    "numero_controle": "00394544000185-1-002030/2026",
-   "situacao": "não localizado",
+   "orgao": "MINISTERIO DA SAUDE",
+   "unidade": "EMP. BRAS. DE HEMODERIVADOS E BIOTECNOLOGIA",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços continuados de gestão e execução do plano de calibrações da Hemobrás, incluindo alocação de mão de obra dedicada e serviços sob demanda relacionados à metrologia e instrumentação na unidade fabril da Hemobrás em Goiana/PE, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T12:03:31",
+   "data_abertura_proposta": "2026-09-23T08:00:00",
+   "data_encerramento_proposta": "2026-10-27T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394544000185/2026/2030",
+   "score": null,
    "arquivos_baixados": []
   },
   {
    "numero_controle": "01612470000179-1-000118/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "MUNICIPIO DE ALCANTIL",
+   "unidade": "PREFEITURA MUNICIPAL DE ALCANTIL",
+   "municipio": "Alcantil",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de pessoa jurídica especializada na área de apoio administrativo, operacional e logístico para atender as diversas Secretarias do Município de Alcantil/PB",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-14T11:17:39",
+   "data_abertura_proposta": "2026-09-14T11:17:39",
+   "data_encerramento_proposta": "2026-09-30T09:59:00",
+   "link": "https://pncp.gov.br/app/editais/01612470000179/2026/118",
+   "score": 45,
+   "arquivos_baixados": [
+    "EDITAL.pdf"
+   ]
   },
   {
    "numero_controle": "01612508000103-1-000056/2026",
-   "situacao": "não localizado",
+   "orgao": "MUNICIPIO DE MARIO CAMPOS",
+   "unidade": "Prefeitura Municipal de Mário Campos",
+   "municipio": "Mário Campos",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE LAVAGEM, LIMPEZA E HIGIENIZAÇÃO CONVENCIONAL DE VEÍCULOS, MÁQUINAS E EQUIPAMENTOS INTEGRANTES DA FROTA OFICIAL DO MUNICÍPIO DE MÁRIO CAMPOS/MG",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-17T18:19:57",
+   "data_abertura_proposta": "2026-09-18T09:00:00",
+   "data_encerramento_proposta": "2026-10-02T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/01612508000103/2026/56",
+   "score": null,
    "arquivos_baixados": []
   },
   {
    "numero_controle": "02030715000112-1-000152/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "AGENCIA NACIONAL DE TELECOMUNICACOES",
+   "unidade": "ESCRITORIO REGIONAL 4 - ANATEL",
+   "municipio": "Belo Horizonte",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de recepção e atendimento ao público, contemplando 02 postos de trabalho, sob regime de dedicação exclusiva de mão de obra, a serem executados nas dependências da Gerência Regional no Estado de Minas Gerais – GR04 por um período de 60 meses, prorrogável por igual período, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+   "valor_estimado": 1105246.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-18T07:39:55",
+   "data_abertura_proposta": "2026-09-21T08:00:00",
+   "data_encerramento_proposta": "2026-10-05T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/02030715000112/2026/152",
+   "score": 100,
+   "arquivos_baixados": [
+    "5_2026.pdf",
+    "Anexo_I_-_SEI_16258426_Termo_de_Referencia.pdf",
+    "Anexo_I_-_TR_-_Estudo_Tecnico_Preliminar.pdf",
+    "Anexos_Edital.zip",
+    "Edital_-_SEI_16281395_Edital_n__05_2026.pdf"
+   ]
   },
   {
    "numero_controle": "04892707001000-1-000021/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "DNIT-DEPARTAMENTO NACIONAL DE INFRAEST DE TRANSPORTES",
+   "unidade": "SUPERINTENDÊNCIA REGIONAL DO DNIT - ES",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para serviço de manutenção predial, corretiva e preventiva, com fornecimento de insumos, equipamentos, ferramentas, materiais e mão de obra para atender à Superintendência do DNIT no  Estado do Espírito Santo, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 562614.48,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T04:00:21",
+   "data_abertura_proposta": "2026-09-22T08:00:00",
+   "data_encerramento_proposta": "2026-10-07T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/04892707001000/2026/21",
+   "score": 90,
+   "arquivos_baixados": [
+    "10_2026.pdf",
+    "Anexo_I_-_CCT_SINTRACONST-ES-25-27-CLASSIFICACAO_PROFISSIONAL.pdf",
+    "Convencao_Coletiva_Trabalho_2025_2027_homologada.pdf",
+    "Cotacao_Detalhado-20-2026.pdf",
+    "Edital_e_anexos.zip",
+    "Planilha_Proposta_Licitante.xlsx",
+    "Planilha_de_Composicao_de_Precos.xlsx",
+    "Relatorio_de_Cotacao_-_cotacao-detalhado-23-2026-EPIS.pdf",
+    "Relatorio_de_Cotacao_-_cotacao-resumido-20-2026.pdf",
+    "Relatorio_de_Cotacao_-_cotacao-resumido-23-2026-EPIS.pdf",
+    "TABELA_DE_SALARIOS.docx_-cct-25-27-sintraconst-es.pdf"
+   ]
   },
   {
    "numero_controle": "04892707002588-1-000018/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "DNIT-DEPARTAMENTO NACIONAL DE INFRAEST DE TRANSPORTES",
+   "unidade": "SUPERINTENDÊNCIA REGIONAL DO DNIT - AP",
+   "municipio": "Macapá",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": " Contratação a prestação de serviços continuados de limpeza, conservação e copeiragem, com dedicação exclusiva de mão de obra, incluindo o fornecimento de materiais, equipamentos, ferramentas e insumos necessários à execução dos serviços, destinados ao atendimento da Superintendência Regional do DNIT no Estado do Amapá (SRE/AP), de suas unidades\nvinculadas, incluindo a Unidade Local de Calçoene e as instalações da Agência Nacional de Mineração (ANM) – Unidade Avançada do Amapá, observadas as condições, quantidades e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 6768665.09,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-17T04:00:20",
+   "data_abertura_proposta": "2026-09-18T08:00:00",
+   "data_encerramento_proposta": "2026-10-02T15:00:00",
+   "link": "https://pncp.gov.br/app/editais/04892707002588/2026/18",
+   "score": 100,
+   "arquivos_baixados": [
+    "10_2026.pdf",
+    "9_2026.pdf",
+    "Edital_e_Anexos.zip",
+    "TR_-_Anexo_II_Frequencias_das_Atividades.docx",
+    "TR_-_Anexo_I_IMR_Instrumento_de_Medicao_de_Resultado.docx"
+   ]
   },
   {
    "numero_controle": "05055128000176-1-000088/2026",
-   "situacao": "não localizado",
+   "orgao": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+   "unidade": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE PB",
+   "municipio": "Campina Grande",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de limpeza e conservação para Centro de Formação de Professores, a serem executados com regime de dedicação exclusiva de mão de obra.",
+   "valor_estimado": 2009911.56,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-08-11T04:00:03",
+   "data_abertura_proposta": "2026-09-14T08:00:00",
+   "data_encerramento_proposta": "2026-09-28T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/05055128000176/2026/88",
+   "score": null,
    "arquivos_baixados": []
   },
   {
    "numero_controle": "08715618000140-1-000104/2026",
-   "situacao": "não localizado",
+   "orgao": "FUNDO MUNICIPAL DE SAUDE",
+   "unidade": "FUNDO MUNICIPAL DE SAÚDE DE JOÃO PESSOA - PB",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE LOGÍSTICA DA DIRETORIA DE ATENÇÃO FARMACÊUTICA, COM REGIME DE DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE DE JOÃO PESSOA/PB.",
+   "valor_estimado": 54556391.88,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-11T11:54:32",
+   "data_abertura_proposta": "2026-09-15T09:00:00",
+   "data_encerramento_proposta": "2026-09-30T08:59:00",
+   "link": "https://pncp.gov.br/app/editais/08715618000140/2026/104",
+   "score": null,
    "arquivos_baixados": []
   },
   {
    "numero_controle": "09283185000163-1-000049/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "JOAO PESSOA TRIBUNAL DE JUSTICA DO ESTADO DA PARAIBA",
+   "unidade": "TRIBUNAL DE JUSTIçA DO ESTADO DA PARAíBA",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para a prestação de serviços contínuos de apoio administrativo e operacional, especificamente nas atividades de recepção, triagem, fornecimento de informações, identificação e encaminhamento do público (Presencial e Remoto/Virtual), que compreenderá o fornecimento de mão de obra, através da disponibilização de profissionais nas categorias de Recepcionista (Atendimento Nível 1) e Supervisor de Recepção (Atendimento Nível 2), incluindo-se os insumos, materiais, uniformes e sistemas tecnológicos necessários e adequados à execução dos serviços, a serem executados com regime de dedicação exclusiva de mão de obra, conforme condições e exigências no Termo de Referência e em seus anexos.",
+   "valor_estimado": 4334448.75,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T16:13:17",
+   "data_abertura_proposta": "2026-09-21T17:40:00",
+   "data_encerramento_proposta": "2026-10-07T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/09283185000163/2026/49",
+   "score": 100,
+   "arquivos_baixados": [
+    "edital_completo_marcado_CAI.pdf"
+   ]
   },
   {
    "numero_controle": "10572022000180-1-000606/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "SECRETARIA DE ADMINISTRACAO",
+   "unidade": "EPE-SECRETARIA DE ADMINISTRAÇÃO DO GOVERNO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de prestação de serviços de apoio à gestão para levantamento, acompanhamento, análise da documentação funcional e realização dos cálculos correspondentes com a finalidade de pagamento do BDE (Bônus de Desempenho Educacional) do Governo Estadual de Pernambuco, abrangendo a estimativa de 47.792 vínculos públicos, visando atender as necessidades da Secretaria de Educação Estadual.",
+   "valor_estimado": 3154272.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-18T13:35:01",
+   "data_abertura_proposta": "2026-09-21T08:00:00",
+   "data_encerramento_proposta": "2026-10-05T08:30:00",
+   "link": "https://pncp.gov.br/app/editais/10572022000180/2026/606",
+   "score": 75,
+   "arquivos_baixados": [
+    "EDITAL_ASSINADO.pdf",
+    "FOLHA_DE_ROSTO_ASSINADA.pdf"
+   ]
   },
   {
    "numero_controle": "10626896000172-1-000283/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE MINAS GERAIS",
+   "unidade": "INST.FED.DE EDUC.,CIENCIA E TECNOLOGIA DE MG",
+   "municipio": "Belo Horizonte",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de limpeza, conservação predial, apoio as atividades administrativas, suporte às atividades agropecuárias e de infraestrutura, a serem executados com regime de dedicação exclusiva de mão de obra no IFMG Campus Bambuí, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
+   "valor_estimado": 10183317.2,
+   "situacao": "Suspensa",
+   "data_publicacao": "2026-09-08T04:00:15",
+   "data_abertura_proposta": "2026-09-08T09:00:00",
+   "data_encerramento_proposta": "2026-09-22T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/10626896000172/2026/283",
+   "score": 84,
+   "arquivos_baixados": [
+    "121_2026.pdf",
+    "213_2026.pdf",
+    "529_2026.pdf",
+    "56_2026.pdf",
+    "ETP158122_000121_2026__1_.pdf",
+    "Edital_e_anexos_PE_293-2026.zip",
+    "LAUDO_TECNICO_DAS_CONDICOES_DO_AMBIENTE_DE_TRABALHO.pdf"
+   ]
   },
   {
    "numero_controle": "10820882000195-1-000039/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO AMAPA",
+   "unidade": "INST.FED.DE EDUC.,CIENC.E TEC.DO AMAPA",
+   "municipio": "Macapá",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de Serviços contínuos de limpeza e conservação, a serem executados com regime de dedicação exclusiva de mão\nde obra, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.",
+   "valor_estimado": 1820715.01,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-18T07:40:21",
+   "data_abertura_proposta": "2026-09-18T08:00:00",
+   "data_encerramento_proposta": "2026-10-02T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/10820882000195/2026/39",
+   "score": 100,
+   "arquivos_baixados": [
+    "Edital_Pregao_Eletronico_n._95-2026_-_Servico_de_limpeza_e_conservacao_-_C._MACAPA.zip"
+   ]
   },
   {
    "numero_controle": "11022597001597-1-000240/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "FUNDACAO UNIVERSIDADE DE PERNAMBUCO",
+   "unidade": "UNID SETORIAL ADM E FINANCEIRA PROCAPE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "REGISTRO DE PREÇOS PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇOS DE LIMPEZA HOSPITALAR",
+   "valor_estimado": 11382238.42,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-07-17T09:26:20",
+   "data_abertura_proposta": "2026-07-20T08:00:00",
+   "data_encerramento_proposta": "2026-10-01T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/11022597001597/2026/240",
+   "score": 75,
+   "arquivos_baixados": [
+    "wbc202609151110599806910.pdf"
+   ]
   },
   {
    "numero_controle": "12888517000148-1-000014/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "MUNICIPIO DE XEXEU",
+   "unidade": "PREFEITURA MUNICIPAL DE XEXÉU",
+   "municipio": "Xexéu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA E REGULARMENTE CONSTITUÍDA, PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE ESTRUTURAS, EQUIPAMENTOS, MOBILIÁRIOS E SERVIÇOS DE APOIO, INCLUINDO TRANSPORTE, MONTAGEM E DESMONTAGEM DOS ITENS NECESSÁRIOS À REALIZAÇÃO DOS EVENTOS INSTITUCIONAIS PROMOVIDOS PELA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E ORÇAMENTO PARTICIPATIVO; SECRETARIA MUNICIPAL DE ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL; SECRETARIA MUNICIPAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA; E SECRETARIA DE SAÚDE...",
+   "valor_estimado": 1290337.08,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-14T12:45:50",
+   "data_abertura_proposta": "2026-09-15T11:00:00",
+   "data_encerramento_proposta": "2026-09-29T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/12888517000148/2026/14",
+   "score": 69,
+   "arquivos_baixados": [
+    "ANEXO_I__TR_UNIFICADO__LOCAO_DE_ESTRUTURA_DE_EVENTOS.pdf",
+    "EDITAL__LOCAO_DE_ESTRUTURAS_DE_EVENTOS.pdf"
+   ]
   },
   {
    "numero_controle": "15126437000305-1-003530/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+   "unidade": "HOSPITAL UNIVERSITÁRIO LAURO WANDERLEY",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS CONTINUADOS DE BOMBEIRO PROFISSIONAL CIVIL COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-02T04:00:16",
+   "data_abertura_proposta": "2026-09-02T08:00:00",
+   "data_encerramento_proposta": "2026-09-24T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/15126437000305/2026/3530",
+   "score": 54,
+   "arquivos_baixados": [
+    "2_-_Portaria_GAD.pdf",
+    "Anexos.zip",
+    "SEI_SEDE_-_64040085_-_Termo_de_Referencia_-_SEI.pdf",
+    "SEI_SEDE_-_64489426_-_CONJUR_-_Contrato_Servicos__cont_c_DEMO__-_RCC_3.0.pdf",
+    "SEI_SEDE_-_64558211_-_CONJUR_-_Edital_Pregao_Serv__c_DEMO__-_RCC_3.0.pdf"
+   ]
   },
   {
    "numero_controle": "16692121000181-1-000053/2026",
-   "situacao": "não localizado",
+   "orgao": "HOSPITAL METROPOLITANO ODILON BEHRENS - HOB",
+   "unidade": "HOSPITAL METROPOLITANO ODILON BEHRENS-BH - MG",
+   "municipio": "Belo Horizonte",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Fornecimento de mão de obra qualificada de porteiros,recepcionistas, supervisores de portaria,recepção e coordenador",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-16T11:11:50",
+   "data_abertura_proposta": "2026-09-17T08:00:00",
+   "data_encerramento_proposta": "2026-10-01T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/16692121000181/2026/53",
+   "score": null,
    "arquivos_baixados": []
   },
   {
    "numero_controle": "18715383000140-1-000692/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "MUNICIPIO DE BELO HORIZONTE",
+   "unidade": "PBH SMOBI",
+   "municipio": "Belo Horizonte",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Serviços contínuos de manutenção, conservação e adequação de próprios municipais, garantindo a funcionalidade das edificações públicas.",
+   "valor_estimado": 135980622.02,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T09:00:01",
+   "data_abertura_proposta": "2026-09-22T08:59:59",
+   "data_encerramento_proposta": "2026-10-08T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/18715383000140/2026/692",
+   "score": 90,
+   "arquivos_baixados": [
+    "Arquivo.pdf",
+    "Edital.pdf"
+   ]
   },
   {
    "numero_controle": "24134488000108-1-000138/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+   "unidade": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de APOIO ÀS ATIVIDADES ADMINISTRATIVAS, a serem executados com regime de dedicação exclusiva de mão de obra. ",
+   "valor_estimado": 10260671.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-22T04:00:08",
+   "data_abertura_proposta": "2026-09-22T08:00:00",
+   "data_encerramento_proposta": "2026-10-06T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/24134488000108/2026/138",
+   "score": 100,
+   "arquivos_baixados": [
+    "Contrato.pdf",
+    "Terno_de_Referencia.pdf",
+    "ata_de_registro_de_precos_assinada.pdf",
+    "edital_licitatorio_assinado.pdf"
+   ]
   },
   {
    "numero_controle": "27080555000147-1-000077/2026",
@@ -786,11 +1248,60 @@
   },
   {
    "numero_controle": "42357483000126-1-000041/2026",
-   "situacao": "não localizado",
-   "arquivos_baixados": []
+   "orgao": "COMPANHIA BRASILEIRA DE TRENS URBANOS",
+   "unidade": "SUPERINTENDENCIA DE TRENS URBANOS DE RECIFE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviço terceirizado COM DEDICAÇÃO DE MÃO DE OBRA EXCLUSIVA de comercialização e troca de bilhetes/cartões tipo smart card/ qr code, através de cartões de crédito, débito e vendas por pix e dinheiro, acompanhamento da conferência dos valores arrecadados e apoio na fiscalização de BILHETERIAS DAS ESTAÇÕES RECIFE, JOANA BEZERRA E TODAS AS ESTAÇÕES DA LINHA SUL ELÉTRICA E DIESEL DA CBTU/STU-REC – COMPANHIA BRASILEIRA DE TRENS URBANOS DO RECIFE/SUPERINTENDÊNCIA DE TRENS URBANOS DO RECIFE pelo período de 12 (doze) meses.",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-10T12:16:43",
+   "data_abertura_proposta": "2026-09-11T08:00:00",
+   "data_encerramento_proposta": "2026-10-05T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/42357483000126/2026/41",
+   "score": 66,
+   "arquivos_baixados": [
+    "00_-_Edital_PEL_90009.2026_-_Servico_de_bilhetagem_linha_sul.pdf",
+    "01.1_Anexo_IV_do_TR_-_Planilha_de_Custos_para_preencher.ods",
+    "01_-_Anexo_I_do_Edital_-_TR.pdf",
+    "02_-_Anexo_II_do_Edital_-_Minuta_do_contrato.pdf"
+   ]
+  },
+  {
+   "numero_controle": "00394460000141-1-000675/2026",
+   "orgao": "MINISTERIO DA FAZENDA",
+   "unidade": "SUP.REGIONAL RECEITA FEDERAL 4A.RF/PE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa para prestação de serviços continuados, mediante disponibilização de profissionais qualificados na área de Jornalismo, sob regime de dedicação exclusiva de mão de obra, para apoio técnico e operacional às atividades desenvolvidas pela Seção de Comunicação Social (SACIN04) da Superintendência Regional da Receita Federal do Brasil na 4ª Região Fiscal, observados os padrões editoriais, técnicos e institucionais definidos pela Receita Federal do Brasil.",
+   "valor_estimado": 3976823.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-23T07:42:09",
+   "data_abertura_proposta": "2026-09-23T08:00:00",
+   "data_encerramento_proposta": "2026-10-07T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394460000141/2026/675",
+   "score": 90,
+   "arquivos_baixados": [
+    "_Edital_e_Anexos_-_Pregao_Eletronico_n_30.2026__Jornalistas_.zip"
+   ]
   }
  ],
  "prazos_proximos": [
+  {
+   "numero_controle": "15126437000305-1-003530/2026",
+   "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+   "unidade": "HOSPITAL UNIVERSITÁRIO LAURO WANDERLEY",
+   "municipio": "João Pessoa",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS CONTINUADOS DE BOMBEIRO PROFISSIONAL CIVIL COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-02T04:00:16",
+   "data_abertura_proposta": "2026-09-02T08:00:00",
+   "data_encerramento_proposta": "2026-09-24T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/15126437000305/2026/3530",
+   "score": 54
+  },
   {
    "numero_controle": "27174085000180-1-000107/2026",
    "orgao": "MUNICIPIO DE PINHEIROS",
@@ -859,7 +1370,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção",
    "valor_estimado": 743962.8,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-09-04T15:12:46",
    "data_abertura_proposta": "2026-09-10T09:00:00",
    "data_encerramento_proposta": "2026-09-28T09:30:00",
