@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-24T14:45:52",
+ "gerado_em": "2026-09-24T16:54:45",
  "data": "2026-09-24",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -154,6 +154,36 @@
    "score": 90
   },
   {
+   "numero_controle": "00509018000113-1-002237/2026",
+   "orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+   "unidade": "TRIBUNAL REGIONAL ELEITORAL DE PERNAMBUCO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços continuados de manutenção predial preventiva e corretiva e execução de serviços eventuais de reparação e adequação nos imóveis e equipamentos da Justiça Eleitoral localizados no Recife, na Região Metropolitana e nas Zonas da Mata Norte e Sul do Estado de Pernambuco - Abrangência: Polos 1, 2, 3, 4, 14, 15, e 16 (Lote 1), incluindo alocação de mão de obra com dedicação exclusiva, fornecimento de materiais, ferramentas e equipamentos necessários à prestação dos serviços. \n",
+   "valor_estimado": 3074314.33,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-24T04:12:21",
+   "data_abertura_proposta": "2026-09-24T08:00:00",
+   "data_encerramento_proposta": "2026-10-14T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00509018000113/2026/2237",
+   "score": 90
+  },
+  {
+   "numero_controle": "00509018000113-1-002234/2026",
+   "orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+   "unidade": "TRIBUNAL REGIONAL ELEITORAL DO ESPIRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de limpeza e conservação com fornecimento de materiais de limpeza, para os Cartórios Eleitorais da Região Centro-Oeste e Sul do Estado do Espírito Santo.",
+   "valor_estimado": 69812.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-24T04:06:50",
+   "data_abertura_proposta": "2026-09-24T12:00:00",
+   "data_encerramento_proposta": "2026-10-09T13:00:00",
+   "link": "https://pncp.gov.br/app/editais/00509018000113/2026/2234",
+   "score": 80
+  },
+  {
    "numero_controle": "14946241000132-1-000019/2026",
    "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
    "unidade": "Fundo de Assistencia Social de Alegre",
@@ -196,6 +226,21 @@
    "data_abertura_proposta": "2026-09-23T08:00:00",
    "data_encerramento_proposta": "2026-10-08T08:00:00",
    "link": "https://pncp.gov.br/app/editais/27834977000160/2026/76",
+   "score": 75
+  },
+  {
+   "numero_controle": "01612509000158-1-000188/2026",
+   "orgao": "MUNICIPIO DE SARZEDO",
+   "unidade": "Unidade Única",
+   "municipio": "Sarzedo",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE REFORMA DO PRÉDIO DO ANTIGO HOSPITAL FRANKI LANDI E AMPLIAÇÃO DE ÁREA DESTINADA A IMPLANTAÇÃO DA CENTRAL DE ABASTECIMENTO FARMACÊUTICO (CAF), COM FORNECIMENTO DE MATERIAIS, EQUIPAMENTOS E MAO DE OBRA",
+   "valor_estimado": 2050088.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-23T10:06:40",
+   "data_abertura_proposta": "2026-09-23T11:00:00",
+   "data_encerramento_proposta": "2026-10-30T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/01612509000158/2026/188",
    "score": 75
   },
   {
@@ -618,29 +663,6 @@
     "ESTUDO_TECNICO_PRELIMINAR.pdf",
     "PUBLICACAO_PE_0472026.pdf",
     "TERMO_DE_REFERENCIA.pdf"
-   ]
-  },
-  {
-   "numero_controle": "31727449000180-1-000024/2026",
-   "orgao": "CAMARA MUNICIPAL DE MUQUI",
-   "unidade": "Câmara Municipal de Muqui",
-   "municipio": "Muqui",
-   "modalidade": "Pregão - Presencial",
-   "objeto": "Registro de preços para eventual contratação de empresa especializada na prestação de  serviços continuados de apoio operacional, zeladoria, conservação e vigilância patrimonial, com disponibilização de mão de obra especializada em regime de dedicação de exclusiva, para atender às necessidades da sede da CMM, conforme condições estabelecidas neste edital e seus anexos.",
-   "valor_estimado": 436508.04,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-28T10:47:02",
-   "data_abertura_proposta": "2026-08-27T09:28:00",
-   "data_encerramento_proposta": "2026-08-27T09:28:00",
-   "link": "https://pncp.gov.br/app/editais/31727449000180/2026/24",
-   "score": 84,
-   "arquivos_baixados": [
-    "AVISO_DE_RETIFICACAO_DE_EDITAL_001.2026",
-    "Aviso_de_Licitacao_-_Edital_nO_001.2026_Pregao_Pre",
-    "ETP_-_Edital_nO_001.2026",
-    "Edital_n__001.2026_Pregao_Presencial_SRP",
-    "Retificacao_001_-_Edital_Retificado_-_Pregao_Prese.pdf",
-    "Termo_de_Referencia_-_Edital_nO_001.2026"
    ]
   },
   {
@@ -1336,6 +1358,83 @@
    "score": 90,
    "arquivos_baixados": [
     "_Edital_e_Anexos_-_Pregao_Eletronico_n_30.2026__Jornalistas_.zip"
+   ]
+  },
+  {
+   "numero_controle": "26474056000171-1-000252/2026",
+   "orgao": "INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NACIONAL",
+   "unidade": "21A SUPERINTENDENCIA REGIONAL - ES",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação empresa especializada na prestação de serviços continuados de motorista, a serem executados com regime de dedicação exclusiva de mão de obra, no âmbito da Superintendência do Instituto do Patrimônio Histórico e Artístico Nacional - Iphan/ES.",
+   "valor_estimado": 127821.72,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-24T04:11:39",
+   "data_abertura_proposta": "2026-09-24T09:00:00",
+   "data_encerramento_proposta": "2026-10-09T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/26474056000171/2026/252",
+   "score": 100,
+   "arquivos_baixados": [
+    "PE-00021-2026_-_Servicos_de_Motorista.zip"
+   ]
+  },
+  {
+   "numero_controle": "00509018000113-1-002234/2026",
+   "orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+   "unidade": "TRIBUNAL REGIONAL ELEITORAL DO ESPIRITO SANTO",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de limpeza e conservação com fornecimento de materiais de limpeza, para os Cartórios Eleitorais da Região Centro-Oeste e Sul do Estado do Espírito Santo.",
+   "valor_estimado": 69812.28,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-24T04:06:50",
+   "data_abertura_proposta": "2026-09-24T12:00:00",
+   "data_encerramento_proposta": "2026-10-09T13:00:00",
+   "link": "https://pncp.gov.br/app/editais/00509018000113/2026/2234",
+   "score": 80,
+   "arquivos_baixados": [
+    "DFD_29.pdf",
+    "ETP_29.pdf",
+    "Pregao_Eletronico_90029-2026_Limpeza__-3756-37.2026.zip",
+    "TR_29.pdf"
+   ]
+  },
+  {
+   "numero_controle": "00509018000113-1-002237/2026",
+   "orgao": "TRIBUNAL SUPERIOR ELEITORAL",
+   "unidade": "TRIBUNAL REGIONAL ELEITORAL DE PERNAMBUCO",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços continuados de manutenção predial preventiva e corretiva e execução de serviços eventuais de reparação e adequação nos imóveis e equipamentos da Justiça Eleitoral localizados no Recife, na Região Metropolitana e nas Zonas da Mata Norte e Sul do Estado de Pernambuco - Abrangência: Polos 1, 2, 3, 4, 14, 15, e 16 (Lote 1), incluindo alocação de mão de obra com dedicação exclusiva, fornecimento de materiais, ferramentas e equipamentos necessários à prestação dos serviços. \n",
+   "valor_estimado": 3074314.33,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-24T04:12:21",
+   "data_abertura_proposta": "2026-09-24T08:00:00",
+   "data_encerramento_proposta": "2026-10-14T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00509018000113/2026/2237",
+   "score": 90,
+   "arquivos_baixados": [
+    "ANEXOS_-_V.VI.VII_-_2027.zip",
+    "TRE-PE_edital_do_Pregao_eletronico_n_070010-112-2026__90048-2026_-manutencao-predial_compressed.pdf"
+   ]
+  },
+  {
+   "numero_controle": "01612509000158-1-000188/2026",
+   "orgao": "MUNICIPIO DE SARZEDO",
+   "unidade": "Unidade Única",
+   "municipio": "Sarzedo",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA EXECUÇÃO DE REFORMA DO PRÉDIO DO ANTIGO HOSPITAL FRANKI LANDI E AMPLIAÇÃO DE ÁREA DESTINADA A IMPLANTAÇÃO DA CENTRAL DE ABASTECIMENTO FARMACÊUTICO (CAF), COM FORNECIMENTO DE MATERIAIS, EQUIPAMENTOS E MAO DE OBRA",
+   "valor_estimado": 2050088.8,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-23T10:06:40",
+   "data_abertura_proposta": "2026-09-23T11:00:00",
+   "data_encerramento_proposta": "2026-10-30T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/01612509000158/2026/188",
+   "score": 75,
+   "arquivos_baixados": [
+    "Edital_Concorrencia_11_2026.pdf",
+    "LINK_DOCUMENTOS.docx"
    ]
   }
  ],
