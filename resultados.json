@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-09-23T21:28:11",
- "data": "2026-09-23",
+ "gerado_em": "2026-09-24T12:03:57",
+ "data": "2026-09-24",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
   {
@@ -76,6 +76,21 @@
    "data_abertura_proposta": "2026-09-21T08:00:00",
    "data_encerramento_proposta": "2026-10-05T09:00:00",
    "link": "https://pncp.gov.br/app/editais/00059311000126/2026/341",
+   "score": 100
+  },
+  {
+   "numero_controle": "26474056000171-1-000252/2026",
+   "orgao": "INSTITUTO DO PATRIMONIO HISTORICO E ARTISTICO NACIONAL",
+   "unidade": "21A SUPERINTENDENCIA REGIONAL - ES",
+   "municipio": "Vitória",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação empresa especializada na prestação de serviços continuados de motorista, a serem executados com regime de dedicação exclusiva de mão de obra, no âmbito da Superintendência do Instituto do Patrimônio Histórico e Artístico Nacional - Iphan/ES.",
+   "valor_estimado": 127821.72,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-24T04:11:39",
+   "data_abertura_proposta": "2026-09-24T09:00:00",
+   "data_encerramento_proposta": "2026-10-09T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/26474056000171/2026/252",
    "score": 100
   },
   {
@@ -214,30 +229,7 @@
    "score": 51
   }
  ],
- "mudancas_hoje": [
-  {
-   "numero_controle": "27142025000186-1-000055/2026",
-   "campo": "situacao",
-   "valor_anterior": "Divulgada no PNCP",
-   "valor_novo": "Suspensa",
-   "detectado_em": "2026-09-23T16:23:36",
-   "processo": {
-    "numero_controle": "27142025000186-1-000055/2026",
-    "orgao": "SECRETARIA DE ESTADO DA SEGURANCA PUBLICA E DEFESA SOCIAL",
-    "unidade": "SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA E DEFESA SOCIAL",
-    "municipio": "Vitória",
-    "modalidade": "Pregão - Eletrônico",
-    "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção",
-    "valor_estimado": 743962.8,
-    "situacao": "Suspensa",
-    "data_publicacao": "2026-09-04T15:12:46",
-    "data_abertura_proposta": "2026-09-10T09:00:00",
-    "data_encerramento_proposta": "2026-09-28T09:30:00",
-    "link": "https://pncp.gov.br/app/editais/27142025000186/2026/55",
-    "score": 75
-   }
-  }
- ],
+ "mudancas_hoje": [],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -1068,7 +1060,9 @@
    "data_encerramento_proposta": "2026-09-30T08:59:00",
    "link": "https://pncp.gov.br/app/editais/08715618000140/2026/104",
    "score": 84,
-   "arquivos_baixados": []
+   "arquivos_baixados": [
+    "EDITAL.pdf"
+   ]
   },
   {
    "numero_controle": "09283185000163-1-000049/2026",
@@ -1347,21 +1341,6 @@
  ],
  "prazos_proximos": [
   {
-   "numero_controle": "15126437000305-1-003530/2026",
-   "orgao": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
-   "unidade": "HOSPITAL UNIVERSITÁRIO LAURO WANDERLEY",
-   "municipio": "João Pessoa",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS CONTINUADOS DE BOMBEIRO PROFISSIONAL CIVIL COM DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA",
-   "valor_estimado": 0.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-02T04:00:16",
-   "data_abertura_proposta": "2026-09-02T08:00:00",
-   "data_encerramento_proposta": "2026-09-24T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/15126437000305/2026/3530",
-   "score": 54
-  },
-  {
    "numero_controle": "27174085000180-1-000107/2026",
    "orgao": "MUNICIPIO DE PINHEIROS",
    "unidade": "Fundo Municipal de Saúde",
@@ -1450,6 +1429,66 @@
    "data_encerramento_proposta": "2026-09-28T09:30:00",
    "link": "https://pncp.gov.br/app/editais/27142025000186/2026/55",
    "score": 75
+  },
+  {
+   "numero_controle": "10838653000106-1-000485/2026",
+   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
+   "unidade": "IFES - CAMPUS SãO MATEUS",
+   "municipio": "São Mateus",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada na prestação de serviços de vigilância patrimonial armada para atender as necessidades do Ifes, campus São Mateus.\n",
+   "valor_estimado": 529519.2,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-08T04:00:07",
+   "data_abertura_proposta": "2026-09-08T09:00:00",
+   "data_encerramento_proposta": "2026-09-29T08:00:00",
+   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/485",
+   "score": 75
+  },
+  {
+   "numero_controle": "27165620000137-1-000085/2026",
+   "orgao": "MUNICIPIO DE ATILIO VIVACQUA",
+   "unidade": "PREFEITURA MUNICIPAL DE ATÍLIO VIVÁCQUA",
+   "municipio": "Atílio Vivácqua",
+   "modalidade": "Concorrência - Eletrônica",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A AMPLIAÇÃO E REFORMA DA ESCOLA MUNICIPAL DE EDUCAÇÃO BÁSICA – EMEB “ZULMIRA VENTURY BAPTISTA”, SITUADA NA RUA SANTO CANSIAN, S/N, BAIRRO ALTO NITERÓI, ATÍLIO VIVÁCQUA/ES, COM FORNECIMENTO DE MATERIAIS, MÃO DE OBRA, EQUIPAMENTOS E DEMAIS RECURSOS NECESSÁRIOS À EXECUÇÃO DOS SERVIÇOS",
+   "valor_estimado": 1583544.48,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-16T08:30:30",
+   "data_abertura_proposta": "2026-09-15T08:00:00",
+   "data_encerramento_proposta": "2026-09-29T08:09:00",
+   "link": "https://pncp.gov.br/app/editais/27165620000137/2026/85",
+   "score": 75
+  },
+  {
+   "numero_controle": "12888517000148-1-000014/2026",
+   "orgao": "MUNICIPIO DE XEXEU",
+   "unidade": "PREFEITURA MUNICIPAL DE XEXÉU",
+   "municipio": "Xexéu",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA E REGULARMENTE CONSTITUÍDA, PARA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE ESTRUTURAS, EQUIPAMENTOS, MOBILIÁRIOS E SERVIÇOS DE APOIO, INCLUINDO TRANSPORTE, MONTAGEM E DESMONTAGEM DOS ITENS NECESSÁRIOS À REALIZAÇÃO DOS EVENTOS INSTITUCIONAIS PROMOVIDOS PELA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E ORÇAMENTO PARTICIPATIVO; SECRETARIA MUNICIPAL DE ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL; SECRETARIA MUNICIPAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA; E SECRETARIA DE SAÚDE...",
+   "valor_estimado": 1290337.08,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-14T12:45:50",
+   "data_abertura_proposta": "2026-09-15T11:00:00",
+   "data_encerramento_proposta": "2026-09-29T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/12888517000148/2026/14",
+   "score": 69
+  },
+  {
+   "numero_controle": "00394460000141-1-000650/2026",
+   "orgao": "MINISTERIO DA FAZENDA",
+   "unidade": "SUP.REGIONAL RECEITA FEDERAL 4A.RF/PE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de empresa especializada para prestação de serviços continuados de limpeza e conservação, sob o regime de dedicação exclusiva de mão de obra DEMO. Os serviços destinam-se ao atendimento das unidades da Secretaria Especial da Receita Federal do Brasil situadas nos Estados da Paraíba, Pernambuco e Alagoas. ",
+   "valor_estimado": 22196264.4,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-15T04:00:15",
+   "data_abertura_proposta": "2026-09-15T08:00:00",
+   "data_encerramento_proposta": "2026-09-29T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394460000141/2026/650",
+   "score": 94
   }
  ]
 }
