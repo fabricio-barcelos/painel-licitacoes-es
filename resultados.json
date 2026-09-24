@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-24T16:54:45",
+ "gerado_em": "2026-09-24T19:14:47",
  "data": "2026-09-24",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -1435,6 +1435,25 @@
    "arquivos_baixados": [
     "Edital_Concorrencia_11_2026.pdf",
     "LINK_DOCUMENTOS.docx"
+   ]
+  },
+  {
+   "numero_controle": "27174085000180-1-000112/2026",
+   "orgao": "MUNICIPIO DE PINHEIROS",
+   "unidade": "Prefeitura Municipal de Pinheiros",
+   "municipio": "Pinheiros",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "[Portal de Compras Públicas] - contratação de empresa especializada na terceirização de atividades meio, por meio do fornecimento de mão de obra de apoio \nadministrativo, operacional e técnico, conforme cargos e funções descritos neste documento,  afim de atender demandas da Prefeitura Municipal de Pinheiros ES, Secretaria Municipal de Educação de Pinheiros ES, e Fundo Municipal de Saúde.",
+   "valor_estimado": 9967774.32,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-23T17:42:58",
+   "data_abertura_proposta": "2026-09-23T18:00:00",
+   "data_encerramento_proposta": "2026-10-08T07:30:00",
+   "link": "https://pncp.gov.br/app/editais/27174085000180/2026/112",
+   "score": 90,
+   "arquivos_baixados": [
+    "Edital_Completo_-_Terceiriza__o.pdf",
+    "TERMO_DE_REFER_NCIA_-_TERCERIZA__O.pdf"
    ]
   }
  ],
