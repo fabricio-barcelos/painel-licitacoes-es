@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-23T19:18:15",
+ "gerado_em": "2026-09-23T21:28:11",
  "data": "2026-09-23",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -61,6 +61,21 @@
    "data_abertura_proposta": "2026-09-21T17:40:00",
    "data_encerramento_proposta": "2026-10-07T09:00:00",
    "link": "https://pncp.gov.br/app/editais/09283185000163/2026/49",
+   "score": 100
+  },
+  {
+   "numero_controle": "00059311000126-1-000341/2026",
+   "orgao": "FUNDACAO NACIONAL DO INDIO",
+   "unidade": "COORDENAÇÃO REGIONAL DE SUPORTE RECIFE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços contínuos de apoio administrativo e motorista, a fim de suprir às necessidades das Coordenações Regionais atendidas por esta Unidade de Suporte",
+   "valor_estimado": 1222409.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T04:11:03",
+   "data_abertura_proposta": "2026-09-21T08:00:00",
+   "data_encerramento_proposta": "2026-10-05T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/00059311000126/2026/341",
    "score": 100
   },
   {
@@ -182,6 +197,21 @@
    "data_encerramento_proposta": "2026-10-08T08:50:00",
    "link": "https://pncp.gov.br/app/editais/27080605001753/2026/149",
    "score": 66
+  },
+  {
+   "numero_controle": "00394544000185-1-002030/2026",
+   "orgao": "MINISTERIO DA SAUDE",
+   "unidade": "EMP. BRAS. DE HEMODERIVADOS E BIOTECNOLOGIA",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação de serviços continuados de gestão e execução do plano de calibrações da Hemobrás, incluindo alocação de mão de obra dedicada e serviços sob demanda relacionados à metrologia e instrumentação na unidade fabril da Hemobrás em Goiana/PE, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
+   "valor_estimado": 0.0,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-21T12:03:31",
+   "data_abertura_proposta": "2026-09-23T08:00:00",
+   "data_encerramento_proposta": "2026-10-27T10:00:00",
+   "link": "https://pncp.gov.br/app/editais/00394544000185/2026/2030",
+   "score": 51
   }
  ],
  "mudancas_hoje": [
@@ -827,8 +857,13 @@
    "data_abertura_proposta": "2026-09-21T08:00:00",
    "data_encerramento_proposta": "2026-10-05T09:00:00",
    "link": "https://pncp.gov.br/app/editais/00059311000126/2026/341",
-   "score": null,
-   "arquivos_baixados": []
+   "score": 100,
+   "arquivos_baixados": [
+    "IMR_-_Contratacao_de_Servico_de_Apoio_Administrativo_-_SBA_-_CEPRIN.pdf",
+    "SEI_FUNAI_-_10781635_-_Anexos_e_Apendices_da_Contratacao_n_194078_-_00007.2026.zip",
+    "SEI_FUNAI_-_10781710_-_Edital_-_Pregao_Eletronico_n_194078_-_00007.2026.pdf",
+    "SEI_FUNAI_-_110677040_-_Mapa_de_Riscos.pdf"
+   ]
   },
   {
    "numero_controle": "00394460000141-1-000650/2026",
@@ -887,8 +922,10 @@
    "data_abertura_proposta": "2026-09-23T08:00:00",
    "data_encerramento_proposta": "2026-10-27T10:00:00",
    "link": "https://pncp.gov.br/app/editais/00394544000185/2026/2030",
-   "score": null,
-   "arquivos_baixados": []
+   "score": 51,
+   "arquivos_baixados": [
+    "1_EDITAL_SERV_GESTAO_CALIBRACAO_METROLOGIA.zip"
+   ]
   },
   {
    "numero_controle": "01612470000179-1-000118/2026",
@@ -1030,7 +1067,7 @@
    "data_abertura_proposta": "2026-09-15T09:00:00",
    "data_encerramento_proposta": "2026-09-30T08:59:00",
    "link": "https://pncp.gov.br/app/editais/08715618000140/2026/104",
-   "score": null,
+   "score": 84,
    "arquivos_baixados": []
   },
   {
