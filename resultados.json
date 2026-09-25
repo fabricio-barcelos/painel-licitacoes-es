@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25T12:14:48",
+ "gerado_em": "2026-09-25T14:46:04",
  "data": "2026-09-25",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -1368,21 +1368,6 @@
   }
  ],
  "prazos_proximos": [
-  {
-   "numero_controle": "02304470000174-1-000136/2026",
-   "orgao": "MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO",
-   "unidade": "MINISTÉRIO PÚBLICO DO ESPÍRITO SANTO",
-   "municipio": "Vila Velha",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Sistema de Registro de Preços para contratação de empresa especializada para fornecimento e instalação de persianas, incluindo materiais, acessórios e mão de obra necessária à execução dos serviços, para atendimento das demandas das unidades do Ministério Público do Estado do Espírito Santo – MPES.",
-   "valor_estimado": 174746.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-09-14T12:18:27",
-   "data_abertura_proposta": "2026-09-14T12:30:00",
-   "data_encerramento_proposta": "2026-09-25T14:00:00",
-   "link": "https://pncp.gov.br/app/editais/02304470000174/2026/136",
-   "score": 75
-  },
   {
    "numero_controle": "14946241000132-1-000018/2026",
    "orgao": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE ALEGRE",
