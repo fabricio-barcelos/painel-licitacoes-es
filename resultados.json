@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25T14:46:04",
+ "gerado_em": "2026-09-25T16:57:41",
  "data": "2026-09-25",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -166,6 +166,21 @@
    "data_abertura_proposta": "2026-09-23T11:00:00",
    "data_encerramento_proposta": "2026-10-30T09:00:00",
    "link": "https://pncp.gov.br/app/editais/01612509000158/2026/188",
+   "score": 75
+  },
+  {
+   "numero_controle": "09829524000164-1-000046/2026",
+   "orgao": "SERVIÇO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS DO ESTADO DE PERNAMBUCO-SEBRAE/PE",
+   "unidade": "SERVIÇO APOIO A MICROS E PEQUENAS EMPRESAS-PE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Seleção e disponibilização de mão de obra temporária de trabalhadores, devidamente qualificados, com a finalidade de suprir as necessidades transitórias de substituição de pessoal permanente, ou em decorrência de acréscimo extraordinário de serviços, obedecendo ao perfil do cargo e remuneração definidos pelo SEBRAE-PE, em conformidade com a Lei nº 6.019/74 e suas alterações.",
+   "valor_estimado": 5526869.76,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-25T09:49:00",
+   "data_abertura_proposta": "2026-09-25T12:00:00",
+   "data_encerramento_proposta": "2026-10-09T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/09829524000164/2026/46",
    "score": 75
   },
   {
@@ -367,24 +382,6 @@
    ]
   },
   {
-   "numero_controle": "03008926000111-1-000016/2026",
-   "orgao": "CONSORCIO PUBLICO DA REGIAO NORTE DO ESPIRITO SANTO",
-   "unidade": "Consórcio Público da Região Norte do Espírito Santo - CIM NORTE",
-   "municipio": "Nova Venécia",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "[Portal de Compras Públicas] - Contratação de empresa especializada na prestação de serviços contínuos com dedicação exclusiva de mão de obra, destinada à disponibilização de profissionais qualificados para atuação no Serviço de Atendimento Móvel de Urgência  SAMU 192 Regional, administrado pelo Consórcio Público da Região Norte do Espírito Santo  CIM NORTE/ES, compreendendo o fornecimento de mão de obra para os cargos de Condutor Socorrista (Condutor de Veículo de Emergência), Técnico de Enfermagem e Enfermeiro.",
-   "valor_estimado": 18519750.05,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-07-30T06:52:09",
-   "data_abertura_proposta": "2026-07-30T08:00:00",
-   "data_encerramento_proposta": "2026-08-20T08:59:00",
-   "link": "https://pncp.gov.br/app/editais/03008926000111/2026/16",
-   "score": 100,
-   "arquivos_baixados": [
-    "EDITAL_PREG_O_008_2026_MAO_DE_OBRA_SAMU__assinado29.07.26_.pdf"
-   ]
-  },
-  {
    "numero_controle": "28483014000122-1-000061/2026",
    "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
    "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
@@ -440,25 +437,6 @@
    "score": 41,
    "arquivos_baixados": [
     "EDITAL_COMPRA_DIRETA_assinado.pdf"
-   ]
-  },
-  {
-   "numero_controle": "10838653000106-1-000409/2026",
-   "orgao": "INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO ESPIRITO SANTO",
-   "unidade": "IFES - CAMPUS SERRA",
-   "municipio": "Serra",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a contratação da gestão integrada de serviços prediais na modalidade 'facilities', contemplando todos os serviços de limpeza, conservação e recepção, sendo que esses serviços serão prestados de forma contínua, com o emprego de mão de obra em regime de dedicação exclusiva. A contratação ainda inclui o controle de pragas, a capinagem, jardinagem, a limpeza de esquadrias, janelas e fachadas externas, limpeza de reservatórios de água, análise de água dos reservatórios, revitalização de piso de granilite, despachante, locação de caçamba. Também se inclui no escopo da contratação o gerenciamento de todos os serviços contemplados pelo contrato, incluindo todos os insumos, o fornecimento de ferramental, uniformes, EPIs, e equipamentos necessários à execução dos serviços, conforme as condições, quantidades e exigências estabelecidas neste Edital e seus anexos. conforme condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
-   "valor_estimado": 3095390.24,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-06T04:00:14",
-   "data_abertura_proposta": "2026-08-06T08:00:00",
-   "data_encerramento_proposta": "2026-08-24T09:00:00",
-   "link": "https://pncp.gov.br/app/editais/10838653000106/2026/409",
-   "score": 100,
-   "arquivos_baixados": [
-    "11_2024.pdf",
-    "Edital_402026_-_Facilities.zip"
    ]
   },
   {
@@ -533,25 +511,6 @@
    "arquivos_baixados": [
     "EDITAL2026138.pdf",
     "TERMO_DE_REFERENCIA.pdf"
-   ]
-  },
-  {
-   "numero_controle": "28483014000122-1-000070/2026",
-   "orgao": "TRIBUNAL DE CONTAS DO ESTADO DO ESPIRITO SANTO",
-   "unidade": "TRIBUNAL DE CONTAS DO EST. DO ESPIRITO SANTO",
-   "municipio": "Vitória",
-   "modalidade": "Pregão - Eletrônico",
-   "objeto": "Contratação de empresa especializada na prestação de serviços continuados de recepção, a serem executados nas dependências do Tribunal de Contas do Estado do Espírito Santo – TCEES, conforme condições, quantidades e exigências estabelecidas no Termo de Referência.",
-   "valor_estimado": 963576.0,
-   "situacao": "Divulgada no PNCP",
-   "data_publicacao": "2026-08-25T14:07:55",
-   "data_abertura_proposta": "2026-08-26T08:00:00",
-   "data_encerramento_proposta": "2026-09-11T10:00:00",
-   "link": "https://pncp.gov.br/app/editais/28483014000122/2026/70",
-   "score": 75,
-   "arquivos_baixados": [
-    "Despacho_26777-2026.pdf",
-    "Instrumento_Convocatorio_00009-2026.pdf"
    ]
   },
   {
@@ -1365,6 +1324,47 @@
     "Edital_Completo_-_Terceiriza__o.pdf",
     "TERMO_DE_REFER_NCIA_-_TERCERIZA__O.pdf"
    ]
+  },
+  {
+   "numero_controle": "23456650000141-1-000056/2026",
+   "orgao": "MUNICIPIO DE PEDRO LEOPOLDO",
+   "unidade": "Divisão de Administração Escolar",
+   "municipio": "Pedro Leopoldo",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação é a prestação de serviços gerais de manutenção predial preventiva, corretiva e de adequação em prédios públicos próprios e locados vinculados às Secretarias Municipal de Educação, Saúde e Des. Social de Pedro Leopoldo/MG, compreendendo unidades escolares, unidades de saúde, CRAS norte e sul, sedes administrativas e almoxarifados, com fornecimento integrado de materiais, peças, equipamentos e mão de obra especializada, por meio de Pregão Eletrônico ",
+   "valor_estimado": 8228550.92,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-08T15:03:56",
+   "data_abertura_proposta": "2026-09-09T18:00:00",
+   "data_encerramento_proposta": "2026-09-30T13:00:00",
+   "link": "https://pncp.gov.br/app/editais/23456650000141/2026/56",
+   "score": 69,
+   "arquivos_baixados": [
+    "DESP_SANEANTE_-_PE_024-2026.pdf",
+    "Despacho_Agente_Contratacao-Pregoeiro.pdf",
+    "Edital_-_PE_024-2026.pdf"
+   ]
+  },
+  {
+   "numero_controle": "09829524000164-1-000046/2026",
+   "orgao": "SERVIÇO DE APOIO ÀS MICRO E PEQUENAS EMPRESAS DO ESTADO DE PERNAMBUCO-SEBRAE/PE",
+   "unidade": "SERVIÇO APOIO A MICROS E PEQUENAS EMPRESAS-PE",
+   "municipio": "Recife",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Seleção e disponibilização de mão de obra temporária de trabalhadores, devidamente qualificados, com a finalidade de suprir as necessidades transitórias de substituição de pessoal permanente, ou em decorrência de acréscimo extraordinário de serviços, obedecendo ao perfil do cargo e remuneração definidos pelo SEBRAE-PE, em conformidade com a Lei nº 6.019/74 e suas alterações.",
+   "valor_estimado": 5526869.76,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-25T09:49:00",
+   "data_abertura_proposta": "2026-09-25T12:00:00",
+   "data_encerramento_proposta": "2026-10-09T09:00:00",
+   "link": "https://pncp.gov.br/app/editais/09829524000164/2026/46",
+   "score": 75,
+   "arquivos_baixados": [
+    "ANEXO_III_-_DECLARACAO_DE_VERACIDADE__4_.docx",
+    "ANEXO_II_-_MINUTA_DO_CONTRATO__3_.pdf",
+    "EDITAL_-_Pregao_Eletronico_014.26_-_Mao_de_obra_temporaria_2026.pdf",
+    "TERMO_DE_REFERENCIA_-_MAO_DE_OBRA_TEMPORARIA.zip"
+   ]
   }
  ],
  "prazos_proximos": [
@@ -1502,6 +1502,21 @@
    "data_encerramento_proposta": "2026-09-30T09:59:00",
    "link": "https://pncp.gov.br/app/editais/01612470000179/2026/118",
    "score": 45
+  },
+  {
+   "numero_controle": "23456650000141-1-000056/2026",
+   "orgao": "MUNICIPIO DE PEDRO LEOPOLDO",
+   "unidade": "Divisão de Administração Escolar",
+   "municipio": "Pedro Leopoldo",
+   "modalidade": "Pregão - Eletrônico",
+   "objeto": "Contratação é a prestação de serviços gerais de manutenção predial preventiva, corretiva e de adequação em prédios públicos próprios e locados vinculados às Secretarias Municipal de Educação, Saúde e Des. Social de Pedro Leopoldo/MG, compreendendo unidades escolares, unidades de saúde, CRAS norte e sul, sedes administrativas e almoxarifados, com fornecimento integrado de materiais, peças, equipamentos e mão de obra especializada, por meio de Pregão Eletrônico ",
+   "valor_estimado": 8228550.92,
+   "situacao": "Divulgada no PNCP",
+   "data_publicacao": "2026-09-08T15:03:56",
+   "data_abertura_proposta": "2026-09-09T18:00:00",
+   "data_encerramento_proposta": "2026-09-30T13:00:00",
+   "link": "https://pncp.gov.br/app/editais/23456650000141/2026/56",
+   "score": 69
   }
  ]
 }
