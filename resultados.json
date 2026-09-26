@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-25T19:14:22",
+ "gerado_em": "2026-09-25T21:29:02",
  "data": "2026-09-25",
  "janela_publicacoes_dias": 3,
  "publicacoes_recentes": [
@@ -199,7 +199,30 @@
    "score": 66
   }
  ],
- "mudancas_hoje": [],
+ "mudancas_hoje": [
+  {
+   "numero_controle": "05055128000176-1-000088/2026",
+   "campo": "situacao",
+   "valor_anterior": "Divulgada no PNCP",
+   "valor_novo": "Suspensa",
+   "detectado_em": "2026-09-25T21:18:31",
+   "processo": {
+    "numero_controle": "05055128000176-1-000088/2026",
+    "orgao": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+    "unidade": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE PB",
+    "municipio": "Campina Grande",
+    "modalidade": "Pregão - Eletrônico",
+    "objeto": "Contratação de serviços contínuos de limpeza e conservação para Centro de Formação de Professores, a serem executados com regime de dedicação exclusiva de mão de obra.",
+    "valor_estimado": 2009911.56,
+    "situacao": "Suspensa",
+    "data_publicacao": "2026-08-11T04:00:03",
+    "data_abertura_proposta": "2026-09-14T08:00:00",
+    "data_encerramento_proposta": "2026-09-28T09:00:00",
+    "link": "https://pncp.gov.br/app/editais/05055128000176/2026/88",
+    "score": 94
+   }
+  }
+ ],
  "watchlist": [
   {
    "numero_controle": "53882509000171-1-000004/2026",
@@ -926,7 +949,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "Contratação de serviços contínuos de limpeza e conservação para Centro de Formação de Professores, a serem executados com regime de dedicação exclusiva de mão de obra.",
    "valor_estimado": 2009911.56,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-08-11T04:00:03",
    "data_abertura_proposta": "2026-09-14T08:00:00",
    "data_encerramento_proposta": "2026-09-28T09:00:00",
@@ -1391,7 +1414,7 @@
    "modalidade": "Pregão - Eletrônico",
    "objeto": "Contratação de serviços contínuos de limpeza e conservação para Centro de Formação de Professores, a serem executados com regime de dedicação exclusiva de mão de obra.",
    "valor_estimado": 2009911.56,
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Suspensa",
    "data_publicacao": "2026-08-11T04:00:03",
    "data_abertura_proposta": "2026-09-14T08:00:00",
    "data_encerramento_proposta": "2026-09-28T09:00:00",
